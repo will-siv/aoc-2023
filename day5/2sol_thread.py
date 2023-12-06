@@ -35,7 +35,6 @@ for seed in seedsin:
 mins = []
 # calculates smallest num for a range of seeds
 def numCalc(r):
-  print(f"starting calcs from {r.start} to {r.stop}")`
   minNum = ''
   for num in r:
     print(num)
@@ -62,9 +61,18 @@ def numCalc(r):
       with result {minNum}")
   mins.append(minNum)
 
-for i, rs in seedRanges:
+threads = []
+
+for i, rs in enumerate(seedRanges):
   r = range(rs[0], rs[0] + rs[1])
-  numCalc(r)
+  name = f"t{i}"
+  threads.append(threading.Thread(target=numCalc, args=(r,), name=name))
+
+for t in threads:
+  t.start()
+
+for t in threads:
+  t.join()
 
 print("Done! Below if not printed")
 print(min(mins))
