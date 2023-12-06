@@ -35,7 +35,7 @@ for seed in seedsin:
 mins = []
 # calculates smallest num for a range of seeds
 def numCalc(r):
-  print(f"starting calcs from {r.start} to {r.stop}")`
+  print(f"starting calcs from {r.start} to {r.stop}")
   minNum = ''
   for num in r:
     print(num)
