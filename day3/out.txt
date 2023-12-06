@@ -5,73 +5,55 @@ added 0 to array: [9, 0]
 added 4 to array: [9, 0, 4]
 added 8 to array: [8]
 added 5 to array: [8, 5]
-% [1, 41] makes isPart True
+[1, 41] (%) makes isPart True
 added 0 to array: [8, 5, 0]
-% [1, 41] makes isPart True
 adding 850
-
 
 added 3 to array: [3]
 added 2 to array: [3, 2]
 added 9 to array: [3, 2, 9]
-* [1, 62] makes isPart True
+[1, 62] (*) makes isPart True
 adding 329
 
-
 added 1 to array: [1]
-& [1, 82] makes isPart True
+[1, 82] (&) makes isPart True
 added 3 to array: [1, 3]
-& [1, 82] makes isPart True
 adding 13
 
-
 added 8 to array: [8]
-* [1, 120] makes isPart True
+[1, 120] (*) makes isPart True
 added 7 to array: [8, 7]
-* [1, 120] makes isPart True
 added 1 to array: [8, 7, 1]
-* [1, 120] makes isPart True
 adding 871
 
-
 added 8 to array: [8]
-& [1, 127] makes isPart True
+[1, 127] (&) makes isPart True
 added 1 to array: [8, 1]
-& [1, 127] makes isPart True
 added 6 to array: [8, 1, 6]
-& [1, 127] makes isPart True
 adding 816
 
-
 added 6 to array: [6]
-* [1, 132] makes isPart True
+[1, 132] (*) makes isPart True
 added 9 to array: [6, 9]
 added 7 to array: [6, 9, 7]
 adding 697
 
-
 added 5 to array: [5]
-* [2, 10] makes isPart True
+[2, 10] (*) makes isPart True
 added 3 to array: [5, 3]
 adding 53
 
-
 added 4 to array: [4]
-$ [2, 15] makes isPart True
+[2, 15] ($) makes isPart True
 added 9 to array: [4, 9]
-$ [2, 15] makes isPart True
 added 7 to array: [4, 9, 7]
-$ [2, 15] makes isPart True
 adding 497
-
 
 added 9 to array: [9]
 added 0 to array: [9, 0]
-* [2, 48] makes isPart True
+[2, 48] (*) makes isPart True
 added 6 to array: [9, 0, 6]
-* [2, 48] makes isPart True
 adding 906
-
 
 added 6 to array: [6]
 added 1 to array: [6, 1]
@@ -79,66 +61,51 @@ added 0 to array: [6, 1, 0]
 added 7 to array: [7]
 added 3 to array: [7, 3]
 added 5 to array: [7, 3, 5]
-# [1, 79] makes isPart True
+[1, 79] (#) makes isPart True
 adding 735
-
 
 added 5 to array: [5]
 added 5 to array: [5, 5]
 added 8 to array: [5, 5, 8]
 added 6 to array: [6]
-* [2, 100] makes isPart True
+[2, 100] (*) makes isPart True
 added 8 to array: [6, 8]
-* [2, 100] makes isPart True
 adding 68
-
 
 added 6 to array: [6]
-* [2, 116] makes isPart True
+[2, 116] (*) makes isPart True
 added 8 to array: [6, 8]
-* [2, 116] makes isPart True
 adding 68
-
 
 added 1 to array: [1]
 added 3 to array: [1, 3]
-* [3, 38] makes isPart True
+[3, 38] (*) makes isPart True
 added 2 to array: [1, 3, 2]
-* [3, 38] makes isPart True
 adding 132
-
 
 added 8 to array: [8]
 added 4 to array: [8, 4]
 added 4 to array: [8, 4, 4]
-* [1, 62] makes isPart True
+[1, 62] (*) makes isPart True
 adding 844
-
 
 added 8 to array: [8]
 added 7 to array: [8, 7]
 added 5 to array: [8, 7, 5]
-* [3, 69] makes isPart True
+[3, 69] (*) makes isPart True
 adding 875
 
-
 added 3 to array: [3]
-* [1, 86] makes isPart True
+[1, 86] (*) makes isPart True
 added 5 to array: [3, 5]
-* [1, 86] makes isPart True
 added 0 to array: [3, 5, 0]
-* [1, 86] makes isPart True
 adding 350
 
-
 added 3 to array: [3]
-* [1, 120] makes isPart True
+[1, 120] (*) makes isPart True
 added 3 to array: [3, 3]
-* [1, 120] makes isPart True
 added 6 to array: [3, 3, 6]
-* [1, 120] makes isPart True
 adding 336
-
 
 added 3 to array: [3]
 added 6 to array: [3, 6]
@@ -146,82 +113,64 @@ added 4 to array: [3, 6, 4]
 added 6 to array: [6]
 added 4 to array: [6, 4]
 added 9 to array: [6, 4, 9]
-* [1, 132] makes isPart True
+[1, 132] (*) makes isPart True
 adding 649
-
 
 added 7 to array: [7]
 added 2 to array: [7, 2]
 added 6 to array: [7, 2, 6]
-* [2, 10] makes isPart True
+[2, 10] (*) makes isPart True
 adding 726
 
-
 added 3 to array: [3]
-* [4, 17] makes isPart True
+[4, 17] (*) makes isPart True
 added 4 to array: [3, 4]
-* [4, 17] makes isPart True
 added 1 to array: [3, 4, 1]
 adding 341
-
 
 added 1 to array: [1]
 added 8 to array: [1, 8]
 added 6 to array: [1, 8, 6]
 added 3 to array: [3]
-* [2, 48] makes isPart True
+[2, 48] (*) makes isPart True
 added 5 to array: [3, 5]
-* [2, 48] makes isPart True
 added 8 to array: [3, 5, 8]
 adding 358
 
-
 added 2 to array: [2]
-* [3, 69] makes isPart True
+[3, 69] (*) makes isPart True
 added 4 to array: [2, 4]
 added 4 to array: [2, 4, 4]
 adding 244
 
-
 added 5 to array: [5]
-* [4, 80] makes isPart True
+[4, 80] (*) makes isPart True
 added 7 to array: [5, 7]
 adding 57
 
-
 added 7 to array: [7]
-* [2, 100] makes isPart True
+[2, 100] (*) makes isPart True
 added 3 to array: [7, 3]
-* [2, 100] makes isPart True
 added 8 to array: [7, 3, 8]
 adding 738
 
-
 added 6 to array: [6]
-* [2, 116] makes isPart True
+[2, 116] (*) makes isPart True
 added 6 to array: [6, 6]
-* [2, 116] makes isPart True
 added 3 to array: [6, 6, 3]
-* [2, 116] makes isPart True
 adding 663
 
-
 added 5 to array: [5]
-* [4, 136] makes isPart True
+[4, 136] (*) makes isPart True
 added 8 to array: [5, 8]
-* [4, 136] makes isPart True
 added 4 to array: [5, 8, 4]
-* [4, 136] makes isPart True
 adding 584
 
-
 added 9 to array: [9]
-* [5, 13] makes isPart True
+[5, 13] (*) makes isPart True
 added 5 to array: [9, 5]
-* [5, 13] makes isPart True
 added 2 to array: [9, 5, 2]
 adding 952
-
 
 added 3 to array: [3]
 added 3 to array: [3, 3]
@@ -229,71 +178,55 @@ added 6 to array: [6]
 added 6 to array: [6, 6]
 added 0 to array: [6, 6, 0]
 added 7 to array: [7]
-* [3, 38] makes isPart True
+[3, 38] (*) makes isPart True
 added 0 to array: [7, 0]
-* [3, 38] makes isPart True
 added 4 to array: [7, 0, 4]
-* [3, 38] makes isPart True
 adding 704
 
-
 added 9 to array: [9]
-* [5, 53] makes isPart True
+[5, 53] (*) makes isPart True
 added 4 to array: [9, 4]
-* [5, 53] makes isPart True
 added 9 to array: [9, 4, 9]
-* [5, 53] makes isPart True
 adding 949
-
 
 added 5 to array: [5]
 added 1 to array: [5, 1]
 added 8 to array: [5, 1, 8]
-* [4, 80] makes isPart True
+[4, 80] (*) makes isPart True
 adding 518
-
 
 added 2 to array: [2]
 added 3 to array: [2, 3]
-* [5, 87] makes isPart True
+[5, 87] (*) makes isPart True
 added 4 to array: [2, 3, 4]
-* [5, 87] makes isPart True
 adding 234
 
-
 added 9 to array: [9]
-@ [3, 90] makes isPart True
+[3, 90] (@) makes isPart True
 added 6 to array: [9, 6]
-@ [3, 90] makes isPart True
 added 7 to array: [9, 6, 7]
-@ [3, 90] makes isPart True
 adding 967
-
 
 added 5 to array: [5]
 added 5 to array: [5, 5]
 added 1 to array: [5, 5, 1]
-* [5, 99] makes isPart True
+[5, 99] (*) makes isPart True
 adding 551
-
 
 added 9 to array: [9]
 added 7 to array: [9, 7]
-* [3, 109] makes isPart True
+[3, 109] (*) makes isPart True
 added 1 to array: [9, 7, 1]
-* [3, 109] makes isPart True
 adding 971
-
 
 added 7 to array: [7]
 added 3 to array: [7, 3]
 added 8 to array: [7, 3, 8]
 added 2 to array: [2]
-* [4, 17] makes isPart True
+[4, 17] (*) makes isPart True
 added 2 to array: [2, 2]
 added 2 to array: [2, 2, 2]
 adding 222
-
 
 added 7 to array: [7]
 added 0 to array: [7, 0]
@@ -301,204 +234,162 @@ added 6 to array: [7, 0, 6]
 added 8 to array: [8]
 added 2 to array: [8, 2]
 added 5 to array: [8, 2, 5]
-* [6, 59] makes isPart True
+[6, 59] (*) makes isPart True
 adding 825
-
 
 added 4 to array: [4]
 added 7 to array: [4, 7]
 added 4 to array: [4, 7, 4]
-% [5, 75] makes isPart True
+[5, 75] (%) makes isPart True
 adding 474
 
-
 added 4 to array: [4]
-/ [6, 102] makes isPart True
+[6, 102] (/) makes isPart True
 added 0 to array: [4, 0]
-/ [6, 102] makes isPart True
 added 5 to array: [4, 0, 5]
-/ [6, 102] makes isPart True
 adding 405
 
-
 added 7 to array: [7]
-& [4, 112] makes isPart True
+[4, 112] (&) makes isPart True
 added 7 to array: [7, 7]
 added 9 to array: [7, 7, 9]
 adding 779
 
-
 added 5 to array: [5]
 added 4 to array: [5, 4]
 added 2 to array: [5, 4, 2]
-% [6, 133] makes isPart True
+[6, 133] (%) makes isPart True
 adding 542
 
-
 added 4 to array: [4]
-* [4, 136] makes isPart True
+[4, 136] (*) makes isPart True
 added 0 to array: [4, 0]
-* [4, 136] makes isPart True
 added 5 to array: [4, 0, 5]
 adding 405
 
-
 added 7 to array: [7]
 added 4 to array: [7, 4]
-* [7, 3] makes isPart True
+[7, 3] (*) makes isPart True
 adding 74
 
-
 added 3 to array: [3]
-* [5, 13] makes isPart True
+[5, 13] (*) makes isPart True
 added 6 to array: [3, 6]
-* [5, 13] makes isPart True
 added 6 to array: [3, 6, 6]
-* [5, 13] makes isPart True
 adding 366
-
 
 added 1 to array: [1]
 added 9 to array: [1, 9]
-* [7, 37] makes isPart True
+[7, 37] (*) makes isPart True
 added 2 to array: [1, 9, 2]
-* [7, 37] makes isPart True
 adding 192
 
-
 added 5 to array: [5]
-* [7, 48] makes isPart True
+[7, 48] (*) makes isPart True
 added 4 to array: [5, 4]
-* [7, 48] makes isPart True
 added 2 to array: [5, 4, 2]
 adding 542
 
-
 added 7 to array: [7]
-* [5, 53] makes isPart True
+[5, 53] (*) makes isPart True
 added 3 to array: [7, 3]
-* [5, 53] makes isPart True
 added 7 to array: [7, 3, 7]
-* [5, 53] makes isPart True
 adding 737
 
-
 added 7 to array: [7]
-* [6, 59] makes isPart True
+[6, 59] (*) makes isPart True
 added 6 to array: [7, 6]
 added 0 to array: [7, 6, 0]
 adding 760
 
-
 added 6 to array: [6]
 added 2 to array: [6, 2]
 added 3 to array: [6, 2, 3]
-/ [6, 85] makes isPart True
+[6, 85] (/) makes isPart True
 adding 623
 
-
 added 7 to array: [7]
-* [5, 87] makes isPart True
+[5, 87] (*) makes isPart True
 added 3 to array: [7, 3]
 added 0 to array: [7, 3, 0]
 adding 730
 
-
 added 7 to array: [7]
 added 1 to array: [7, 1]
 added 8 to array: [7, 1, 8]
-* [5, 99] makes isPart True
+[5, 99] (*) makes isPart True
 adding 718
 
-
 added 1 to array: [1]
-$ [6, 124] makes isPart True
+[6, 124] ($) makes isPart True
 added 7 to array: [1, 7]
 adding 17
 
-
 added 1 to array: [1]
-* [7, 3] makes isPart True
+[7, 3] (*) makes isPart True
 added 2 to array: [1, 2]
 added 6 to array: [1, 2, 6]
 adding 126
 
-
 added 5 to array: [5]
-* [8, 39] makes isPart True
+[8, 39] (*) makes isPart True
 added 0 to array: [5, 0]
-* [8, 39] makes isPart True
 added 4 to array: [5, 0, 4]
 adding 504
 
-
 added 9 to array: [9]
-* [8, 105] makes isPart True
+[8, 105] (*) makes isPart True
 added 7 to array: [9, 7]
 added 4 to array: [9, 7, 4]
 adding 974
 
-
 added 3 to array: [3]
 added 3 to array: [3, 3]
 added 1 to array: [3, 3, 1]
-/ [8, 11] makes isPart True
+[8, 11] (/) makes isPart True
 adding 331
 
-
 added 9 to array: [9]
-* [9, 14] makes isPart True
+[9, 14] (*) makes isPart True
 added 0 to array: [9, 0]
-* [9, 14] makes isPart True
 added 1 to array: [9, 0, 1]
 adding 901
 
-
 added 3 to array: [3]
 added 3 to array: [3, 3]
-% [7, 28] makes isPart True
+[7, 28] (%) makes isPart True
 added 7 to array: [3, 3, 7]
-% [7, 28] makes isPart True
 adding 337
 
-
 added 4 to array: [4]
 added 6 to array: [4, 6]
-= [7, 45] makes isPart True
+[7, 45] (=) makes isPart True
 added 1 to array: [4, 6, 1]
-= [7, 45] makes isPart True
 adding 461
-
 
 added 6 to array: [6]
-* [7, 48] makes isPart True
+[7, 48] (*) makes isPart True
 added 9 to array: [6, 9]
-* [7, 48] makes isPart True
 added 8 to array: [6, 9, 8]
-* [7, 48] makes isPart True
 adding 698
 
-
 added 4 to array: [4]
-* [8, 65] makes isPart True
+[8, 65] (*) makes isPart True
 added 6 to array: [4, 6]
 added 1 to array: [4, 6, 1]
 adding 461
 
-
 added 8 to array: [8]
-* [9, 73] makes isPart True
+[9, 73] (*) makes isPart True
 added 1 to array: [8, 1]
 added 4 to array: [8, 1, 4]
 adding 814
 
-
 added 9 to array: [9]
 added 7 to array: [9, 7]
 added 5 to array: [9, 7, 5]
-* [9, 121] makes isPart True
+[9, 121] (*) makes isPart True
 adding 975
-
 
 added 1 to array: [1]
 added 6 to array: [1, 6]
@@ -506,191 +397,150 @@ added 5 to array: [1, 6, 5]
 added 2 to array: [2]
 added 6 to array: [2, 6]
 added 2 to array: [2, 6, 2]
-* [8, 39] makes isPart True
+[8, 39] (*) makes isPart True
 adding 262
-
 
 added 3 to array: [3]
 added 1 to array: [3, 1]
 added 3 to array: [3, 1, 3]
-* [8, 65] makes isPart True
+[8, 65] (*) makes isPart True
 adding 313
 
-
 added 5 to array: [5]
-% [10, 82] makes isPart True
+[10, 82] (%) makes isPart True
 added 3 to array: [5, 3]
-% [10, 82] makes isPart True
 added 0 to array: [5, 3, 0]
 adding 530
-
 
 added 5 to array: [5]
 added 6 to array: [5, 6]
 added 5 to array: [5]
-/ [10, 92] makes isPart True
+[10, 92] (/) makes isPart True
 added 6 to array: [5, 6]
 added 7 to array: [5, 6, 7]
 adding 567
 
-
 added 8 to array: [8]
 added 9 to array: [8, 9]
-* [8, 105] makes isPart True
+[8, 105] (*) makes isPart True
 added 7 to array: [8, 9, 7]
-* [8, 105] makes isPart True
 adding 897
 
-
 added 9 to array: [9]
-/ [10, 124] makes isPart True
+[10, 124] (/) makes isPart True
 adding 9
 
-
 added 9 to array: [9]
-/ [9, 4] makes isPart True
+[9, 4] (/) makes isPart True
 added 5 to array: [9, 5]
-/ [9, 4] makes isPart True
 added 3 to array: [9, 5, 3]
 adding 953
-
 
 added 3 to array: [3]
 added 5 to array: [3, 5]
 added 5 to array: [3, 5, 5]
-* [9, 14] makes isPart True
+[9, 14] (*) makes isPart True
 adding 355
 
-
 added 7 to array: [7]
-@ [10, 17] makes isPart True
+[10, 17] (@) makes isPart True
 added 0 to array: [7, 0]
 added 3 to array: [7, 0, 3]
 adding 703
 
-
 added 6 to array: [6]
-% [11, 56] makes isPart True
+[11, 56] (%) makes isPart True
 added 0 to array: [6, 0]
-% [11, 56] makes isPart True
 added 9 to array: [6, 0, 9]
-% [11, 56] makes isPart True
 adding 609
 
-
 added 4 to array: [4]
-* [9, 73] makes isPart True
+[9, 73] (*) makes isPart True
 added 6 to array: [4, 6]
-* [9, 73] makes isPart True
 added 2 to array: [4, 6, 2]
-* [9, 73] makes isPart True
 adding 462
-
 
 added 1 to array: [1]
 added 0 to array: [1, 0]
 added 8 to array: [1, 0, 8]
-* [9, 111] makes isPart True
+[9, 111] (*) makes isPart True
 adding 108
 
-
 added 5 to array: [5]
-* [9, 111] makes isPart True
+[9, 111] (*) makes isPart True
 added 5 to array: [5, 5]
 added 7 to array: [5, 5, 7]
 adding 557
 
-
 added 5 to array: [5]
 added 0 to array: [5, 0]
 added 1 to array: [5, 0, 1]
-* [9, 121] makes isPart True
+[9, 121] (*) makes isPart True
 adding 501
 
-
 added 7 to array: [7]
-* [11, 129] makes isPart True
+[11, 129] (*) makes isPart True
 added 2 to array: [7, 2]
-* [11, 129] makes isPart True
 added 4 to array: [7, 2, 4]
-* [11, 129] makes isPart True
 adding 724
 
-
 added 4 to array: [4]
-+ [12, 65] makes isPart True
+[12, 65] (+) makes isPart True
 added 6 to array: [4, 6]
-+ [12, 65] makes isPart True
 adding 46
 
-
 added 5 to array: [5]
-= [12, 88] makes isPart True
+[12, 88] (=) makes isPart True
 added 3 to array: [5, 3]
-= [12, 88] makes isPart True
 added 3 to array: [5, 3, 3]
 adding 533
 
-
 added 6 to array: [6]
-* [12, 94] makes isPart True
+[12, 94] (*) makes isPart True
 added 7 to array: [6, 7]
 added 0 to array: [6, 7, 0]
 adding 670
 
-
 added 6 to array: [6]
-% [11, 132] makes isPart True
+[11, 132] (%) makes isPart True
 added 3 to array: [6, 3]
 added 0 to array: [6, 3, 0]
 adding 630
 
-
 added 9 to array: [9]
-* [13, 26] makes isPart True
+[13, 26] (*) makes isPart True
 added 1 to array: [9, 1]
-* [13, 26] makes isPart True
 adding 91
-
 
 added 3 to array: [3]
 added 8 to array: [3, 8]
 added 2 to array: [3, 8, 2]
-* [12, 33] makes isPart True
+[12, 33] (*) makes isPart True
 adding 382
 
-
 added 2 to array: [2]
-* [12, 33] makes isPart True
+[12, 33] (*) makes isPart True
 added 0 to array: [2, 0]
 added 4 to array: [2, 0, 4]
 adding 204
 
-
 added 1 to array: [1]
-= [11, 46] makes isPart True
+[11, 46] (=) makes isPart True
 added 5 to array: [1, 5]
-= [11, 46] makes isPart True
 added 4 to array: [1, 5, 4]
 adding 154
 
-
 added 5 to array: [5]
-/ [13, 68] makes isPart True
+[13, 68] (/) makes isPart True
 added 2 to array: [5, 2]
-/ [13, 68] makes isPart True
 added 4 to array: [5, 2, 4]
-/ [13, 68] makes isPart True
 adding 524
-
 
 added 9 to array: [9]
 added 9 to array: [9, 9]
-* [13, 73] makes isPart True
+[13, 73] (*) makes isPart True
 added 5 to array: [9, 9, 5]
-* [13, 73] makes isPart True
 adding 995
-
 
 added 7 to array: [7]
 added 6 to array: [6]
@@ -698,324 +548,253 @@ added 9 to array: [6, 9]
 added 2 to array: [6, 9, 2]
 added 9 to array: [9]
 added 2 to array: [9, 2]
-* [12, 123] makes isPart True
+[12, 123] (*) makes isPart True
 adding 92
 
-
 added 5 to array: [5]
-* [12, 123] makes isPart True
+[12, 123] (*) makes isPart True
 added 6 to array: [5, 6]
 adding 56
 
-
 added 7 to array: [7]
-* [11, 129] makes isPart True
+[11, 129] (*) makes isPart True
 added 3 to array: [7, 3]
-* [11, 129] makes isPart True
 adding 73
-
 
 added 6 to array: [6]
 added 8 to array: [6, 8]
 added 5 to array: [6, 8, 5]
 added 7 to array: [7]
-* [14, 14] makes isPart True
+[14, 14] (*) makes isPart True
 added 0 to array: [7, 0]
-* [14, 14] makes isPart True
 adding 70
-
 
 added 1 to array: [1]
 added 8 to array: [1, 8]
 added 9 to array: [1, 8, 9]
 added 7 to array: [7]
-% [12, 51] makes isPart True
+[12, 51] (%) makes isPart True
 added 7 to array: [7, 7]
 added 3 to array: [7, 7, 3]
 adding 773
 
-
 added 8 to array: [8]
 added 3 to array: [8, 3]
 added 0 to array: [8, 3, 0]
-/ [13, 61] makes isPart True
+[13, 61] (/) makes isPart True
 adding 830
-
 
 added 5 to array: [5]
 added 6 to array: [5, 6]
-* [12, 94] makes isPart True
+[12, 94] (*) makes isPart True
 added 5 to array: [5, 6, 5]
-* [12, 94] makes isPart True
 adding 565
-
 
 added 4 to array: [4]
 added 6 to array: [4, 6]
 added 4 to array: [4, 6, 4]
 added 7 to array: [7]
-* [14, 133] makes isPart True
+[14, 133] (*) makes isPart True
 added 3 to array: [7, 3]
-* [14, 133] makes isPart True
 added 8 to array: [7, 3, 8]
-* [14, 133] makes isPart True
 adding 738
-
 
 added 1 to array: [1]
 added 3 to array: [1, 3]
 added 0 to array: [1, 3, 0]
-
- [12, 140] makes isPart True
-adding 130
-
-
 added 9 to array: [9]
-* [13, 8] makes isPart True
+[13, 8] (*) makes isPart True
 added 3 to array: [9, 3]
 added 8 to array: [9, 3, 8]
 adding 938
 
-
 added 9 to array: [9]
 added 9 to array: [9, 9]
 added 3 to array: [9, 9, 3]
-* [13, 26] makes isPart True
+[13, 26] (*) makes isPart True
 adding 993
 
-
 added 2 to array: [2]
-* [13, 73] makes isPart True
+[13, 73] (*) makes isPart True
 added 4 to array: [2, 4]
 added 3 to array: [2, 4, 3]
 adding 243
 
-
 added 3 to array: [3]
 added 4 to array: [3, 4]
-= [13, 82] makes isPart True
+[13, 82] (=) makes isPart True
 added 0 to array: [3, 4, 0]
-= [13, 82] makes isPart True
 adding 340
-
 
 added 7 to array: [7]
 added 5 to array: [7, 5]
 added 3 to array: [7, 5, 3]
-* [15, 89] makes isPart True
+[15, 89] (*) makes isPart True
 adding 753
-
 
 added 8 to array: [8]
 added 8 to array: [8, 8]
-= [15, 106] makes isPart True
+[15, 106] (=) makes isPart True
 added 2 to array: [8, 8, 2]
-= [15, 106] makes isPart True
 adding 882
 
-
 added 1 to array: [1]
-* [15, 122] makes isPart True
+[15, 122] (*) makes isPart True
 added 0 to array: [1, 0]
-* [15, 122] makes isPart True
 added 8 to array: [1, 0, 8]
 adding 108
 
-
 added 6 to array: [6]
-$ [13, 127] makes isPart True
+[13, 127] ($) makes isPart True
 added 4 to array: [6, 4]
-$ [13, 127] makes isPart True
 added 7 to array: [6, 4, 7]
-$ [13, 127] makes isPart True
 adding 647
 
-
 added 7 to array: [7]
-* [14, 14] makes isPart True
+[14, 14] (*) makes isPart True
 added 6 to array: [7, 6]
-* [14, 14] makes isPart True
 added 2 to array: [7, 6, 2]
 adding 762
 
-
 added 3 to array: [3]
-/ [16, 27] makes isPart True
+[16, 27] (/) makes isPart True
 added 4 to array: [3, 4]
-/ [16, 27] makes isPart True
 added 8 to array: [3, 4, 8]
 adding 348
-
 
 added 2 to array: [2]
 added 8 to array: [2, 8]
 added 0 to array: [2, 8, 0]
-* [14, 40] makes isPart True
+[14, 40] (*) makes isPart True
 adding 280
-
 
 added 3 to array: [3]
 added 6 to array: [3, 6]
 added 4 to array: [3, 6, 4]
-* [15, 58] makes isPart True
+[15, 58] (*) makes isPart True
 adding 364
 
-
 added 5 to array: [5]
-* [15, 58] makes isPart True
+[15, 58] (*) makes isPart True
 added 2 to array: [5, 2]
 added 6 to array: [5, 2, 6]
 adding 526
 
-
 added 5 to array: [5]
 added 5 to array: [5, 5]
-* [14, 100] makes isPart True
+[14, 100] (*) makes isPart True
 added 2 to array: [5, 5, 2]
-* [14, 100] makes isPart True
 adding 552
-
 
 added 2 to array: [2]
 added 5 to array: [2, 5]
 added 6 to array: [6]
-* [16, 114] makes isPart True
+[16, 114] (*) makes isPart True
 added 8 to array: [6, 8]
 added 2 to array: [6, 8, 2]
 adding 682
 
-
 added 1 to array: [1]
-* [14, 133] makes isPart True
+[14, 133] (*) makes isPart True
 added 6 to array: [1, 6]
-* [14, 133] makes isPart True
 added 4 to array: [1, 6, 4]
-* [14, 133] makes isPart True
 adding 164
 
-
 added 9 to array: [9]
-* [17, 6] makes isPart True
+[17, 6] (*) makes isPart True
 added 4 to array: [9, 4]
-* [17, 6] makes isPart True
 added 8 to array: [9, 4, 8]
-* [17, 6] makes isPart True
 adding 948
-
 
 added 8 to array: [8]
 added 1 to array: [8, 1]
 added 3 to array: [8, 1, 3]
 added 6 to array: [6]
 added 4 to array: [6, 4]
-* [17, 34] makes isPart True
+[17, 34] (*) makes isPart True
 added 4 to array: [6, 4, 4]
-* [17, 34] makes isPart True
 adding 644
-
 
 added 6 to array: [6]
 added 2 to array: [6, 2]
 added 6 to array: [6]
-* [15, 89] makes isPart True
+[15, 89] (*) makes isPart True
 added 5 to array: [6, 5]
-* [15, 89] makes isPart True
 added 7 to array: [6, 5, 7]
 adding 657
 
-
 added 7 to array: [7]
-$ [17, 52] makes isPart True
+[17, 52] ($) makes isPart True
 added 4 to array: [7, 4]
 added 5 to array: [7, 4, 5]
 adding 745
 
-
 added 7 to array: [7]
 added 3 to array: [7, 3]
-* [18, 65] makes isPart True
+[18, 65] (*) makes isPart True
 added 9 to array: [7, 3, 9]
-* [18, 65] makes isPart True
 adding 739
 
-
 added 3 to array: [3]
-* [18, 75] makes isPart True
+[18, 75] (*) makes isPart True
 added 9 to array: [3, 9]
-* [18, 75] makes isPart True
 added 9 to array: [3, 9, 9]
 adding 399
 
-
 added 3 to array: [3]
 added 0 to array: [3, 0]
-# [16, 83] makes isPart True
+[16, 83] (#) makes isPart True
 adding 30
 
-
 added 9 to array: [9]
-* [18, 110] makes isPart True
+[18, 110] (*) makes isPart True
 added 2 to array: [9, 2]
-* [18, 110] makes isPart True
 added 4 to array: [9, 2, 4]
 adding 924
 
-
 added 1 to array: [1]
-* [16, 114] makes isPart True
+[16, 114] (*) makes isPart True
 added 1 to array: [1, 1]
-* [16, 114] makes isPart True
 added 7 to array: [1, 1, 7]
 adding 117
 
-
 added 3 to array: [3]
-* [18, 128] makes isPart True
+[18, 128] (*) makes isPart True
 added 0 to array: [3, 0]
-* [18, 128] makes isPart True
 added 9 to array: [3, 0, 9]
-* [18, 128] makes isPart True
 adding 309
-
 
 added 8 to array: [8]
 added 8 to array: [8, 8]
 added 3 to array: [8, 8, 3]
-* [17, 6] makes isPart True
+[17, 6] (*) makes isPart True
 adding 883
-
 
 added 5 to array: [5]
 added 4 to array: [5, 4]
 added 4 to array: [5, 4, 4]
-* [19, 13] makes isPart True
+[19, 13] (*) makes isPart True
 adding 544
-
 
 added 3 to array: [3]
 added 3 to array: [3, 3]
 added 5 to array: [5]
 added 8 to array: [5, 8]
 added 5 to array: [5, 8, 5]
-= [18, 32] makes isPart True
+[18, 32] (=) makes isPart True
 adding 585
 
-
 added 4 to array: [4]
-* [17, 34] makes isPart True
+[17, 34] (*) makes isPart True
 added 2 to array: [4, 2]
-* [17, 34] makes isPart True
 added 8 to array: [4, 2, 8]
 adding 428
 
-
 added 1 to array: [1]
-* [19, 38] makes isPart True
+[19, 38] (*) makes isPart True
 added 4 to array: [1, 4]
-* [19, 38] makes isPart True
 added 6 to array: [1, 4, 6]
 adding 146
-
 
 added 2 to array: [2]
 added 8 to array: [2, 8]
@@ -1023,838 +802,659 @@ added 8 to array: [2, 8, 8]
 added 8 to array: [8]
 added 5 to array: [8, 5]
 added 3 to array: [8, 5, 3]
-* [17, 71] makes isPart True
+[17, 71] (*) makes isPart True
 adding 853
 
-
 added 8 to array: [8]
-* [18, 87] makes isPart True
+[18, 87] (*) makes isPart True
 added 9 to array: [8, 9]
 added 1 to array: [8, 9, 1]
 adding 891
 
-
 added 4 to array: [4]
 added 0 to array: [4, 0]
 added 9 to array: [4, 0, 9]
-& [17, 95] makes isPart True
+[17, 95] (&) makes isPart True
 adding 409
 
-
 added 4 to array: [4]
-@ [17, 98] makes isPart True
+[17, 98] (@) makes isPart True
 added 2 to array: [4, 2]
 added 9 to array: [4, 2, 9]
 adding 429
 
-
 added 4 to array: [4]
-* [19, 105] makes isPart True
+[19, 105] (*) makes isPart True
 added 6 to array: [4, 6]
-* [19, 105] makes isPart True
 added 0 to array: [4, 6, 0]
-* [19, 105] makes isPart True
 adding 460
 
-
 added 9 to array: [9]
-* [19, 120] makes isPart True
+[19, 120] (*) makes isPart True
 added 9 to array: [9, 9]
 added 7 to array: [9, 9, 7]
 adding 997
 
-
 added 1 to array: [1]
-* [19, 136] makes isPart True
+[19, 136] (*) makes isPart True
 added 8 to array: [1, 8]
 added 7 to array: [1, 8, 7]
-
- [17, 140] makes isPart True
 adding 187
 
-
 added 8 to array: [8]
-* [19, 13] makes isPart True
+[19, 13] (*) makes isPart True
 added 1 to array: [8, 1]
 added 8 to array: [8, 1, 8]
 adding 818
 
-
 added 8 to array: [8]
 added 2 to array: [8, 2]
 added 9 to array: [8, 2, 9]
-* [20, 28] makes isPart True
+[20, 28] (*) makes isPart True
 adding 829
-
 
 added 8 to array: [8]
 added 4 to array: [8, 4]
 added 6 to array: [8, 4, 6]
 added 2 to array: [2]
-* [18, 75] makes isPart True
+[18, 75] (*) makes isPart True
 added 4 to array: [2, 4]
 added 8 to array: [2, 4, 8]
 adding 248
 
-
 added 5 to array: [5]
 added 7 to array: [5, 7]
 added 4 to array: [5, 7, 4]
-* [18, 87] makes isPart True
+[18, 87] (*) makes isPart True
 adding 574
 
-
 added 7 to array: [7]
-* [18, 110] makes isPart True
+[18, 110] (*) makes isPart True
 added 8 to array: [7, 8]
-* [18, 110] makes isPart True
 added 9 to array: [7, 8, 9]
 adding 789
 
-
 added 9 to array: [9]
 added 6 to array: [9, 6]
-* [18, 128] makes isPart True
+[18, 128] (*) makes isPart True
 added 5 to array: [9, 6, 5]
-* [18, 128] makes isPart True
 adding 965
 
-
 added 3 to array: [3]
-* [19, 38] makes isPart True
+[19, 38] (*) makes isPart True
 added 7 to array: [3, 7]
 added 0 to array: [3, 7, 0]
 adding 370
 
-
 added 8 to array: [8]
 added 5 to array: [8, 5]
 added 0 to array: [8, 5, 0]
-+ [20, 52] makes isPart True
+[20, 52] (+) makes isPart True
 adding 850
 
-
 added 3 to array: [3]
-* [21, 65] makes isPart True
+[21, 65] (*) makes isPart True
 added 1 to array: [3, 1]
 added 3 to array: [3, 1, 3]
 adding 313
 
-
 added 5 to array: [5]
-* [21, 95] makes isPart True
+[21, 95] (*) makes isPart True
 added 7 to array: [5, 7]
 added 3 to array: [5, 7, 3]
 adding 573
 
-
 added 6 to array: [6]
 added 2 to array: [6, 2]
-* [19, 105] makes isPart True
+[19, 105] (*) makes isPart True
 added 1 to array: [6, 2, 1]
-* [19, 105] makes isPart True
 adding 621
 
-
 added 2 to array: [2]
-* [19, 120] makes isPart True
+[19, 120] (*) makes isPart True
 added 6 to array: [2, 6]
 added 8 to array: [2, 6, 8]
 adding 268
 
-
 added 5 to array: [5]
 added 8 to array: [5, 8]
-- [19, 133] makes isPart True
+[19, 133] (-) makes isPart True
 adding 58
 
-
 added 8 to array: [8]
-* [19, 136] makes isPart True
+[19, 136] (*) makes isPart True
 added 0 to array: [8, 0]
-* [19, 136] makes isPart True
 added 0 to array: [8, 0, 0]
-* [19, 136] makes isPart True
 adding 800
-
 
 added 6 to array: [6]
 added 7 to array: [6, 7]
-= [20, 6] makes isPart True
+[20, 6] (=) makes isPart True
 adding 67
-
 
 added 2 to array: [2]
 added 8 to array: [2, 8]
-@ [22, 12] makes isPart True
+[22, 12] (@) makes isPart True
 added 7 to array: [2, 8, 7]
-@ [22, 12] makes isPart True
 adding 287
-
 
 added 4 to array: [4]
 added 8 to array: [4, 8]
-* [20, 28] makes isPart True
+[20, 28] (*) makes isPart True
 added 1 to array: [4, 8, 1]
-* [20, 28] makes isPart True
 adding 481
 
-
 added 7 to array: [7]
-* [22, 30] makes isPart True
+[22, 30] (*) makes isPart True
 added 0 to array: [7, 0]
 added 9 to array: [7, 0, 9]
 adding 709
 
-
 added 7 to array: [7]
-# [21, 73] makes isPart True
+[21, 73] (#) makes isPart True
 added 4 to array: [7, 4]
 adding 74
 
-
 added 9 to array: [9]
-* [22, 112] makes isPart True
+[22, 112] (*) makes isPart True
 added 6 to array: [9, 6]
 added 5 to array: [9, 6, 5]
 adding 965
 
-
 added 2 to array: [2]
 added 9 to array: [2, 9]
 added 1 to array: [2, 9, 1]
-% [23, 17] makes isPart True
+[23, 17] (%) makes isPart True
 adding 291
-
 
 added 6 to array: [6]
 added 0 to array: [6, 0]
 added 7 to array: [6, 0, 7]
-* [22, 43] makes isPart True
+[22, 43] (*) makes isPart True
 adding 607
-
 
 added 9 to array: [9]
 added 5 to array: [9, 5]
 added 0 to array: [9, 5, 0]
-* [23, 51] makes isPart True
+[23, 51] (*) makes isPart True
 adding 950
 
-
 added 4 to array: [4]
-* [23, 51] makes isPart True
+[23, 51] (*) makes isPart True
 added 7 to array: [4, 7]
 added 5 to array: [4, 7, 5]
 adding 475
 
-
 added 3 to array: [3]
 added 0 to array: [3, 0]
-+ [23, 59] makes isPart True
+[23, 59] (+) makes isPart True
 added 9 to array: [3, 0, 9]
-+ [23, 59] makes isPart True
 adding 309
-
 
 added 6 to array: [6]
 added 6 to array: [6, 6]
-* [21, 65] makes isPart True
+[21, 65] (*) makes isPart True
 adding 66
 
-
 added 9 to array: [9]
-* [23, 66] makes isPart True
+[23, 66] (*) makes isPart True
 added 3 to array: [9, 3]
 added 2 to array: [9, 3, 2]
 adding 932
 
-
 added 3 to array: [3]
-* [23, 79] makes isPart True
+[23, 79] (*) makes isPart True
 added 9 to array: [3, 9]
-* [23, 79] makes isPart True
 added 5 to array: [3, 9, 5]
-* [23, 79] makes isPart True
 adding 395
 
-
 added 3 to array: [3]
-* [23, 83] makes isPart True
+[23, 83] (*) makes isPart True
 added 7 to array: [3, 7]
-* [23, 83] makes isPart True
 added 4 to array: [3, 7, 4]
 adding 374
 
-
 added 1 to array: [1]
-* [21, 95] makes isPart True
+[21, 95] (*) makes isPart True
 added 5 to array: [1, 5]
 added 5 to array: [1, 5, 5]
 adding 155
-
 
 added 8 to array: [8]
 added 9 to array: [8, 9]
 added 1 to array: [8, 9, 1]
 added 4 to array: [4]
-* [23, 107] makes isPart True
+[23, 107] (*) makes isPart True
 added 7 to array: [4, 7]
-* [23, 107] makes isPart True
 added 2 to array: [4, 7, 2]
 adding 472
-
 
 added 7 to array: [7]
 added 7 to array: [7, 7]
 added 4 to array: [7, 7, 4]
 added 2 to array: [2]
-* [24, 5] makes isPart True
+[24, 5] (*) makes isPart True
 added 0 to array: [2, 0]
-* [24, 5] makes isPart True
 added 7 to array: [2, 0, 7]
-* [24, 5] makes isPart True
 adding 207
-
 
 added 2 to array: [2]
 added 6 to array: [2, 6]
 added 2 to array: [2, 6, 2]
-# [24, 23] makes isPart True
+[24, 23] (#) makes isPart True
 adding 262
 
-
 added 5 to array: [5]
-* [22, 30] makes isPart True
+[22, 30] (*) makes isPart True
 added 4 to array: [5, 4]
-* [22, 30] makes isPart True
 added 3 to array: [5, 4, 3]
-* [22, 30] makes isPart True
 adding 543
-
 
 added 8 to array: [8]
 added 8 to array: [8, 8]
 added 7 to array: [8, 8, 7]
-/ [23, 37] makes isPart True
+[23, 37] (/) makes isPart True
 adding 887
 
-
 added 7 to array: [7]
-* [22, 43] makes isPart True
+[22, 43] (*) makes isPart True
 added 1 to array: [7, 1]
 added 1 to array: [7, 1, 1]
 adding 711
 
-
 added 8 to array: [8]
-* [24, 92] makes isPart True
+[24, 92] (*) makes isPart True
 added 2 to array: [8, 2]
-* [24, 92] makes isPart True
 added 3 to array: [8, 2, 3]
 adding 823
 
-
 added 9 to array: [9]
-* [22, 112] makes isPart True
+[22, 112] (*) makes isPart True
 added 3 to array: [9, 3]
-* [22, 112] makes isPart True
 adding 93
 
-
 added 3 to array: [3]
-& [24, 124] makes isPart True
+[24, 124] (&) makes isPart True
 added 7 to array: [3, 7]
-& [24, 124] makes isPart True
 added 7 to array: [3, 7, 7]
 adding 377
-
 
 added 7 to array: [7]
 added 6 to array: [7, 6]
 added 4 to array: [7, 6, 4]
-& [22, 135] makes isPart True
+[22, 135] (&) makes isPart True
 adding 764
 
-
 added 9 to array: [9]
-* [25, 9] makes isPart True
+[25, 9] (*) makes isPart True
 added 6 to array: [9, 6]
-* [25, 9] makes isPart True
 added 8 to array: [9, 6, 8]
 adding 968
-
 
 added 9 to array: [9]
 added 5 to array: [9, 5]
 added 1 to array: [9, 5, 1]
 added 4 to array: [4]
-* [23, 66] makes isPart True
+[23, 66] (*) makes isPart True
 added 5 to array: [4, 5]
-* [23, 66] makes isPart True
 added 3 to array: [4, 5, 3]
 adding 453
 
-
 added 3 to array: [3]
-* [25, 73] makes isPart True
+[25, 73] (*) makes isPart True
 added 6 to array: [3, 6]
-* [25, 73] makes isPart True
 added 6 to array: [3, 6, 6]
-* [25, 73] makes isPart True
 adding 366
-
 
 added 7 to array: [7]
 added 3 to array: [7, 3]
-* [23, 79] makes isPart True
+[23, 79] (*) makes isPart True
 added 6 to array: [7, 3, 6]
-* [23, 79] makes isPart True
 adding 736
-
 
 added 9 to array: [9]
 added 7 to array: [9, 7]
-* [23, 83] makes isPart True
+[23, 83] (*) makes isPart True
 added 2 to array: [9, 7, 2]
-* [23, 83] makes isPart True
 adding 972
 
-
 added 6 to array: [6]
-* [23, 107] makes isPart True
+[23, 107] (*) makes isPart True
 added 9 to array: [6, 9]
-* [23, 107] makes isPart True
 added 7 to array: [6, 9, 7]
-* [23, 107] makes isPart True
 adding 697
 
-
 added 6 to array: [6]
-* [24, 117] makes isPart True
+[24, 117] (*) makes isPart True
 added 1 to array: [6, 1]
 added 8 to array: [6, 1, 8]
 adding 618
 
-
 added 9 to array: [9]
-* [24, 5] makes isPart True
+[24, 5] (*) makes isPart True
 added 8 to array: [9, 8]
-* [24, 5] makes isPart True
 added 4 to array: [9, 8, 4]
-* [24, 5] makes isPart True
 adding 984
-
 
 added 8 to array: [8]
 added 8 to array: [8, 8]
 added 4 to array: [8, 8, 4]
-* [26, 52] makes isPart True
+[26, 52] (*) makes isPart True
 adding 884
-
 
 added 2 to array: [2]
 added 3 to array: [2, 3]
-$ [24, 56] makes isPart True
+[24, 56] ($) makes isPart True
 adding 23
 
-
 added 4 to array: [4]
-* [26, 63] makes isPart True
+[26, 63] (*) makes isPart True
 added 9 to array: [4, 9]
-* [26, 63] makes isPart True
 added 2 to array: [4, 9, 2]
-* [26, 63] makes isPart True
 adding 492
-
 
 added 7 to array: [7]
 added 0 to array: [7, 0]
-* [24, 92] makes isPart True
+[24, 92] (*) makes isPart True
 adding 70
-
 
 added 5 to array: [5]
 added 2 to array: [5, 2]
-* [26, 96] makes isPart True
+[26, 96] (*) makes isPart True
 added 3 to array: [5, 2, 3]
-* [26, 96] makes isPart True
 adding 523
 
-
 added 2 to array: [2]
-* [26, 101] makes isPart True
+[26, 101] (*) makes isPart True
 added 5 to array: [2, 5]
 adding 25
 
-
 added 3 to array: [3]
-* [26, 135] makes isPart True
+[26, 135] (*) makes isPart True
 added 7 to array: [3, 7]
-* [26, 135] makes isPart True
 added 0 to array: [3, 7, 0]
-* [26, 135] makes isPart True
 adding 370
 
-
 added 8 to array: [8]
-* [27, 17] makes isPart True
+[27, 17] (*) makes isPart True
 added 7 to array: [8, 7]
 added 0 to array: [8, 7, 0]
 adding 870
 
-
 added 1 to array: [1]
-- [25, 25] makes isPart True
+[25, 25] (-) makes isPart True
 added 8 to array: [1, 8]
-- [25, 25] makes isPart True
 added 7 to array: [1, 8, 7]
-- [25, 25] makes isPart True
 adding 187
-
 
 added 5 to array: [5]
 added 4 to array: [5, 4]
 added 8 to array: [5, 4, 8]
-# [26, 37] makes isPart True
+[26, 37] (#) makes isPart True
 adding 548
-
 
 added 5 to array: [5]
 added 2 to array: [5, 2]
 added 2 to array: [5, 2, 2]
 added 4 to array: [4]
-& [27, 44] makes isPart True
+[27, 44] (&) makes isPart True
 added 5 to array: [4, 5]
-& [27, 44] makes isPart True
 added 8 to array: [4, 5, 8]
 adding 458
 
-
 added 9 to array: [9]
 added 5 to array: [9, 5]
-* [25, 70] makes isPart True
+[25, 70] (*) makes isPart True
 added 6 to array: [9, 5, 6]
-* [25, 70] makes isPart True
 adding 956
 
-
 added 5 to array: [5]
-* [27, 77] makes isPart True
+[27, 77] (*) makes isPart True
 added 3 to array: [5, 3]
-* [27, 77] makes isPart True
 added 5 to array: [5, 3, 5]
 adding 535
-
 
 added 5 to array: [5]
 added 2 to array: [5, 2]
 added 5 to array: [5, 2, 5]
-* [26, 101] makes isPart True
+[26, 101] (*) makes isPart True
 adding 525
-
 
 added 1 to array: [1]
 added 9 to array: [1, 9]
-$ [25, 112] makes isPart True
+[25, 112] ($) makes isPart True
 added 7 to array: [1, 9, 7]
-$ [25, 112] makes isPart True
 adding 197
 
-
 added 2 to array: [2]
-* [26, 120] makes isPart True
+[26, 120] (*) makes isPart True
 added 6 to array: [2, 6]
 added 6 to array: [2, 6, 6]
 adding 266
 
-
 added 1 to array: [1]
-* [27, 126] makes isPart True
+[27, 126] (*) makes isPart True
 added 2 to array: [1, 2]
 added 3 to array: [1, 2, 3]
 adding 123
 
-
 added 5 to array: [5]
-* [28, 8] makes isPart True
+[28, 8] (*) makes isPart True
 added 0 to array: [5, 0]
 added 1 to array: [5, 0, 1]
 adding 501
 
-
 added 3 to array: [3]
 added 2 to array: [3, 2]
-* [26, 52] makes isPart True
+[26, 52] (*) makes isPart True
 added 3 to array: [3, 2, 3]
-* [26, 52] makes isPart True
 adding 323
-
 
 added 2 to array: [2]
 added 5 to array: [2, 5]
-* [26, 63] makes isPart True
+[26, 63] (*) makes isPart True
 added 7 to array: [2, 5, 7]
-* [26, 63] makes isPart True
 adding 257
 
-
 added 9 to array: [9]
-* [28, 71] makes isPart True
+[28, 71] (*) makes isPart True
 added 5 to array: [9, 5]
 added 6 to array: [9, 5, 6]
 adding 956
 
-
 added 8 to array: [8]
-/ [26, 86] makes isPart True
+[26, 86] (/) makes isPart True
 added 0 to array: [8, 0]
-/ [26, 86] makes isPart True
 adding 80
 
-
 added 9 to array: [9]
-- [28, 91] makes isPart True
+[28, 91] (-) makes isPart True
 added 4 to array: [9, 4]
-- [28, 91] makes isPart True
 added 6 to array: [9, 4, 6]
-- [28, 91] makes isPart True
 adding 946
-
 
 added 5 to array: [5]
 added 9 to array: [5, 9]
-* [26, 96] makes isPart True
+[26, 96] (*) makes isPart True
 added 2 to array: [5, 9, 2]
-* [26, 96] makes isPart True
 adding 592
-
 
 added 2 to array: [2]
 added 1 to array: [2, 1]
 added 1 to array: [2, 1, 1]
-@ [26, 117] makes isPart True
+[26, 117] (@) makes isPart True
 adding 211
 
-
 added 3 to array: [3]
-* [26, 135] makes isPart True
+[26, 135] (*) makes isPart True
 added 1 to array: [3, 1]
 added 1 to array: [3, 1, 1]
 adding 311
 
-
 added 3 to array: [3]
 added 8 to array: [3, 8]
 added 0 to array: [3, 8, 0]
-* [28, 8] makes isPart True
+[28, 8] (*) makes isPart True
 adding 380
-
 
 added 8 to array: [8]
 added 6 to array: [8, 6]
 added 7 to array: [8, 6, 7]
-* [27, 17] makes isPart True
+[27, 17] (*) makes isPart True
 adding 867
 
-
 added 6 to array: [6]
-& [29, 19] makes isPart True
+[29, 19] (&) makes isPart True
 added 5 to array: [6, 5]
 added 3 to array: [6, 5, 3]
 adding 653
 
-
 added 3 to array: [3]
-* [29, 24] makes isPart True
+[29, 24] (*) makes isPart True
 added 4 to array: [3, 4]
 added 7 to array: [3, 4, 7]
 adding 347
 
-
 added 9 to array: [9]
 added 3 to array: [9, 3]
-= [28, 59] makes isPart True
+[28, 59] (=) makes isPart True
 adding 93
 
-
 added 5 to array: [5]
-* [27, 77] makes isPart True
+[27, 77] (*) makes isPart True
 added 1 to array: [5, 1]
 added 5 to array: [5, 1, 5]
 adding 515
 
-
 added 6 to array: [6]
-* [27, 126] makes isPart True
+[27, 126] (*) makes isPart True
 added 7 to array: [6, 7]
 added 8 to array: [6, 7, 8]
 adding 678
 
-
 added 8 to array: [8]
-* [30, 11] makes isPart True
+[30, 11] (*) makes isPart True
 added 7 to array: [8, 7]
-* [30, 11] makes isPart True
 added 6 to array: [8, 7, 6]
-* [30, 11] makes isPart True
 adding 876
 
-
 added 6 to array: [6]
-& [29, 32] makes isPart True
+[29, 32] (&) makes isPart True
 added 3 to array: [6, 3]
 added 1 to array: [6, 3, 1]
 adding 631
-
 
 added 9 to array: [9]
 added 5 to array: [9, 5]
 added 0 to array: [9, 5, 0]
 added 6 to array: [6]
-- [30, 41] makes isPart True
+[30, 41] (-) makes isPart True
 added 4 to array: [6, 4]
-- [30, 41] makes isPart True
 added 7 to array: [6, 4, 7]
 adding 647
 
-
 added 6 to array: [6]
-* [28, 48] makes isPart True
+[28, 48] (*) makes isPart True
 added 3 to array: [6, 3]
-* [28, 48] makes isPart True
 added 1 to array: [6, 3, 1]
-* [28, 48] makes isPart True
 adding 631
-
 
 added 7 to array: [7]
 added 0 to array: [7, 0]
-* [28, 71] makes isPart True
+[28, 71] (*) makes isPart True
 added 5 to array: [7, 0, 5]
-* [28, 71] makes isPart True
 adding 705
 
-
 added 9 to array: [9]
-/ [30, 75] makes isPart True
+[30, 75] (/) makes isPart True
 added 1 to array: [9, 1]
-/ [30, 75] makes isPart True
 added 4 to array: [9, 1, 4]
-/ [30, 75] makes isPart True
 adding 914
 
-
 added 7 to array: [7]
-* [30, 94] makes isPart True
+[30, 94] (*) makes isPart True
 added 3 to array: [7, 3]
-* [30, 94] makes isPart True
 added 9 to array: [7, 3, 9]
-* [30, 94] makes isPart True
 adding 739
 
-
 added 3 to array: [3]
-* [30, 110] makes isPart True
+[30, 110] (*) makes isPart True
 added 1 to array: [3, 1]
-* [30, 110] makes isPart True
 added 9 to array: [3, 1, 9]
 adding 319
 
-
 added 7 to array: [7]
-/ [30, 120] makes isPart True
+[30, 120] (/) makes isPart True
 added 1 to array: [7, 1]
-/ [30, 120] makes isPart True
 added 3 to array: [7, 1, 3]
-/ [30, 120] makes isPart True
 adding 713
 
-
 added 9 to array: [9]
-* [29, 131] makes isPart True
+[29, 131] (*) makes isPart True
 added 7 to array: [9, 7]
 adding 97
 
-
 added 9 to array: [9]
-# [29, 135] makes isPart True
+[29, 135] (#) makes isPart True
 added 1 to array: [9, 1]
 added 8 to array: [9, 1, 8]
 adding 918
 
-
 added 8 to array: [8]
-- [31, 6] makes isPart True
+[31, 6] (-) makes isPart True
 added 0 to array: [8, 0]
-- [31, 6] makes isPart True
 added 5 to array: [8, 0, 5]
-- [31, 6] makes isPart True
 adding 805
-
 
 added 1 to array: [1]
 added 1 to array: [1, 1]
-* [29, 24] makes isPart True
+[29, 24] (*) makes isPart True
 added 8 to array: [1, 1, 8]
-* [29, 24] makes isPart True
 adding 118
-
 
 added 7 to array: [7]
 added 9 to array: [7, 9]
-@ [29, 53] makes isPart True
+[29, 53] (@) makes isPart True
 added 0 to array: [7, 9, 0]
-@ [29, 53] makes isPart True
 adding 790
-
 
 added 5 to array: [5]
 added 5 to array: [5, 5]
 added 9 to array: [5, 5, 9]
 added 5 to array: [5]
 added 1 to array: [5, 1]
-= [29, 65] makes isPart True
+[29, 65] (=) makes isPart True
 adding 51
 
-
 added 5 to array: [5]
-* [31, 102] makes isPart True
+[31, 102] (*) makes isPart True
 added 5 to array: [5, 5]
-* [31, 102] makes isPart True
 added 0 to array: [5, 5, 0]
-* [31, 102] makes isPart True
 adding 550
-
 
 added 6 to array: [6]
 added 4 to array: [6, 4]
 added 7 to array: [6, 4, 7]
-* [29, 131] makes isPart True
+[29, 131] (*) makes isPart True
 adding 647
-
 
 added 4 to array: [4]
 added 2 to array: [4, 2]
-* [30, 11] makes isPart True
+[30, 11] (*) makes isPart True
 added 8 to array: [4, 2, 8]
-* [30, 11] makes isPart True
 adding 428
 
-
 added 5 to array: [5]
-% [32, 17] makes isPart True
+[32, 17] (%) makes isPart True
 added 9 to array: [5, 9]
-% [32, 17] makes isPart True
 added 9 to array: [5, 9, 9]
 adding 599
 
-
 added 8 to array: [8]
-* [32, 25] makes isPart True
+[32, 25] (*) makes isPart True
 added 1 to array: [8, 1]
 added 3 to array: [8, 1, 3]
 adding 813
-
 
 added 4 to array: [4]
 added 1 to array: [4, 1]
@@ -1865,29 +1465,25 @@ added 0 to array: [2, 8, 0]
 added 8 to array: [8]
 added 4 to array: [8, 4]
 added 0 to array: [8, 4, 0]
-* [30, 84] makes isPart True
+[30, 84] (*) makes isPart True
 adding 840
 
-
 added 6 to array: [6]
-* [30, 84] makes isPart True
+[30, 84] (*) makes isPart True
 added 5 to array: [6, 5]
 added 4 to array: [6, 5, 4]
 adding 654
 
-
 added 9 to array: [9]
-* [30, 94] makes isPart True
+[30, 94] (*) makes isPart True
 added 1 to array: [9, 1]
 adding 91
 
-
 added 2 to array: [2]
-@ [32, 113] makes isPart True
+[32, 113] (@) makes isPart True
 added 3 to array: [2, 3]
 added 6 to array: [2, 3, 6]
 adding 236
-
 
 added 7 to array: [7]
 added 7 to array: [7, 7]
@@ -1895,48 +1491,38 @@ added 4 to array: [4]
 added 9 to array: [4, 9]
 added 2 to array: [4, 9, 2]
 added 9 to array: [9]
-* [31, 102] makes isPart True
+[31, 102] (*) makes isPart True
 added 6 to array: [9, 6]
-* [31, 102] makes isPart True
 adding 96
-
 
 added 1 to array: [1]
 added 7 to array: [1, 7]
 added 5 to array: [1, 7, 5]
-$ [31, 124] makes isPart True
+[31, 124] ($) makes isPart True
 adding 175
 
-
 added 4 to array: [4]
-* [33, 6] makes isPart True
+[33, 6] (*) makes isPart True
 added 2 to array: [4, 2]
 added 7 to array: [4, 2, 7]
 adding 427
 
-
 added 5 to array: [5]
-= [32, 13] makes isPart True
+[32, 13] (=) makes isPart True
 added 6 to array: [5, 6]
-= [32, 13] makes isPart True
 added 9 to array: [5, 6, 9]
-= [32, 13] makes isPart True
 adding 569
 
-
 added 4 to array: [4]
-* [32, 25] makes isPart True
+[32, 25] (*) makes isPart True
 added 7 to array: [4, 7]
-* [32, 25] makes isPart True
 adding 47
-
 
 added 9 to array: [9]
 added 9 to array: [9, 9]
 added 9 to array: [9, 9, 9]
-# [32, 52] makes isPart True
+[32, 52] (#) makes isPart True
 adding 999
-
 
 added 3 to array: [3]
 added 1 to array: [3, 1]
@@ -1944,16 +1530,14 @@ added 4 to array: [3, 1, 4]
 added 6 to array: [6]
 added 3 to array: [6, 3]
 added 6 to array: [6, 3, 6]
-* [33, 69] makes isPart True
+[33, 69] (*) makes isPart True
 adding 636
 
-
 added 2 to array: [2]
-* [33, 69] makes isPart True
+[33, 69] (*) makes isPart True
 added 5 to array: [2, 5]
 added 3 to array: [2, 5, 3]
 adding 253
-
 
 added 7 to array: [7]
 added 6 to array: [7, 6]
@@ -1961,25 +1545,22 @@ added 4 to array: [7, 6, 4]
 added 2 to array: [2]
 added 7 to array: [2, 7]
 added 4 to array: [4]
-% [32, 128] makes isPart True
+[32, 128] (%) makes isPart True
 added 1 to array: [4, 1]
 added 5 to array: [4, 1, 5]
 adding 415
 
-
 added 3 to array: [3]
-* [34, 133] makes isPart True
+[34, 133] (*) makes isPart True
 added 8 to array: [3, 8]
 added 6 to array: [3, 8, 6]
 adding 386
 
-
 added 1 to array: [1]
 added 4 to array: [1, 4]
 added 2 to array: [1, 4, 2]
-* [33, 6] makes isPart True
+[33, 6] (*) makes isPart True
 adding 142
-
 
 added 3 to array: [3]
 added 2 to array: [3, 2]
@@ -1987,44 +1568,38 @@ added 0 to array: [3, 2, 0]
 added 9 to array: [9]
 added 6 to array: [9, 6]
 added 9 to array: [9, 6, 9]
-= [35, 56] makes isPart True
+[35, 56] (=) makes isPart True
 adding 969
-
 
 added 8 to array: [8]
 added 8 to array: [8, 8]
 added 2 to array: [8, 8, 2]
-* [34, 78] makes isPart True
+[34, 78] (*) makes isPart True
 adding 882
 
-
 added 3 to array: [3]
-* [34, 78] makes isPart True
+[34, 78] (*) makes isPart True
 added 1 to array: [3, 1]
 added 1 to array: [3, 1, 1]
 adding 311
 
-
 added 7 to array: [7]
 added 5 to array: [7, 5]
 added 1 to array: [7, 5, 1]
-* [35, 103] makes isPart True
+[35, 103] (*) makes isPart True
 adding 751
 
-
 added 6 to array: [6]
-- [33, 118] makes isPart True
+[33, 118] (-) makes isPart True
 added 4 to array: [6, 4]
 added 9 to array: [6, 4, 9]
 adding 649
 
-
 added 7 to array: [7]
-* [35, 9] makes isPart True
+[35, 9] (*) makes isPart True
 added 2 to array: [7, 2]
 added 3 to array: [7, 2, 3]
 adding 723
-
 
 added 9 to array: [9]
 added 9 to array: [9, 9]
@@ -2032,202 +1607,164 @@ added 3 to array: [9, 9, 3]
 added 9 to array: [9]
 added 7 to array: [9, 7]
 added 6 to array: [9, 7, 6]
-$ [34, 22] makes isPart True
+[34, 22] ($) makes isPart True
 adding 976
-
 
 added 6 to array: [6]
 added 3 to array: [6, 3]
-* [36, 28] makes isPart True
+[36, 28] (*) makes isPart True
 added 8 to array: [6, 3, 8]
-* [36, 28] makes isPart True
 adding 638
-
 
 added 4 to array: [4]
 added 7 to array: [4, 7]
-@ [34, 39] makes isPart True
+[34, 39] (@) makes isPart True
 added 5 to array: [4, 7, 5]
-@ [34, 39] makes isPart True
 adding 475
-
 
 added 8 to array: [8]
 added 0 to array: [8, 0]
 added 0 to array: [8, 0, 0]
 added 7 to array: [7]
-* [35, 85] makes isPart True
+[35, 85] (*) makes isPart True
 added 6 to array: [7, 6]
 added 4 to array: [7, 6, 4]
 adding 764
 
-
 added 7 to array: [7]
 added 1 to array: [7, 1]
 added 0 to array: [7, 1, 0]
-* [36, 93] makes isPart True
+[36, 93] (*) makes isPart True
 adding 710
 
-
 added 5 to array: [5]
-# [34, 97] makes isPart True
+[34, 97] (#) makes isPart True
 added 7 to array: [5, 7]
-# [34, 97] makes isPart True
 added 4 to array: [5, 7, 4]
-# [34, 97] makes isPart True
 adding 574
 
-
 added 9 to array: [9]
-* [35, 103] makes isPart True
+[35, 103] (*) makes isPart True
 added 6 to array: [9, 6]
 added 4 to array: [9, 6, 4]
 adding 964
 
-
 added 8 to array: [8]
 added 3 to array: [8, 3]
 added 1 to array: [8, 3, 1]
-= [34, 114] makes isPart True
+[34, 114] (=) makes isPart True
 adding 831
-
 
 added 4 to array: [4]
 added 7 to array: [4, 7]
 added 3 to array: [4, 7, 3]
 added 5 to array: [5]
-* [34, 133] makes isPart True
+[34, 133] (*) makes isPart True
 added 3 to array: [5, 3]
-* [34, 133] makes isPart True
 added 1 to array: [5, 3, 1]
 adding 531
-
 
 added 4 to array: [4]
 added 8 to array: [4, 8]
 added 6 to array: [4, 8, 6]
-* [35, 9] makes isPart True
+[35, 9] (*) makes isPart True
 adding 486
-
 
 added 8 to array: [8]
 added 3 to array: [8, 3]
-/ [37, 70] makes isPart True
+[37, 70] (/) makes isPart True
 added 1 to array: [8, 3, 1]
-/ [37, 70] makes isPart True
 adding 831
-
 
 added 3 to array: [3]
 added 7 to array: [3, 7]
 added 5 to array: [3, 7, 5]
-* [35, 85] makes isPart True
+[35, 85] (*) makes isPart True
 adding 375
 
-
 added 8 to array: [8]
-= [36, 118] makes isPart True
+[36, 118] (=) makes isPart True
 added 2 to array: [8, 2]
 added 4 to array: [8, 2, 4]
 adding 824
-
 
 added 2 to array: [2]
 added 1 to array: [2, 1]
 added 5 to array: [5]
 added 5 to array: [5, 5]
 added 9 to array: [5, 5, 9]
-% [36, 3] makes isPart True
+[36, 3] (%) makes isPart True
 adding 559
 
-
 added 4 to array: [4]
-* [36, 28] makes isPart True
+[36, 28] (*) makes isPart True
 added 4 to array: [4, 4]
-* [36, 28] makes isPart True
 added 1 to array: [4, 4, 1]
 adding 441
 
-
 added 3 to array: [3]
-# [36, 33] makes isPart True
+[36, 33] (#) makes isPart True
 added 1 to array: [3, 1]
 added 6 to array: [3, 1, 6]
 adding 316
 
-
 added 6 to array: [6]
 added 1 to array: [6, 1]
-* [36, 93] makes isPart True
+[36, 93] (*) makes isPart True
 added 8 to array: [6, 1, 8]
-* [36, 93] makes isPart True
 adding 618
-
 
 added 4 to array: [4]
 added 0 to array: [4, 0]
 added 7 to array: [4, 0, 7]
-* [38, 98] makes isPart True
+[38, 98] (*) makes isPart True
 adding 407
 
-
 added 8 to array: [8]
-* [38, 106] makes isPart True
+[38, 106] (*) makes isPart True
 added 3 to array: [8, 3]
-* [38, 106] makes isPart True
 adding 83
-
 
 added 9 to array: [9]
 added 7 to array: [9, 7]
 added 2 to array: [9, 7, 2]
-* [38, 117] makes isPart True
+[38, 117] (*) makes isPart True
 adding 972
-
 
 added 9 to array: [9]
 added 1 to array: [9, 1]
 added 2 to array: [2]
 added 5 to array: [2, 5]
-* [39, 14] makes isPart True
+[39, 14] (*) makes isPart True
 adding 25
 
-
 added 7 to array: [7]
-/ [39, 16] makes isPart True
+[39, 16] (/) makes isPart True
 added 4 to array: [7, 4]
-/ [39, 16] makes isPart True
 added 1 to array: [7, 4, 1]
 adding 741
 
-
 added 6 to array: [6]
-* [38, 54] makes isPart True
+[38, 54] (*) makes isPart True
 added 3 to array: [6, 3]
 adding 63
-
 
 added 5 to array: [5]
 added 4 to array: [5, 4]
 added 6 to array: [5, 4, 6]
-$ [38, 61] makes isPart True
+[38, 61] ($) makes isPart True
 adding 546
 
-
 added 9 to array: [9]
-* [39, 65] makes isPart True
+[39, 65] (*) makes isPart True
 added 0 to array: [9, 0]
-* [39, 65] makes isPart True
 added 5 to array: [9, 0, 5]
-* [39, 65] makes isPart True
 adding 905
-
 
 added 2 to array: [2]
 added 7 to array: [2, 7]
-* [39, 75] makes isPart True
+[39, 75] (*) makes isPart True
 adding 27
-
 
 added 8 to array: [8]
 added 6 to array: [8, 6]
@@ -2237,191 +1774,151 @@ added 5 to array: [7, 5]
 added 6 to array: [7, 5, 6]
 added 2 to array: [2]
 added 8 to array: [2, 8]
-* [39, 123] makes isPart True
+[39, 123] (*) makes isPart True
 adding 28
 
-
 added 5 to array: [5]
-# [39, 126] makes isPart True
+[39, 126] (#) makes isPart True
 added 7 to array: [5, 7]
-# [39, 126] makes isPart True
 adding 57
 
-
 added 7 to array: [7]
-* [38, 6] makes isPart True
+[38, 6] (*) makes isPart True
 added 9 to array: [7, 9]
 added 4 to array: [7, 9, 4]
 adding 794
-
 
 added 7 to array: [7]
 added 8 to array: [7, 8]
 added 2 to array: [7, 8, 2]
 added 2 to array: [2]
-* [40, 32] makes isPart True
+[40, 32] (*) makes isPart True
 added 3 to array: [2, 3]
-* [40, 32] makes isPart True
 added 6 to array: [2, 3, 6]
-* [40, 32] makes isPart True
 adding 236
 
-
 added 4 to array: [4]
-% [38, 38] makes isPart True
+[38, 38] (%) makes isPart True
 added 7 to array: [4, 7]
-% [38, 38] makes isPart True
 adding 47
-
 
 added 9 to array: [9]
 added 3 to array: [9, 3]
 added 7 to array: [9, 3, 7]
-* [38, 54] makes isPart True
+[38, 54] (*) makes isPart True
 adding 937
 
-
 added 7 to array: [7]
-+ [40, 69] makes isPart True
+[40, 69] (+) makes isPart True
 added 5 to array: [7, 5]
-+ [40, 69] makes isPart True
 added 5 to array: [7, 5, 5]
-+ [40, 69] makes isPart True
 adding 755
 
-
 added 5 to array: [5]
-* [39, 75] makes isPart True
+[39, 75] (*) makes isPart True
 added 0 to array: [5, 0]
 added 5 to array: [5, 0, 5]
 adding 505
-
 
 added 2 to array: [2]
 added 3 to array: [2, 3]
 added 9 to array: [9]
 added 4 to array: [9, 4]
-* [38, 98] makes isPart True
+[38, 98] (*) makes isPart True
 added 8 to array: [9, 4, 8]
-* [38, 98] makes isPart True
 adding 948
 
-
 added 5 to array: [5]
-* [38, 106] makes isPart True
+[38, 106] (*) makes isPart True
 added 6 to array: [5, 6]
-* [38, 106] makes isPart True
 added 0 to array: [5, 6, 0]
 adding 560
-
 
 added 5 to array: [5]
 added 3 to array: [5, 3]
 added 2 to array: [5, 3, 2]
 added 4 to array: [4]
-* [38, 117] makes isPart True
+[38, 117] (*) makes isPart True
 added 2 to array: [4, 2]
-* [38, 117] makes isPart True
 added 1 to array: [4, 2, 1]
-* [38, 117] makes isPart True
 adding 421
 
-
 added 4 to array: [4]
-* [40, 135] makes isPart True
+[40, 135] (*) makes isPart True
 added 0 to array: [4, 0]
 added 5 to array: [4, 0, 5]
 adding 405
 
-
 added 5 to array: [5]
 added 6 to array: [5, 6]
-* [39, 14] makes isPart True
+[39, 14] (*) makes isPart True
 added 6 to array: [5, 6, 6]
-* [39, 14] makes isPart True
 adding 566
 
-
 added 8 to array: [8]
-- [40, 41] makes isPart True
+[40, 41] (-) makes isPart True
 added 5 to array: [8, 5]
 added 0 to array: [8, 5, 0]
 adding 850
 
-
 added 8 to array: [8]
-+ [41, 48] makes isPart True
+[41, 48] (+) makes isPart True
 added 7 to array: [8, 7]
-+ [41, 48] makes isPart True
 added 2 to array: [8, 7, 2]
-+ [41, 48] makes isPart True
 adding 872
-
 
 added 9 to array: [9]
 added 0 to array: [9, 0]
 added 2 to array: [2]
 added 2 to array: [2, 2]
-* [39, 65] makes isPart True
+[39, 65] (*) makes isPart True
 added 9 to array: [2, 2, 9]
-* [39, 65] makes isPart True
 adding 229
-
 
 added 9 to array: [9]
 added 7 to array: [9, 7]
 added 8 to array: [9, 7, 8]
 added 6 to array: [6]
 added 8 to array: [6, 8]
-$ [41, 87] makes isPart True
+[41, 87] ($) makes isPart True
 added 4 to array: [6, 8, 4]
-$ [41, 87] makes isPart True
 adding 684
-
 
 added 2 to array: [2]
 added 2 to array: [2, 2]
 added 5 to array: [2, 2, 5]
-@ [41, 103] makes isPart True
+[41, 103] (@) makes isPart True
 adding 225
-
 
 added 6 to array: [6]
 added 7 to array: [6, 7]
-* [39, 123] makes isPart True
+[39, 123] (*) makes isPart True
 added 5 to array: [6, 7, 5]
-* [39, 123] makes isPart True
 adding 675
-
 
 added 5 to array: [5]
 added 9 to array: [5, 9]
 added 1 to array: [5, 9, 1]
-& [41, 132] makes isPart True
+[41, 132] (&) makes isPart True
 adding 591
-
 
 added 2 to array: [2]
 added 9 to array: [2, 9]
 added 6 to array: [2, 9, 6]
-* [40, 32] makes isPart True
+[40, 32] (*) makes isPart True
 adding 296
-
 
 added 2 to array: [2]
 added 4 to array: [2, 4]
-% [42, 36] makes isPart True
+[42, 36] (%) makes isPart True
 added 3 to array: [2, 4, 3]
-% [42, 36] makes isPart True
 adding 243
 
-
 added 6 to array: [6]
-- [42, 52] makes isPart True
+[42, 52] (-) makes isPart True
 added 9 to array: [6, 9]
 added 1 to array: [6, 9, 1]
 adding 691
-
 
 added 3 to array: [3]
 added 1 to array: [3, 1]
@@ -2432,393 +1929,310 @@ added 1 to array: [3, 2, 1]
 added 8 to array: [8]
 added 2 to array: [8, 2]
 added 7 to array: [8, 2, 7]
-% [42, 113] makes isPart True
+[42, 113] (%) makes isPart True
 adding 827
 
-
 added 1 to array: [1]
-$ [41, 117] makes isPart True
+[41, 117] ($) makes isPart True
 added 3 to array: [1, 3]
 adding 13
 
-
 added 5 to array: [5]
-* [40, 135] makes isPart True
+[40, 135] (*) makes isPart True
 added 3 to array: [5, 3]
-* [40, 135] makes isPart True
 added 0 to array: [5, 3, 0]
 adding 530
 
-
 added 6 to array: [6]
 added 6 to array: [6, 6]
-$ [43, 7] makes isPart True
+[43, 7] ($) makes isPart True
 added 4 to array: [6, 6, 4]
-$ [43, 7] makes isPart True
 adding 664
-
 
 added 4 to array: [4]
 added 2 to array: [4, 2]
 added 2 to array: [4, 2, 2]
-$ [42, 13] makes isPart True
+[42, 13] ($) makes isPart True
 adding 422
 
-
 added 6 to array: [6]
-* [43, 17] makes isPart True
+[43, 17] (*) makes isPart True
 added 1 to array: [6, 1]
 added 3 to array: [6, 1, 3]
 adding 613
 
-
 added 4 to array: [4]
 added 0 to array: [4, 0]
 added 1 to array: [4, 0, 1]
-/ [42, 41] makes isPart True
+[42, 41] (/) makes isPart True
 adding 401
 
-
 added 9 to array: [9]
-$ [42, 43] makes isPart True
+[42, 43] ($) makes isPart True
 added 7 to array: [9, 7]
 added 4 to array: [9, 7, 4]
 adding 974
 
-
 added 1 to array: [1]
-* [43, 65] makes isPart True
+[43, 65] (*) makes isPart True
 added 4 to array: [1, 4]
-* [43, 65] makes isPart True
 added 5 to array: [1, 4, 5]
-* [43, 65] makes isPart True
 adding 145
 
-
 added 7 to array: [7]
-= [43, 71] makes isPart True
+[43, 71] (=) makes isPart True
 added 2 to array: [7, 2]
-= [43, 71] makes isPart True
 added 9 to array: [7, 2, 9]
 adding 729
-
 
 added 1 to array: [1]
 added 0 to array: [1, 0]
 added 6 to array: [1, 0, 6]
 added 6 to array: [6]
-$ [41, 127] makes isPart True
+[41, 127] ($) makes isPart True
 added 1 to array: [6, 1]
-$ [41, 127] makes isPart True
 added 1 to array: [6, 1, 1]
 adding 611
 
-
 added 8 to array: [8]
-@ [42, 26] makes isPart True
+[42, 26] (@) makes isPart True
 added 5 to array: [8, 5]
-@ [42, 26] makes isPart True
 added 7 to array: [8, 5, 7]
-@ [42, 26] makes isPart True
 adding 857
-
 
 added 1 to array: [1]
 added 4 to array: [1, 4]
 added 7 to array: [1, 4, 7]
-* [43, 34] makes isPart True
+[43, 34] (*) makes isPart True
 adding 147
 
-
 added 5 to array: [5]
-- [44, 47] makes isPart True
+[44, 47] (-) makes isPart True
 added 9 to array: [5, 9]
 added 1 to array: [5, 9, 1]
 adding 591
 
-
 added 4 to array: [4]
-% [42, 62] makes isPart True
+[42, 62] (%) makes isPart True
 added 6 to array: [4, 6]
-% [42, 62] makes isPart True
 adding 46
 
-
 added 3 to array: [3]
-* [42, 80] makes isPart True
+[42, 80] (*) makes isPart True
 added 0 to array: [3, 0]
-* [42, 80] makes isPart True
 added 6 to array: [3, 0, 6]
 adding 306
 
-
 added 6 to array: [6]
 added 7 to array: [6, 7]
-* [43, 86] makes isPart True
+[43, 86] (*) makes isPart True
 adding 67
 
-
 added 8 to array: [8]
-/ [42, 90] makes isPart True
+[42, 90] (/) makes isPart True
 added 1 to array: [8, 1]
-/ [42, 90] makes isPart True
 added 8 to array: [8, 1, 8]
 adding 818
 
-
 added 2 to array: [2]
-= [42, 121] makes isPart True
+[42, 121] (=) makes isPart True
 added 6 to array: [2, 6]
 added 1 to array: [2, 6, 1]
 adding 261
 
-
 added 8 to array: [8]
-* [45, 13] makes isPart True
+[45, 13] (*) makes isPart True
 added 2 to array: [8, 2]
-* [45, 13] makes isPart True
 added 3 to array: [8, 2, 3]
-* [45, 13] makes isPart True
 adding 823
 
-
 added 7 to array: [7]
-* [43, 17] makes isPart True
+[43, 17] (*) makes isPart True
 added 8 to array: [7, 8]
 added 5 to array: [7, 8, 5]
 adding 785
 
-
 added 3 to array: [3]
-* [43, 34] makes isPart True
+[43, 34] (*) makes isPart True
 added 4 to array: [3, 4]
 added 0 to array: [3, 4, 0]
 adding 340
-
 
 added 5 to array: [5]
 added 6 to array: [5, 6]
 added 4 to array: [5, 6, 4]
 added 7 to array: [7]
 added 7 to array: [7, 7]
-+ [43, 59] makes isPart True
+[43, 59] (+) makes isPart True
 added 7 to array: [7, 7, 7]
-+ [43, 59] makes isPart True
 adding 777
 
-
 added 4 to array: [4]
-* [43, 65] makes isPart True
+[43, 65] (*) makes isPart True
 added 5 to array: [4, 5]
 added 6 to array: [4, 5, 6]
 adding 456
 
-
 added 8 to array: [8]
-* [45, 96] makes isPart True
+[45, 96] (*) makes isPart True
 added 9 to array: [8, 9]
 added 1 to array: [8, 9, 1]
 adding 891
-
 
 added 5 to array: [5]
 added 6 to array: [5, 6]
 added 0 to array: [5, 6, 0]
 added 6 to array: [6]
-/ [43, 131] makes isPart True
+[43, 131] (/) makes isPart True
 added 4 to array: [6, 4]
-/ [43, 131] makes isPart True
 added 2 to array: [6, 4, 2]
 adding 642
-
 
 added 1 to array: [1]
 added 8 to array: [1, 8]
 added 1 to array: [1, 8, 1]
 added 3 to array: [3]
 added 9 to array: [3, 9]
-@ [46, 7] makes isPart True
+[46, 7] (@) makes isPart True
 added 4 to array: [3, 9, 4]
-@ [46, 7] makes isPart True
 adding 394
 
-
 added 2 to array: [2]
-* [46, 30] makes isPart True
+[46, 30] (*) makes isPart True
 added 2 to array: [2, 2]
-* [46, 30] makes isPart True
 added 6 to array: [2, 2, 6]
 adding 226
 
-
 added 4 to array: [4]
-+ [46, 44] makes isPart True
+[46, 44] (+) makes isPart True
 added 2 to array: [4, 2]
-+ [46, 44] makes isPart True
 added 3 to array: [4, 2, 3]
-+ [46, 44] makes isPart True
 adding 423
 
-
 added 5 to array: [5]
-% [44, 76] makes isPart True
+[44, 76] (%) makes isPart True
 added 3 to array: [5, 3]
-% [44, 76] makes isPart True
 added 9 to array: [5, 3, 9]
 adding 539
-
 
 added 6 to array: [6]
 added 4 to array: [6, 4]
 added 0 to array: [6, 4, 0]
-& [45, 112] makes isPart True
+[45, 112] (&) makes isPart True
 adding 640
 
-
 added 5 to array: [5]
-* [46, 127] makes isPart True
+[46, 127] (*) makes isPart True
 added 3 to array: [5, 3]
-* [46, 127] makes isPart True
 added 5 to array: [5, 3, 5]
-* [46, 127] makes isPart True
 adding 535
 
-
 added 6 to array: [6]
-* [45, 13] makes isPart True
+[45, 13] (*) makes isPart True
 added 2 to array: [6, 2]
-* [45, 13] makes isPart True
 added 6 to array: [6, 2, 6]
 adding 626
 
-
 added 3 to array: [3]
-- [47, 17] makes isPart True
+[47, 17] (-) makes isPart True
 added 1 to array: [3, 1]
 added 7 to array: [3, 1, 7]
 adding 317
 
-
 added 3 to array: [3]
 added 2 to array: [3, 2]
 added 9 to array: [3, 2, 9]
-* [47, 26] makes isPart True
+[47, 26] (*) makes isPart True
 adding 329
 
-
 added 9 to array: [9]
-* [47, 33] makes isPart True
+[47, 33] (*) makes isPart True
 added 2 to array: [9, 2]
 adding 92
 
-
 added 3 to array: [3]
-+ [47, 63] makes isPart True
+[47, 63] (+) makes isPart True
 added 7 to array: [3, 7]
-+ [47, 63] makes isPart True
 added 4 to array: [3, 7, 4]
 adding 374
-
 
 added 8 to array: [8]
 added 2 to array: [8, 2]
 added 7 to array: [8, 2, 7]
-* [47, 73] makes isPart True
+[47, 73] (*) makes isPart True
 adding 827
-
 
 added 6 to array: [6]
 added 8 to array: [6, 8]
 added 3 to array: [6, 8, 3]
-+ [46, 90] makes isPart True
+[46, 90] (+) makes isPart True
 adding 683
 
-
 added 7 to array: [7]
-* [45, 96] makes isPart True
+[45, 96] (*) makes isPart True
 added 7 to array: [7, 7]
-* [45, 96] makes isPart True
 added 1 to array: [7, 7, 1]
-* [45, 96] makes isPart True
 adding 771
-
 
 added 5 to array: [5]
 added 2 to array: [5, 2]
-* [47, 104] makes isPart True
+[47, 104] (*) makes isPart True
 added 9 to array: [5, 2, 9]
-* [47, 104] makes isPart True
 adding 529
-
 
 added 3 to array: [3]
 added 0 to array: [3, 0]
-* [47, 116] makes isPart True
+[47, 116] (*) makes isPart True
 added 3 to array: [3, 0, 3]
-* [47, 116] makes isPart True
 adding 303
 
-
 added 1 to array: [1]
-* [48, 10] makes isPart True
+[48, 10] (*) makes isPart True
 added 7 to array: [1, 7]
-* [48, 10] makes isPart True
 added 2 to array: [1, 7, 2]
-* [48, 10] makes isPart True
 adding 172
 
-
 added 3 to array: [3]
-* [48, 38] makes isPart True
+[48, 38] (*) makes isPart True
 added 3 to array: [3, 3]
 added 2 to array: [3, 3, 2]
 adding 332
 
-
 added 2 to array: [2]
-$ [48, 53] makes isPart True
+[48, 53] ($) makes isPart True
 added 8 to array: [2, 8]
-$ [48, 53] makes isPart True
 added 8 to array: [2, 8, 8]
 adding 288
 
-
 added 2 to array: [2]
-* [48, 57] makes isPart True
+[48, 57] (*) makes isPart True
 added 2 to array: [2, 2]
 added 9 to array: [2, 2, 9]
 adding 229
 
-
 added 7 to array: [7]
 added 8 to array: [7, 8]
 added 6 to array: [7, 8, 6]
-= [47, 78] makes isPart True
+[47, 78] (=) makes isPart True
 adding 786
-
 
 added 4 to array: [4]
 added 6 to array: [4, 6]
-* [46, 85] makes isPart True
+[46, 85] (*) makes isPart True
 added 8 to array: [4, 6, 8]
-* [46, 85] makes isPart True
 adding 468
-
 
 added 4 to array: [4]
 added 6 to array: [4, 6]
 added 1 to array: [4, 6, 1]
-@ [48, 124] makes isPart True
+[48, 124] (@) makes isPart True
 adding 461
 
-
 added 2 to array: [2]
-* [46, 127] makes isPart True
+[46, 127] (*) makes isPart True
 added 4 to array: [2, 4]
-* [46, 127] makes isPart True
 added 9 to array: [2, 4, 9]
 adding 249
-
 
 added 9 to array: [9]
 added 7 to array: [9, 7]
@@ -2826,206 +2240,162 @@ added 4 to array: [9, 7, 4]
 added 9 to array: [9]
 added 0 to array: [9, 0]
 added 1 to array: [9, 0, 1]
-* [47, 26] makes isPart True
+[47, 26] (*) makes isPart True
 adding 901
 
-
 added 1 to array: [1]
-* [47, 33] makes isPart True
+[47, 33] (*) makes isPart True
 added 3 to array: [1, 3]
-* [47, 33] makes isPart True
 added 0 to array: [1, 3, 0]
 adding 130
 
-
 added 4 to array: [4]
-* [49, 68] makes isPart True
+[49, 68] (*) makes isPart True
 adding 4
-
 
 added 5 to array: [5]
 added 7 to array: [5, 7]
 added 3 to array: [5, 7, 3]
-* [47, 73] makes isPart True
+[47, 73] (*) makes isPart True
 adding 573
 
-
 added 1 to array: [1]
-* [49, 90] makes isPart True
+[49, 90] (*) makes isPart True
 added 6 to array: [1, 6]
-* [49, 90] makes isPart True
 added 3 to array: [1, 6, 3]
-* [49, 90] makes isPart True
 adding 163
 
-
 added 4 to array: [4]
-* [47, 99] makes isPart True
+[47, 99] (*) makes isPart True
 added 2 to array: [4, 2]
-* [47, 99] makes isPart True
 added 9 to array: [4, 2, 9]
-* [47, 99] makes isPart True
 adding 429
 
-
 added 8 to array: [8]
-* [47, 104] makes isPart True
+[47, 104] (*) makes isPart True
 added 0 to array: [8, 0]
 added 8 to array: [8, 0, 8]
 adding 808
 
-
 added 4 to array: [4]
 added 6 to array: [4, 6]
 added 4 to array: [4, 6, 4]
-* [48, 112] makes isPart True
+[48, 112] (*) makes isPart True
 adding 464
 
-
 added 4 to array: [4]
-* [48, 112] makes isPart True
+[48, 112] (*) makes isPart True
 added 7 to array: [4, 7]
 adding 47
 
-
 added 2 to array: [2]
-* [47, 116] makes isPart True
+[47, 116] (*) makes isPart True
 added 3 to array: [2, 3]
 added 1 to array: [2, 3, 1]
 adding 231
 
-
 added 9 to array: [9]
-= [47, 132] makes isPart True
+[47, 132] (=) makes isPart True
 added 6 to array: [9, 6]
-= [47, 132] makes isPart True
 added 4 to array: [9, 6, 4]
-= [47, 132] makes isPart True
 adding 964
-
 
 added 1 to array: [1]
 added 8 to array: [1, 8]
-* [48, 10] makes isPart True
+[48, 10] (*) makes isPart True
 added 3 to array: [1, 8, 3]
-* [48, 10] makes isPart True
 adding 183
 
-
 added 5 to array: [5]
-@ [48, 28] makes isPart True
+[48, 28] (@) makes isPart True
 added 8 to array: [5, 8]
-@ [48, 28] makes isPart True
 added 2 to array: [5, 8, 2]
 adding 582
 
-
 added 1 to array: [1]
-* [48, 38] makes isPart True
+[48, 38] (*) makes isPart True
 added 1 to array: [1, 1]
 adding 11
 
-
 added 3 to array: [3]
-* [48, 57] makes isPart True
+[48, 57] (*) makes isPart True
 added 1 to array: [3, 1]
-* [48, 57] makes isPart True
 added 0 to array: [3, 1, 0]
-* [48, 57] makes isPart True
 adding 310
 
-
 added 7 to array: [7]
-@ [50, 63] makes isPart True
+[50, 63] (@) makes isPart True
 added 7 to array: [7, 7]
 added 4 to array: [7, 7, 4]
 adding 774
-
 
 added 5 to array: [5]
 added 6 to array: [5, 6]
 added 7 to array: [5, 6, 7]
 added 3 to array: [3]
-* [50, 95] makes isPart True
+[50, 95] (*) makes isPart True
 added 6 to array: [3, 6]
-* [50, 95] makes isPart True
 adding 36
-
 
 added 9 to array: [9]
 added 3 to array: [9, 3]
-& [51, 25] makes isPart True
+[51, 25] (&) makes isPart True
 added 9 to array: [9, 3, 9]
-& [51, 25] makes isPart True
 adding 939
 
-
 added 8 to array: [8]
-* [50, 47] makes isPart True
+[50, 47] (*) makes isPart True
 added 2 to array: [8, 2]
 added 6 to array: [8, 2, 6]
 adding 826
 
-
 added 8 to array: [8]
-* [49, 68] makes isPart True
+[49, 68] (*) makes isPart True
 added 9 to array: [8, 9]
 added 2 to array: [8, 9, 2]
 adding 892
 
-
 added 4 to array: [4]
-* [51, 81] makes isPart True
+[51, 81] (*) makes isPart True
 added 8 to array: [4, 8]
 added 1 to array: [4, 8, 1]
 adding 481
 
-
 added 2 to array: [2]
-* [49, 90] makes isPart True
+[49, 90] (*) makes isPart True
 added 6 to array: [2, 6]
 added 6 to array: [2, 6, 6]
 adding 266
 
-
 added 2 to array: [2]
-- [50, 99] makes isPart True
+[50, 99] (-) makes isPart True
 added 5 to array: [2, 5]
 added 3 to array: [2, 5, 3]
 adding 253
 
-
 added 1 to array: [1]
-* [51, 111] makes isPart True
+[51, 111] (*) makes isPart True
 added 0 to array: [1, 0]
 added 6 to array: [1, 0, 6]
 adding 106
 
-
 added 8 to array: [8]
-* [51, 117] makes isPart True
+[51, 117] (*) makes isPart True
 added 3 to array: [8, 3]
-* [51, 117] makes isPart True
 added 0 to array: [8, 3, 0]
-* [51, 117] makes isPart True
 adding 830
-
 
 added 2 to array: [2]
 added 3 to array: [2, 3]
-* [51, 125] makes isPart True
+[51, 125] (*) makes isPart True
 added 5 to array: [2, 3, 5]
-* [51, 125] makes isPart True
 adding 235
 
-
 added 8 to array: [8]
-* [51, 135] makes isPart True
+[51, 135] (*) makes isPart True
 added 4 to array: [8, 4]
-* [51, 135] makes isPart True
 added 1 to array: [8, 4, 1]
 adding 841
-
 
 added 7 to array: [7]
 added 2 to array: [7, 2]
@@ -3033,23 +2403,20 @@ added 7 to array: [7, 2, 7]
 added 1 to array: [1]
 added 7 to array: [1, 7]
 added 7 to array: [1, 7, 7]
-# [51, 15] makes isPart True
+[51, 15] (#) makes isPart True
 adding 177
-
 
 added 5 to array: [5]
 added 0 to array: [5, 0]
 added 7 to array: [5, 0, 7]
-& [52, 36] makes isPart True
+[52, 36] (&) makes isPart True
 adding 507
-
 
 added 3 to array: [3]
 added 0 to array: [3, 0]
 added 1 to array: [3, 0, 1]
-* [50, 47] makes isPart True
+[50, 47] (*) makes isPart True
 adding 301
-
 
 added 5 to array: [5]
 added 5 to array: [5, 5]
@@ -3057,139 +2424,112 @@ added 0 to array: [5, 5, 0]
 added 2 to array: [2]
 added 4 to array: [2, 4]
 added 2 to array: [2, 4, 2]
-* [51, 81] makes isPart True
+[51, 81] (*) makes isPart True
 adding 242
 
-
 added 6 to array: [6]
-* [50, 95] makes isPart True
+[50, 95] (*) makes isPart True
 added 8 to array: [6, 8]
-* [50, 95] makes isPart True
 added 6 to array: [6, 8, 6]
 adding 686
 
-
 added 4 to array: [4]
 added 4 to array: [4, 4]
-$ [52, 109] makes isPart True
+[52, 109] ($) makes isPart True
 added 6 to array: [4, 4, 6]
-$ [52, 109] makes isPart True
 adding 446
-
 
 added 8 to array: [8]
 added 9 to array: [8, 9]
-* [50, 132] makes isPart True
+[50, 132] (*) makes isPart True
 added 4 to array: [8, 9, 4]
-* [50, 132] makes isPart True
 adding 894
-
 
 added 6 to array: [6]
 added 7 to array: [6, 7]
 added 4 to array: [4]
 added 6 to array: [4, 6]
 added 8 to array: [4, 6, 8]
-* [53, 24] makes isPart True
+[53, 24] (*) makes isPart True
 adding 468
-
 
 added 5 to array: [5]
 added 9 to array: [5, 9]
 added 6 to array: [5, 9, 6]
-* [53, 42] makes isPart True
+[53, 42] (*) makes isPart True
 adding 596
 
-
 added 8 to array: [8]
-* [53, 64] makes isPart True
+[53, 64] (*) makes isPart True
 added 1 to array: [8, 1]
-* [53, 64] makes isPart True
 added 7 to array: [8, 1, 7]
 adding 817
-
 
 added 6 to array: [6]
 added 0 to array: [6, 0]
 added 0 to array: [6, 0, 0]
 added 8 to array: [8]
-+ [51, 87] makes isPart True
+[51, 87] (+) makes isPart True
 added 5 to array: [8, 5]
-+ [51, 87] makes isPart True
 adding 85
 
-
 added 5 to array: [5]
-/ [51, 89] makes isPart True
+[51, 89] (/) makes isPart True
 adding 5
-
 
 added 9 to array: [9]
 added 7 to array: [9, 7]
-@ [51, 105] makes isPart True
+[51, 105] (@) makes isPart True
 added 3 to array: [9, 7, 3]
-@ [51, 105] makes isPart True
 adding 973
 
-
 added 8 to array: [8]
-* [51, 111] makes isPart True
+[51, 111] (*) makes isPart True
 added 0 to array: [8, 0]
-* [51, 111] makes isPart True
 added 5 to array: [8, 0, 5]
 adding 805
 
-
 added 5 to array: [5]
-* [51, 117] makes isPart True
+[51, 117] (*) makes isPart True
 added 1 to array: [5, 1]
-* [51, 117] makes isPart True
 added 3 to array: [5, 1, 3]
 adding 513
 
-
 added 3 to array: [3]
-* [51, 125] makes isPart True
+[51, 125] (*) makes isPart True
 added 7 to array: [3, 7]
 added 8 to array: [3, 7, 8]
 adding 378
 
-
 added 3 to array: [3]
-* [51, 135] makes isPart True
+[51, 135] (*) makes isPart True
 added 8 to array: [3, 8]
 added 8 to array: [3, 8, 8]
 adding 388
 
-
 added 2 to array: [2]
-* [53, 11] makes isPart True
+[53, 11] (*) makes isPart True
 added 4 to array: [2, 4]
 added 7 to array: [2, 4, 7]
 adding 247
 
-
 added 9 to array: [9]
-& [52, 29] makes isPart True
+[52, 29] (&) makes isPart True
 added 7 to array: [9, 7]
 added 4 to array: [9, 7, 4]
 adding 974
 
-
 added 2 to array: [2]
-* [53, 42] makes isPart True
+[53, 42] (*) makes isPart True
 added 6 to array: [2, 6]
 added 3 to array: [2, 6, 3]
 adding 263
 
-
 added 3 to array: [3]
-* [54, 50] makes isPart True
+[54, 50] (*) makes isPart True
 added 2 to array: [3, 2]
-* [54, 50] makes isPart True
 added 9 to array: [3, 2, 9]
 adding 329
-
 
 added 4 to array: [4]
 added 7 to array: [4, 7]
@@ -3201,61 +2541,49 @@ added 7 to array: [7]
 added 2 to array: [7, 2]
 added 3 to array: [7, 2, 3]
 added 3 to array: [3]
-* [54, 131] makes isPart True
+[54, 131] (*) makes isPart True
 added 5 to array: [3, 5]
 added 8 to array: [3, 5, 8]
 adding 358
 
-
 added 7 to array: [7]
 added 8 to array: [7, 8]
 added 4 to array: [7, 8, 4]
-* [53, 11] makes isPart True
+[53, 11] (*) makes isPart True
 adding 784
 
-
 added 4 to array: [4]
-* [55, 15] makes isPart True
+[55, 15] (*) makes isPart True
 added 3 to array: [4, 3]
 added 4 to array: [4, 3, 4]
 adding 434
 
-
 added 6 to array: [6]
-* [53, 24] makes isPart True
+[53, 24] (*) makes isPart True
 added 6 to array: [6, 6]
-* [53, 24] makes isPart True
 added 7 to array: [6, 6, 7]
 adding 667
 
-
 added 6 to array: [6]
-* [53, 64] makes isPart True
+[53, 64] (*) makes isPart True
 added 1 to array: [6, 1]
-* [53, 64] makes isPart True
 added 5 to array: [6, 1, 5]
-* [53, 64] makes isPart True
 adding 615
-
 
 added 1 to array: [1]
 added 9 to array: [1, 9]
 added 5 to array: [1, 9, 5]
 added 6 to array: [6]
-- [55, 72] makes isPart True
+[55, 72] (-) makes isPart True
 added 1 to array: [6, 1]
-- [55, 72] makes isPart True
 added 2 to array: [6, 1, 2]
-- [55, 72] makes isPart True
 adding 612
-
 
 added 5 to array: [5]
 added 4 to array: [5, 4]
 added 0 to array: [5, 4, 0]
-# [54, 108] makes isPart True
+[54, 108] (#) makes isPart True
 adding 540
-
 
 added 3 to array: [3]
 added 4 to array: [3, 4]
@@ -3265,150 +2593,116 @@ added 6 to array: [7, 6]
 added 1 to array: [1]
 added 2 to array: [1, 2]
 added 1 to array: [1, 2, 1]
-# [56, 44] makes isPart True
+[56, 44] (#) makes isPart True
 adding 121
-
 
 added 6 to array: [6]
 added 5 to array: [6, 5]
 added 9 to array: [6, 5, 9]
-* [54, 50] makes isPart True
+[54, 50] (*) makes isPart True
 adding 659
 
-
 added 5 to array: [5]
-@ [55, 58] makes isPart True
+[55, 58] (@) makes isPart True
 added 5 to array: [5, 5]
 added 5 to array: [5, 5, 5]
 adding 555
 
-
 added 2 to array: [2]
 added 0 to array: [2, 0]
 added 1 to array: [2, 0, 1]
-* [56, 89] makes isPart True
+[56, 89] (*) makes isPart True
 adding 201
-
 
 added 8 to array: [8]
 added 6 to array: [8, 6]
 added 6 to array: [8, 6, 6]
-* [56, 114] makes isPart True
+[56, 114] (*) makes isPart True
 adding 866
-
 
 added 6 to array: [6]
 added 2 to array: [6, 2]
-* [56, 128] makes isPart True
+[56, 128] (*) makes isPart True
 added 8 to array: [6, 2, 8]
-* [56, 128] makes isPart True
 adding 628
 
-
 added 5 to array: [5]
-* [54, 131] makes isPart True
+[54, 131] (*) makes isPart True
 added 0 to array: [5, 0]
-* [54, 131] makes isPart True
 added 5 to array: [5, 0, 5]
-* [54, 131] makes isPart True
 adding 505
 
-
 added 5 to array: [5]
 added 0 to array: [5, 0]
-& [56, 136] makes isPart True
+[56, 136] (&) makes isPart True
 added 9 to array: [5, 0, 9]
-& [56, 136] makes isPart True
 adding 509
-
 
 added 5 to array: [5]
 added 1 to array: [5, 1]
-* [55, 15] makes isPart True
+[55, 15] (*) makes isPart True
 added 5 to array: [5, 1, 5]
-* [55, 15] makes isPart True
 adding 515
 
-
 added 2 to array: [2]
-* [57, 66] makes isPart True
+[57, 66] (*) makes isPart True
 added 8 to array: [2, 8]
-* [57, 66] makes isPart True
 added 1 to array: [2, 8, 1]
-* [57, 66] makes isPart True
 adding 281
 
-
 added 6 to array: [6]
-# [57, 75] makes isPart True
+[57, 75] (#) makes isPart True
 added 5 to array: [6, 5]
-# [57, 75] makes isPart True
 added 6 to array: [6, 5, 6]
-# [57, 75] makes isPart True
 adding 656
 
-
 added 6 to array: [6]
-* [56, 89] makes isPart True
+[56, 89] (*) makes isPart True
 added 7 to array: [6, 7]
 added 0 to array: [6, 7, 0]
 adding 670
 
-
 added 4 to array: [4]
-* [57, 94] makes isPart True
+[57, 94] (*) makes isPart True
 added 1 to array: [4, 1]
-* [57, 94] makes isPart True
 added 9 to array: [4, 1, 9]
 adding 419
 
-
 added 7 to array: [7]
-* [57, 105] makes isPart True
+[57, 105] (*) makes isPart True
 added 9 to array: [7, 9]
-* [57, 105] makes isPart True
 added 9 to array: [7, 9, 9]
-* [57, 105] makes isPart True
 adding 799
-
 
 added 5 to array: [5]
 added 1 to array: [5, 1]
 added 0 to array: [5, 1, 0]
-* [57, 121] makes isPart True
+[57, 121] (*) makes isPart True
 adding 510
 
-
 added 7 to array: [7]
-* [57, 121] makes isPart True
+[57, 121] (*) makes isPart True
 added 8 to array: [7, 8]
 added 6 to array: [7, 8, 6]
 adding 786
 
-
 added 9 to array: [9]
-$ [58, 4] makes isPart True
+[58, 4] ($) makes isPart True
 added 9 to array: [9, 9]
-$ [58, 4] makes isPart True
 added 3 to array: [9, 9, 3]
 adding 993
 
-
 added 5 to array: [5]
 added 4 to array: [5, 4]
-/ [56, 26] makes isPart True
+[56, 26] (/) makes isPart True
 added 0 to array: [5, 4, 0]
-/ [56, 26] makes isPart True
 adding 540
-
 
 added 3 to array: [3]
 added 7 to array: [3, 7]
-* [58, 30] makes isPart True
+[58, 30] (*) makes isPart True
 added 3 to array: [3, 7, 3]
-* [58, 30] makes isPart True
 adding 373
-
 
 added 7 to array: [7]
 added 0 to array: [7, 0]
@@ -3416,255 +2710,202 @@ added 9 to array: [7, 0, 9]
 added 7 to array: [7]
 added 0 to array: [7, 0]
 added 5 to array: [7, 0, 5]
-* [58, 54] makes isPart True
+[58, 54] (*) makes isPart True
 adding 705
 
-
 added 1 to array: [1]
-% [56, 70] makes isPart True
+[56, 70] (%) makes isPart True
 added 3 to array: [1, 3]
-% [56, 70] makes isPart True
 added 2 to array: [1, 3, 2]
 adding 132
-
 
 added 2 to array: [2]
 added 9 to array: [2, 9]
 added 8 to array: [2, 9, 8]
-$ [57, 87] makes isPart True
+[57, 87] ($) makes isPart True
 adding 298
 
-
 added 2 to array: [2]
-# [58, 98] makes isPart True
+[58, 98] (#) makes isPart True
 added 3 to array: [2, 3]
-# [58, 98] makes isPart True
 added 2 to array: [2, 3, 2]
 adding 232
-
 
 added 8 to array: [8]
 added 7 to array: [8, 7]
 added 8 to array: [8, 7, 8]
-* [56, 114] makes isPart True
+[56, 114] (*) makes isPart True
 adding 878
-
 
 added 5 to array: [5]
 added 2 to array: [5, 2]
-* [56, 128] makes isPart True
+[56, 128] (*) makes isPart True
 added 8 to array: [5, 2, 8]
-* [56, 128] makes isPart True
 adding 528
-
 
 added 6 to array: [6]
 added 1 to array: [6, 1]
-# [59, 16] makes isPart True
+[59, 16] (#) makes isPart True
 added 5 to array: [6, 1, 5]
-# [59, 16] makes isPart True
 adding 615
-
 
 added 9 to array: [9]
 added 4 to array: [9, 4]
 added 8 to array: [9, 4, 8]
-* [59, 44] makes isPart True
+[59, 44] (*) makes isPart True
 adding 948
-
 
 added 5 to array: [5]
 added 6 to array: [5, 6]
 added 5 to array: [5, 6, 5]
-* [57, 66] makes isPart True
+[57, 66] (*) makes isPart True
 adding 565
 
-
 added 4 to array: [4]
-* [57, 94] makes isPart True
+[57, 94] (*) makes isPart True
 added 6 to array: [4, 6]
-* [57, 94] makes isPart True
 added 5 to array: [4, 6, 5]
-* [57, 94] makes isPart True
 adding 465
 
-
 added 4 to array: [4]
-* [57, 105] makes isPart True
+[57, 105] (*) makes isPart True
 added 9 to array: [4, 9]
-* [57, 105] makes isPart True
 added 7 to array: [4, 9, 7]
-* [57, 105] makes isPart True
 adding 497
 
-
 added 6 to array: [6]
-@ [57, 108] makes isPart True
+[57, 108] (@) makes isPart True
 added 7 to array: [6, 7]
-@ [57, 108] makes isPart True
 adding 67
-
 
 added 6 to array: [6]
 added 3 to array: [6, 3]
-# [57, 132] makes isPart True
+[57, 132] (#) makes isPart True
 added 1 to array: [6, 3, 1]
-# [57, 132] makes isPart True
 adding 631
 
-
 added 1 to array: [1]
-* [60, 8] makes isPart True
+[60, 8] (*) makes isPart True
 added 3 to array: [1, 3]
 added 8 to array: [1, 3, 8]
 adding 138
 
-
 added 4 to array: [4]
 added 1 to array: [4, 1]
 added 7 to array: [4, 1, 7]
-/ [60, 24] makes isPart True
+[60, 24] (/) makes isPart True
 adding 417
 
-
 added 1 to array: [1]
-* [58, 30] makes isPart True
+[58, 30] (*) makes isPart True
 added 2 to array: [1, 2]
-* [58, 30] makes isPart True
 added 3 to array: [1, 2, 3]
 adding 123
 
-
 added 5 to array: [5]
 added 4 to array: [5, 4]
-* [58, 54] makes isPart True
+[58, 54] (*) makes isPart True
 added 6 to array: [5, 4, 6]
-* [58, 54] makes isPart True
 adding 546
-
 
 added 8 to array: [8]
 added 2 to array: [8, 2]
 added 1 to array: [8, 2, 1]
 added 1 to array: [1]
 added 1 to array: [1, 1]
-% [58, 82] makes isPart True
+[58, 82] (%) makes isPart True
 added 4 to array: [1, 1, 4]
-% [58, 82] makes isPart True
 adding 114
 
-
 added 2 to array: [2]
-@ [60, 113] makes isPart True
+[60, 113] (@) makes isPart True
 added 5 to array: [2, 5]
 added 8 to array: [2, 5, 8]
 adding 258
 
-
 added 8 to array: [8]
 added 5 to array: [8, 5]
 added 9 to array: [8, 5, 9]
-= [59, 121] makes isPart True
+[59, 121] (=) makes isPart True
 adding 859
-
 
 added 3 to array: [3]
 added 8 to array: [3, 8]
 added 0 to array: [3, 8, 0]
-- [59, 126] makes isPart True
+[59, 126] (-) makes isPart True
 adding 380
-
 
 added 7 to array: [7]
 added 3 to array: [7, 3]
 added 4 to array: [7, 3, 4]
-* [60, 8] makes isPart True
+[60, 8] (*) makes isPart True
 adding 734
-
 
 added 8 to array: [8]
 added 3 to array: [8, 3]
 added 3 to array: [8, 3, 3]
-* [61, 41] makes isPart True
+[61, 41] (*) makes isPart True
 adding 833
 
-
 added 3 to array: [3]
-* [59, 44] makes isPart True
+[59, 44] (*) makes isPart True
 added 9 to array: [3, 9]
-* [59, 44] makes isPart True
 added 9 to array: [3, 9, 9]
-* [59, 44] makes isPart True
 adding 399
 
-
 added 7 to array: [7]
-= [59, 85] makes isPart True
+[59, 85] (=) makes isPart True
 added 8 to array: [7, 8]
-= [59, 85] makes isPart True
 added 0 to array: [7, 8, 0]
 adding 780
 
-
 added 2 to array: [2]
-= [61, 92] makes isPart True
+[61, 92] (=) makes isPart True
 added 8 to array: [2, 8]
-= [61, 92] makes isPart True
 added 8 to array: [2, 8, 8]
-= [61, 92] makes isPart True
 adding 288
 
-
 added 1 to array: [1]
-* [61, 107] makes isPart True
+[61, 107] (*) makes isPart True
 added 1 to array: [1, 1]
 added 7 to array: [1, 1, 7]
 adding 117
 
-
 added 9 to array: [9]
-* [61, 133] makes isPart True
+[61, 133] (*) makes isPart True
 added 2 to array: [9, 2]
-* [61, 133] makes isPart True
 added 5 to array: [9, 2, 5]
 adding 925
 
-
 added 8 to array: [8]
-* [61, 16] makes isPart True
+[61, 16] (*) makes isPart True
 added 6 to array: [8, 6]
 added 0 to array: [8, 6, 0]
 adding 860
-
 
 added 2 to array: [2]
 added 2 to array: [2, 2]
 added 8 to array: [2, 2, 8]
 added 9 to array: [9]
-+ [60, 72] makes isPart True
+[60, 72] (+) makes isPart True
 added 5 to array: [9, 5]
 added 6 to array: [9, 5, 6]
 adding 956
 
-
 added 3 to array: [3]
 added 9 to array: [3, 9]
 added 0 to array: [3, 9, 0]
-* [61, 83] makes isPart True
+[61, 83] (*) makes isPart True
 adding 390
-
 
 added 8 to array: [8]
 added 3 to array: [8, 3]
 added 9 to array: [8, 3, 9]
 added 3 to array: [3]
-* [62, 125] makes isPart True
+[62, 125] (*) makes isPart True
 added 7 to array: [3, 7]
-* [62, 125] makes isPart True
 added 3 to array: [3, 7, 3]
-* [62, 125] makes isPart True
 adding 373
-
 
 added 8 to array: [8]
 added 0 to array: [8, 0]
@@ -3672,499 +2913,391 @@ added 2 to array: [8, 0, 2]
 added 3 to array: [3]
 added 6 to array: [3, 6]
 added 9 to array: [3, 6, 9]
-* [61, 16] makes isPart True
+[61, 16] (*) makes isPart True
 adding 369
-
 
 added 6 to array: [6]
 added 4 to array: [6, 4]
 added 1 to array: [6, 4, 1]
 added 7 to array: [7]
-* [61, 41] makes isPart True
+[61, 41] (*) makes isPart True
 added 6 to array: [7, 6]
-* [61, 41] makes isPart True
 added 3 to array: [7, 6, 3]
-* [61, 41] makes isPart True
 adding 763
 
-
 added 1 to array: [1]
-* [63, 47] makes isPart True
+[63, 47] (*) makes isPart True
 added 5 to array: [1, 5]
 added 4 to array: [1, 5, 4]
 adding 154
 
-
 added 2 to array: [2]
-@ [63, 53] makes isPart True
+[63, 53] (@) makes isPart True
 added 4 to array: [2, 4]
-@ [63, 53] makes isPart True
 adding 24
-
 
 added 3 to array: [3]
 added 0 to array: [3, 0]
 added 2 to array: [3, 0, 2]
-* [63, 72] makes isPart True
+[63, 72] (*) makes isPart True
 adding 302
 
-
 added 6 to array: [6]
-* [61, 83] makes isPart True
+[61, 83] (*) makes isPart True
 added 2 to array: [6, 2]
 added 0 to array: [6, 2, 0]
 adding 620
 
-
 added 1 to array: [1]
 added 5 to array: [1, 5]
-% [61, 103] makes isPart True
+[61, 103] (%) makes isPart True
 added 0 to array: [1, 5, 0]
-% [61, 103] makes isPart True
 adding 150
-
 
 added 4 to array: [4]
 added 0 to array: [4, 0]
-* [61, 107] makes isPart True
+[61, 107] (*) makes isPart True
 added 3 to array: [4, 0, 3]
-* [61, 107] makes isPart True
 adding 403
-
 
 added 6 to array: [6]
 added 4 to array: [6, 4]
 added 7 to array: [6, 4, 7]
-* [61, 133] makes isPart True
+[61, 133] (*) makes isPart True
 adding 647
-
 
 added 4 to array: [4]
 added 6 to array: [4, 6]
 added 6 to array: [4, 6, 6]
-* [63, 47] makes isPart True
+[63, 47] (*) makes isPart True
 adding 466
 
-
 added 8 to array: [8]
-* [63, 72] makes isPart True
+[63, 72] (*) makes isPart True
 added 2 to array: [8, 2]
 added 7 to array: [8, 2, 7]
 adding 827
 
-
 added 5 to array: [5]
 added 3 to array: [5, 3]
 added 0 to array: [5, 3, 0]
-$ [64, 83] makes isPart True
+[64, 83] ($) makes isPart True
 adding 530
-
 
 added 1 to array: [1]
 added 2 to array: [1, 2]
 added 9 to array: [1, 2, 9]
-* [62, 115] makes isPart True
+[62, 115] (*) makes isPart True
 adding 129
 
-
 added 6 to array: [6]
-* [62, 115] makes isPart True
+[62, 115] (*) makes isPart True
 added 2 to array: [6, 2]
 added 8 to array: [6, 2, 8]
 adding 628
 
-
 added 9 to array: [9]
-* [62, 125] makes isPart True
+[62, 125] (*) makes isPart True
 added 2 to array: [9, 2]
-* [62, 125] makes isPart True
 added 3 to array: [9, 2, 3]
-* [62, 125] makes isPart True
 adding 923
 
-
 added 8 to array: [8]
-= [63, 136] makes isPart True
+[63, 136] (=) makes isPart True
 added 6 to array: [8, 6]
 added 6 to array: [8, 6, 6]
-
- [62, 140] makes isPart True
 adding 866
-
 
 added 8 to array: [8]
 added 2 to array: [8, 2]
 added 4 to array: [8, 2, 4]
 added 5 to array: [5]
-& [63, 35] makes isPart True
+[63, 35] (&) makes isPart True
 added 7 to array: [5, 7]
-& [63, 35] makes isPart True
 added 3 to array: [5, 7, 3]
 adding 573
-
 
 added 6 to array: [6]
 added 6 to array: [6, 6]
 added 9 to array: [6, 6, 9]
 added 3 to array: [3]
-/ [65, 90] makes isPart True
+[65, 90] (/) makes isPart True
 added 7 to array: [3, 7]
-/ [65, 90] makes isPart True
 added 4 to array: [3, 7, 4]
-/ [65, 90] makes isPart True
 adding 374
-
 
 added 6 to array: [6]
 added 2 to array: [6, 2]
 added 7 to array: [6, 2, 7]
-* [65, 97] makes isPart True
+[65, 97] (*) makes isPart True
 adding 627
-
 
 added 6 to array: [6]
 added 9 to array: [6, 9]
 added 8 to array: [6, 9, 8]
 added 7 to array: [7]
-- [65, 132] makes isPart True
+[65, 132] (-) makes isPart True
 added 5 to array: [7, 5]
-- [65, 132] makes isPart True
 added 9 to array: [7, 5, 9]
 adding 759
-
 
 added 4 to array: [4]
 added 9 to array: [4, 9]
 added 9 to array: [4, 9, 9]
-& [64, 10] makes isPart True
+[64, 10] (&) makes isPart True
 adding 499
 
-
 added 8 to array: [8]
-& [64, 17] makes isPart True
+[64, 17] (&) makes isPart True
 added 1 to array: [8, 1]
-& [64, 17] makes isPart True
 added 2 to array: [8, 1, 2]
-& [64, 17] makes isPart True
 adding 812
-
 
 added 8 to array: [8]
 added 5 to array: [8, 5]
 added 7 to array: [8, 5, 7]
-* [65, 23] makes isPart True
+[65, 23] (*) makes isPart True
 adding 857
 
-
 added 6 to array: [6]
-* [65, 23] makes isPart True
+[65, 23] (*) makes isPart True
 added 5 to array: [6, 5]
 added 3 to array: [6, 5, 3]
 adding 653
 
-
 added 6 to array: [6]
 added 6 to array: [6, 6]
 added 8 to array: [6, 6, 8]
-* [66, 49] makes isPart True
+[66, 49] (*) makes isPart True
 adding 668
-
 
 added 8 to array: [8]
 added 7 to array: [8, 7]
 added 9 to array: [8, 7, 9]
 added 9 to array: [9]
-- [66, 69] makes isPart True
+[66, 69] (-) makes isPart True
 added 7 to array: [9, 7]
-- [66, 69] makes isPart True
 added 4 to array: [9, 7, 4]
 adding 974
 
-
 added 9 to array: [9]
-* [65, 97] makes isPart True
+[65, 97] (*) makes isPart True
 added 2 to array: [9, 2]
 added 6 to array: [9, 2, 6]
 adding 926
 
-
 added 8 to array: [8]
-% [66, 103] makes isPart True
+[66, 103] (%) makes isPart True
 added 5 to array: [8, 5]
 added 2 to array: [8, 5, 2]
 adding 852
 
-
 added 8 to array: [8]
-* [66, 136] makes isPart True
+[66, 136] (*) makes isPart True
 added 3 to array: [8, 3]
 added 2 to array: [8, 3, 2]
-
- [64, 140] makes isPart True
 adding 832
-
 
 added 6 to array: [6]
 added 4 to array: [6, 4]
 added 6 to array: [6, 4, 6]
 added 2 to array: [2]
 added 8 to array: [2, 8]
-% [65, 14] makes isPart True
+[65, 14] (%) makes isPart True
 added 4 to array: [2, 8, 4]
-% [65, 14] makes isPart True
 adding 284
 
-
 added 7 to array: [7]
-# [67, 29] makes isPart True
+[67, 29] (#) makes isPart True
 added 0 to array: [7, 0]
-# [67, 29] makes isPart True
 added 8 to array: [7, 0, 8]
 adding 708
 
-
 added 3 to array: [3]
 added 6 to array: [3, 6]
-* [67, 37] makes isPart True
+[67, 37] (*) makes isPart True
 added 9 to array: [3, 6, 9]
-* [67, 37] makes isPart True
 adding 369
 
-
 added 8 to array: [8]
-* [66, 49] makes isPart True
+[66, 49] (*) makes isPart True
 added 0 to array: [8, 0]
 added 8 to array: [8, 0, 8]
 adding 808
 
-
 added 7 to array: [7]
-* [67, 78] makes isPart True
+[67, 78] (*) makes isPart True
 added 0 to array: [7, 0]
-* [67, 78] makes isPart True
 added 5 to array: [7, 0, 5]
-* [67, 78] makes isPart True
 adding 705
 
-
 added 4 to array: [4]
-* [67, 116] makes isPart True
+[67, 116] (*) makes isPart True
 added 9 to array: [4, 9]
 added 2 to array: [4, 9, 2]
 adding 492
 
-
 added 4 to array: [4]
-% [67, 122] makes isPart True
+[67, 122] (%) makes isPart True
 added 6 to array: [4, 6]
-% [67, 122] makes isPart True
 added 2 to array: [4, 6, 2]
-% [67, 122] makes isPart True
 adding 462
 
-
 added 9 to array: [9]
-* [68, 21] makes isPart True
+[68, 21] (*) makes isPart True
 added 5 to array: [9, 5]
-* [68, 21] makes isPart True
 added 9 to array: [9, 5, 9]
-* [68, 21] makes isPart True
 adding 959
-
 
 added 8 to array: [8]
 added 7 to array: [8, 7]
-* [68, 44] makes isPart True
+[68, 44] (*) makes isPart True
 added 2 to array: [8, 7, 2]
-* [68, 44] makes isPart True
 adding 872
-
 
 added 1 to array: [1]
 added 0 to array: [1, 0]
 added 2 to array: [1, 0, 2]
 added 8 to array: [8]
-@ [66, 87] makes isPart True
+[66, 87] (@) makes isPart True
 added 0 to array: [8, 0]
 adding 80
 
-
 added 8 to array: [8]
 added 3 to array: [8, 3]
-& [68, 94] makes isPart True
+[68, 94] (&) makes isPart True
 added 9 to array: [8, 3, 9]
-& [68, 94] makes isPart True
 adding 839
 
-
 added 9 to array: [9]
-* [68, 99] makes isPart True
+[68, 99] (*) makes isPart True
 added 9 to array: [9, 9]
-* [68, 99] makes isPart True
 added 6 to array: [9, 9, 6]
 adding 996
-
 
 added 8 to array: [8]
 added 3 to array: [8, 3]
 added 4 to array: [4]
-* [66, 136] makes isPart True
+[66, 136] (*) makes isPart True
 added 9 to array: [4, 9]
-* [66, 136] makes isPart True
 adding 49
-
 
 added 7 to array: [7]
 added 8 to array: [7, 8]
 added 5 to array: [7, 8, 5]
-* [69, 4] makes isPart True
+[69, 4] (*) makes isPart True
 adding 785
 
-
 added 3 to array: [3]
-* [69, 15] makes isPart True
+[69, 15] (*) makes isPart True
 added 6 to array: [3, 6]
 added 3 to array: [3, 6, 3]
 adding 363
 
-
 added 4 to array: [4]
 added 9 to array: [4, 9]
-* [67, 37] makes isPart True
+[67, 37] (*) makes isPart True
 adding 49
 
-
 added 6 to array: [6]
-* [69, 53] makes isPart True
+[69, 53] (*) makes isPart True
 added 6 to array: [6, 6]
-* [69, 53] makes isPart True
 added 7 to array: [6, 6, 7]
-* [69, 53] makes isPart True
 adding 667
-
 
 added 7 to array: [7]
 added 9 to array: [7, 9]
 added 7 to array: [7, 9, 7]
-* [69, 63] makes isPart True
+[69, 63] (*) makes isPart True
 adding 797
 
-
 added 2 to array: [2]
-* [69, 68] makes isPart True
+[69, 68] (*) makes isPart True
 added 2 to array: [2, 2]
-* [69, 68] makes isPart True
 added 4 to array: [2, 2, 4]
-* [69, 68] makes isPart True
 adding 224
 
-
 added 5 to array: [5]
-* [67, 78] makes isPart True
+[67, 78] (*) makes isPart True
 added 8 to array: [5, 8]
-* [67, 78] makes isPart True
 added 6 to array: [5, 8, 6]
-* [67, 78] makes isPart True
 adding 586
 
-
 added 3 to array: [3]
-* [69, 103] makes isPart True
+[69, 103] (*) makes isPart True
 added 4 to array: [3, 4]
-* [69, 103] makes isPart True
 adding 34
-
 
 added 6 to array: [6]
 added 7 to array: [6, 7]
 added 3 to array: [6, 7, 3]
 added 6 to array: [6]
-* [67, 116] makes isPart True
+[67, 116] (*) makes isPart True
 added 5 to array: [6, 5]
 added 0 to array: [6, 5, 0]
 adding 650
 
-
 added 1 to array: [1]
-* [69, 7] makes isPart True
+[69, 7] (*) makes isPart True
 added 3 to array: [1, 3]
 added 2 to array: [1, 3, 2]
 adding 132
 
-
 added 2 to array: [2]
-* [68, 21] makes isPart True
+[68, 21] (*) makes isPart True
 added 2 to array: [2, 2]
-* [68, 21] makes isPart True
 added 5 to array: [2, 2, 5]
 adding 225
 
-
 added 6 to array: [6]
-* [68, 44] makes isPart True
+[68, 44] (*) makes isPart True
 added 3 to array: [6, 3]
-* [68, 44] makes isPart True
 added 1 to array: [6, 3, 1]
-* [68, 44] makes isPart True
 adding 631
 
-
 added 3 to array: [3]
-+ [70, 49] makes isPart True
+[70, 49] (+) makes isPart True
 added 5 to array: [3, 5]
-+ [70, 49] makes isPart True
 added 0 to array: [3, 5, 0]
-+ [70, 49] makes isPart True
 adding 350
 
-
 added 9 to array: [9]
-* [70, 81] makes isPart True
+[70, 81] (*) makes isPart True
 added 4 to array: [9, 4]
 added 1 to array: [9, 4, 1]
 adding 941
 
-
 added 5 to array: [5]
 added 2 to array: [5, 2]
-* [68, 99] makes isPart True
+[68, 99] (*) makes isPart True
 adding 52
-
 
 added 4 to array: [4]
 added 0 to array: [4, 0]
 added 6 to array: [4, 0, 6]
 added 5 to array: [5]
-# [70, 128] makes isPart True
+[70, 128] (#) makes isPart True
 added 4 to array: [5, 4]
-# [70, 128] makes isPart True
 added 6 to array: [5, 4, 6]
-# [70, 128] makes isPart True
 adding 546
-
 
 added 5 to array: [5]
 added 4 to array: [5, 4]
 added 3 to array: [5, 4, 3]
-* [69, 4] makes isPart True
+[69, 4] (*) makes isPart True
 adding 543
 
-
 added 7 to array: [7]
-* [69, 15] makes isPart True
+[69, 15] (*) makes isPart True
 added 6 to array: [7, 6]
 added 0 to array: [7, 6, 0]
 adding 760
 
-
 added 3 to array: [3]
-* [71, 29] makes isPart True
+[71, 29] (*) makes isPart True
 added 0 to array: [3, 0]
-* [71, 29] makes isPart True
 added 5 to array: [3, 0, 5]
-* [71, 29] makes isPart True
 adding 305
-
 
 added 3 to array: [3]
 added 2 to array: [3, 2]
@@ -4172,414 +3305,315 @@ added 5 to array: [3, 2, 5]
 added 3 to array: [3]
 added 3 to array: [3, 3]
 added 0 to array: [3, 3, 0]
-* [71, 42] makes isPart True
+[71, 42] (*) makes isPart True
 adding 330
 
-
 added 6 to array: [6]
-* [69, 68] makes isPart True
+[69, 68] (*) makes isPart True
 added 2 to array: [6, 2]
-* [69, 68] makes isPart True
 added 1 to array: [6, 2, 1]
-* [69, 68] makes isPart True
 adding 621
 
-
 added 6 to array: [6]
-= [69, 89] makes isPart True
+[69, 89] (=) makes isPart True
 added 3 to array: [6, 3]
-= [69, 89] makes isPart True
 adding 63
-
 
 added 2 to array: [2]
 added 6 to array: [2, 6]
-* [69, 103] makes isPart True
+[69, 103] (*) makes isPart True
 added 8 to array: [2, 6, 8]
-* [69, 103] makes isPart True
 adding 268
-
 
 added 2 to array: [2]
 added 3 to array: [2, 3]
-* [71, 108] makes isPart True
+[71, 108] (*) makes isPart True
 added 9 to array: [2, 3, 9]
-* [71, 108] makes isPart True
 adding 239
-
 
 added 6 to array: [6]
 added 5 to array: [6, 5]
-= [72, 10] makes isPart True
+[72, 10] (=) makes isPart True
 added 8 to array: [6, 5, 8]
-= [72, 10] makes isPart True
 adding 658
-
 
 added 7 to array: [7]
 added 3 to array: [7, 3]
-* [72, 56] makes isPart True
+[72, 56] (*) makes isPart True
 added 5 to array: [7, 3, 5]
-* [72, 56] makes isPart True
 adding 735
 
-
 added 8 to array: [8]
-* [72, 64] makes isPart True
+[72, 64] (*) makes isPart True
 added 2 to array: [8, 2]
-* [72, 64] makes isPart True
 added 0 to array: [8, 2, 0]
-* [72, 64] makes isPart True
 adding 820
 
-
 added 1 to array: [1]
-* [72, 71] makes isPart True
+[72, 71] (*) makes isPart True
 added 4 to array: [1, 4]
-* [72, 71] makes isPart True
 added 5 to array: [1, 4, 5]
 adding 145
-
 
 added 4 to array: [4]
 added 1 to array: [4, 1]
 added 9 to array: [4, 1, 9]
-* [70, 81] makes isPart True
+[70, 81] (*) makes isPart True
 adding 419
 
-
 added 9 to array: [9]
-# [70, 93] makes isPart True
+[70, 93] (#) makes isPart True
 added 1 to array: [9, 1]
-# [70, 93] makes isPart True
 adding 91
-
 
 added 4 to array: [4]
 added 8 to array: [4, 8]
 added 9 to array: [4, 8, 9]
 added 4 to array: [4]
-# [72, 116] makes isPart True
+[72, 116] (#) makes isPart True
 added 0 to array: [4, 0]
-# [72, 116] makes isPart True
 added 4 to array: [4, 0, 4]
-# [72, 116] makes isPart True
 adding 404
-
 
 added 4 to array: [4]
 added 1 to array: [4, 1]
 added 5 to array: [4, 1, 5]
-+ [72, 18] makes isPart True
+[72, 18] (+) makes isPart True
 adding 415
-
 
 added 3 to array: [3]
 added 8 to array: [3, 8]
-$ [72, 26] makes isPart True
+[72, 26] ($) makes isPart True
 adding 38
 
-
 added 8 to array: [8]
-* [73, 32] makes isPart True
+[73, 32] (*) makes isPart True
 added 4 to array: [8, 4]
-* [73, 32] makes isPart True
 added 4 to array: [8, 4, 4]
-* [73, 32] makes isPart True
 adding 844
-
 
 added 3 to array: [3]
 added 6 to array: [3, 6]
-* [71, 42] makes isPart True
+[71, 42] (*) makes isPart True
 added 6 to array: [3, 6, 6]
-* [71, 42] makes isPart True
 adding 366
 
-
 added 4 to array: [4]
-& [73, 102] makes isPart True
+[73, 102] (&) makes isPart True
 added 3 to array: [4, 3]
-& [73, 102] makes isPart True
 adding 43
 
-
 added 9 to array: [9]
-* [71, 108] makes isPart True
+[71, 108] (*) makes isPart True
 added 4 to array: [9, 4]
-* [71, 108] makes isPart True
 added 5 to array: [9, 4, 5]
 adding 945
-
 
 added 5 to array: [5]
 added 6 to array: [5, 6]
 added 3 to array: [5, 6, 3]
-* [71, 125] makes isPart True
+[71, 125] (*) makes isPart True
 adding 563
 
-
 added 2 to array: [2]
-* [71, 125] makes isPart True
+[71, 125] (*) makes isPart True
 added 0 to array: [2, 0]
 added 5 to array: [2, 0, 5]
 adding 205
 
-
 added 2 to array: [2]
-# [71, 130] makes isPart True
+[71, 130] (#) makes isPart True
 added 1 to array: [2, 1]
 added 1 to array: [2, 1, 1]
 adding 211
 
-
 added 1 to array: [1]
-# [73, 135] makes isPart True
+[73, 135] (#) makes isPart True
 added 8 to array: [1, 8]
 added 3 to array: [1, 8, 3]
 adding 183
 
-
 added 2 to array: [2]
-* [74, 5] makes isPart True
+[74, 5] (*) makes isPart True
 added 6 to array: [2, 6]
 added 7 to array: [2, 6, 7]
 adding 267
 
-
 added 5 to array: [5]
-+ [72, 37] makes isPart True
+[72, 37] (+) makes isPart True
 added 1 to array: [5, 1]
-+ [72, 37] makes isPart True
 added 9 to array: [5, 1, 9]
-+ [72, 37] makes isPart True
 adding 519
 
-
 added 7 to array: [7]
-* [74, 45] makes isPart True
+[74, 45] (*) makes isPart True
 added 3 to array: [7, 3]
-* [74, 45] makes isPart True
 added 0 to array: [7, 3, 0]
-* [74, 45] makes isPart True
 adding 730
 
-
 added 8 to array: [8]
-* [72, 56] makes isPart True
+[72, 56] (*) makes isPart True
 added 3 to array: [8, 3]
-* [72, 56] makes isPart True
 added 6 to array: [8, 3, 6]
-* [72, 56] makes isPart True
 adding 836
-
 
 added 2 to array: [2]
 added 7 to array: [2, 7]
 added 7 to array: [2, 7, 7]
-* [72, 71] makes isPart True
+[72, 71] (*) makes isPart True
 adding 277
-
 
 added 8 to array: [8]
 added 0 to array: [8, 0]
-* [74, 84] makes isPart True
+[74, 84] (*) makes isPart True
 added 8 to array: [8, 0, 8]
-* [74, 84] makes isPart True
 adding 808
 
-
 added 5 to array: [5]
-# [74, 97] makes isPart True
+[74, 97] (#) makes isPart True
 added 0 to array: [5, 0]
-# [74, 97] makes isPart True
 added 4 to array: [5, 0, 4]
-# [74, 97] makes isPart True
 adding 504
-
 
 added 7 to array: [7]
 added 0 to array: [7, 0]
 added 5 to array: [7, 0, 5]
-/ [74, 27] makes isPart True
+[74, 27] (/) makes isPart True
 adding 705
 
-
 added 5 to array: [5]
-* [73, 32] makes isPart True
+[73, 32] (*) makes isPart True
 added 7 to array: [5, 7]
-* [73, 32] makes isPart True
 added 5 to array: [5, 7, 5]
 adding 575
 
-
 added 8 to array: [8]
-$ [74, 63] makes isPart True
+[74, 63] ($) makes isPart True
 added 6 to array: [8, 6]
 added 6 to array: [8, 6, 6]
 adding 866
 
-
 added 9 to array: [9]
-* [75, 88] makes isPart True
+[75, 88] (*) makes isPart True
 added 7 to array: [9, 7]
-* [75, 88] makes isPart True
 added 5 to array: [9, 7, 5]
 adding 975
 
-
 added 1 to array: [1]
-* [75, 104] makes isPart True
+[75, 104] (*) makes isPart True
 added 8 to array: [1, 8]
 added 3 to array: [1, 8, 3]
 adding 183
 
-
 added 9 to array: [9]
 added 3 to array: [9, 3]
-* [75, 111] makes isPart True
+[75, 111] (*) makes isPart True
 added 1 to array: [9, 3, 1]
-* [75, 111] makes isPart True
 adding 931
 
-
 added 6 to array: [6]
-@ [75, 127] makes isPart True
+[75, 127] (@) makes isPart True
 added 1 to array: [6, 1]
 added 1 to array: [6, 1, 1]
 adding 611
 
-
 added 1 to array: [1]
-/ [76, 8] makes isPart True
+[76, 8] (/) makes isPart True
 added 3 to array: [1, 3]
-/ [76, 8] makes isPart True
 added 5 to array: [1, 3, 5]
-/ [76, 8] makes isPart True
 adding 135
 
-
 added 2 to array: [2]
-* [76, 18] makes isPart True
+[76, 18] (*) makes isPart True
 added 8 to array: [2, 8]
-* [76, 18] makes isPart True
 added 4 to array: [2, 8, 4]
-* [76, 18] makes isPart True
 adding 284
 
-
 added 2 to array: [2]
-* [74, 45] makes isPart True
+[74, 45] (*) makes isPart True
 added 4 to array: [2, 4]
-* [74, 45] makes isPart True
 added 6 to array: [2, 4, 6]
-* [74, 45] makes isPart True
 adding 246
 
-
 added 6 to array: [6]
-* [76, 48] makes isPart True
+[76, 48] (*) makes isPart True
 added 5 to array: [6, 5]
-* [76, 48] makes isPart True
 added 3 to array: [6, 5, 3]
 adding 653
 
-
 added 9 to array: [9]
-/ [74, 52] makes isPart True
+[74, 52] (/) makes isPart True
 added 7 to array: [9, 7]
-/ [74, 52] makes isPart True
 added 2 to array: [9, 7, 2]
 adding 972
-
 
 added 3 to array: [3]
 added 6 to array: [3, 6]
 added 5 to array: [3, 6, 5]
 added 1 to array: [1]
 added 9 to array: [1, 9]
-= [74, 76] makes isPart True
+[74, 76] (=) makes isPart True
 added 1 to array: [1, 9, 1]
-= [74, 76] makes isPart True
 adding 191
-
 
 added 3 to array: [3]
 added 7 to array: [3, 7]
-* [74, 84] makes isPart True
+[74, 84] (*) makes isPart True
 added 6 to array: [3, 7, 6]
-* [74, 84] makes isPart True
 adding 376
 
-
 added 9 to array: [9]
-% [74, 120] makes isPart True
+[74, 120] (%) makes isPart True
 added 9 to array: [9, 9]
 added 4 to array: [9, 9, 4]
 adding 994
 
-
 added 1 to array: [1]
-* [76, 133] makes isPart True
+[76, 133] (*) makes isPart True
 added 1 to array: [1, 1]
-* [76, 133] makes isPart True
 adding 11
 
-
 added 4 to array: [4]
-@ [77, 3] makes isPart True
+[77, 3] (@) makes isPart True
 added 4 to array: [4, 4]
-@ [77, 3] makes isPart True
 added 0 to array: [4, 4, 0]
 adding 440
-
 
 added 4 to array: [4]
 added 1 to array: [4, 1]
 added 5 to array: [4, 1, 5]
-$ [77, 66] makes isPart True
+[77, 66] ($) makes isPart True
 adding 415
 
-
 added 9 to array: [9]
-* [75, 88] makes isPart True
+[75, 88] (*) makes isPart True
 added 8 to array: [9, 8]
-* [75, 88] makes isPart True
 added 5 to array: [9, 8, 5]
-* [75, 88] makes isPart True
 adding 985
-
 
 added 8 to array: [8]
 added 3 to array: [8, 3]
-& [75, 94] makes isPart True
+[75, 94] (&) makes isPart True
 added 8 to array: [8, 3, 8]
-& [75, 94] makes isPart True
 adding 838
-
 
 added 6 to array: [6]
 added 7 to array: [6, 7]
 added 7 to array: [6, 7, 7]
-* [75, 104] makes isPart True
+[75, 104] (*) makes isPart True
 adding 677
 
-
 added 1 to array: [1]
-* [75, 111] makes isPart True
+[75, 111] (*) makes isPart True
 added 0 to array: [1, 0]
-* [75, 111] makes isPart True
 added 9 to array: [1, 0, 9]
 adding 109
 
-
 added 2 to array: [2]
 added 2 to array: [2, 2]
-* [76, 18] makes isPart True
+[76, 18] (*) makes isPart True
 added 4 to array: [2, 2, 4]
-* [76, 18] makes isPart True
 adding 224
-
 
 added 3 to array: [3]
 added 9 to array: [3, 9]
@@ -4587,84 +3621,72 @@ added 9 to array: [3, 9, 9]
 added 7 to array: [7]
 added 2 to array: [7, 2]
 added 7 to array: [7, 2, 7]
-$ [77, 30] makes isPart True
+[77, 30] ($) makes isPart True
 adding 727
-
 
 added 6 to array: [6]
 added 8 to array: [6, 8]
-# [77, 39] makes isPart True
+[77, 39] (#) makes isPart True
 adding 68
 
-
 added 4 to array: [4]
-+ [78, 72] makes isPart True
+[78, 72] (+) makes isPart True
 added 3 to array: [4, 3]
 added 2 to array: [4, 3, 2]
 adding 432
 
-
 added 2 to array: [2]
 added 1 to array: [2, 1]
 added 4 to array: [2, 1, 4]
-$ [77, 84] makes isPart True
+[77, 84] ($) makes isPart True
 adding 214
-
 
 added 5 to array: [5]
 added 9 to array: [5, 9]
 added 1 to array: [5, 9, 1]
 added 6 to array: [6]
 added 8 to array: [6, 8]
-* [76, 133] makes isPart True
+[76, 133] (*) makes isPart True
 added 6 to array: [6, 8, 6]
-* [76, 133] makes isPart True
 adding 686
 
-
 added 6 to array: [6]
-* [79, 50] makes isPart True
+[79, 50] (*) makes isPart True
 added 5 to array: [6, 5]
-* [79, 50] makes isPart True
 added 8 to array: [6, 5, 8]
 adding 658
-
 
 added 1 to array: [1]
 added 4 to array: [1, 4]
 added 3 to array: [1, 4, 3]
-* [79, 64] makes isPart True
+[79, 64] (*) makes isPart True
 adding 143
-
 
 added 7 to array: [7]
 added 7 to array: [7, 7]
 added 9 to array: [7, 7, 9]
 added 9 to array: [9]
-* [79, 76] makes isPart True
+[79, 76] (*) makes isPart True
 added 4 to array: [9, 4]
 added 2 to array: [9, 4, 2]
 adding 942
-
 
 added 8 to array: [8]
 added 8 to array: [8, 8]
 added 5 to array: [8, 8, 5]
 added 5 to array: [5]
-# [77, 106] makes isPart True
+[77, 106] (#) makes isPart True
 added 6 to array: [5, 6]
 added 7 to array: [5, 6, 7]
 adding 567
-
 
 added 4 to array: [4]
 added 6 to array: [4, 6]
 added 1 to array: [4, 6, 1]
 added 3 to array: [3]
-& [78, 10] makes isPart True
+[78, 10] (&) makes isPart True
 added 3 to array: [3, 3]
 adding 33
-
 
 added 2 to array: [2]
 added 7 to array: [2, 7]
@@ -4673,55 +3695,45 @@ added 4 to array: [4]
 added 0 to array: [4, 0]
 added 7 to array: [4, 0, 7]
 added 1 to array: [1]
-* [80, 29] makes isPart True
+[80, 29] (*) makes isPart True
 added 0 to array: [1, 0]
 added 8 to array: [1, 0, 8]
 adding 108
 
-
 added 4 to array: [4]
-* [80, 47] makes isPart True
+[80, 47] (*) makes isPart True
 added 7 to array: [4, 7]
-* [80, 47] makes isPart True
 adding 47
 
-
 added 8 to array: [8]
-$ [78, 86] makes isPart True
+[78, 86] ($) makes isPart True
 added 1 to array: [8, 1]
-$ [78, 86] makes isPart True
 added 1 to array: [8, 1, 1]
 adding 811
-
 
 added 3 to array: [3]
 added 9 to array: [3, 9]
 added 0 to array: [3, 9, 0]
-$ [78, 120] makes isPart True
+[78, 120] ($) makes isPart True
 adding 390
-
 
 added 9 to array: [9]
 added 0 to array: [9, 0]
 added 7 to array: [9, 0, 7]
-* [80, 29] makes isPart True
+[80, 29] (*) makes isPart True
 adding 907
 
-
 added 3 to array: [3]
-# [80, 35] makes isPart True
+[80, 35] (#) makes isPart True
 added 9 to array: [3, 9]
 added 7 to array: [3, 9, 7]
 adding 397
 
-
 added 3 to array: [3]
 added 0 to array: [3, 0]
-* [81, 43] makes isPart True
+[81, 43] (*) makes isPart True
 added 7 to array: [3, 0, 7]
-* [81, 43] makes isPart True
 adding 307
-
 
 added 1 to array: [1]
 added 9 to array: [1, 9]
@@ -4729,35 +3741,28 @@ added 7 to array: [1, 9, 7]
 added 1 to array: [1]
 added 2 to array: [1, 2]
 added 3 to array: [3]
-* [79, 64] makes isPart True
+[79, 64] (*) makes isPart True
 adding 3
 
-
 added 7 to array: [7]
-- [81, 67] makes isPart True
+[81, 67] (-) makes isPart True
 added 3 to array: [7, 3]
-- [81, 67] makes isPart True
 added 8 to array: [7, 3, 8]
 adding 738
 
-
 added 2 to array: [2]
 added 5 to array: [2, 5]
-* [79, 76] makes isPart True
+[79, 76] (*) makes isPart True
 added 4 to array: [2, 5, 4]
-* [79, 76] makes isPart True
 adding 254
-
 
 added 8 to array: [8]
 added 5 to array: [8, 5]
 added 3 to array: [3]
 added 9 to array: [3, 9]
-$ [79, 84] makes isPart True
+[79, 84] ($) makes isPart True
 added 3 to array: [3, 9, 3]
-$ [79, 84] makes isPart True
 adding 393
-
 
 added 7 to array: [7]
 added 1 to array: [7, 1]
@@ -4766,145 +3771,111 @@ added 7 to array: [7]
 added 0 to array: [7, 0]
 added 0 to array: [7, 0, 0]
 added 7 to array: [7]
-* [81, 111] makes isPart True
+[81, 111] (*) makes isPart True
 added 4 to array: [7, 4]
-* [81, 111] makes isPart True
 added 1 to array: [7, 4, 1]
-* [81, 111] makes isPart True
 adding 741
 
-
 added 1 to array: [1]
-* [81, 124] makes isPart True
+[81, 124] (*) makes isPart True
 added 7 to array: [1, 7]
-* [81, 124] makes isPart True
 added 6 to array: [1, 7, 6]
 adding 176
-
 
 added 8 to array: [8]
 added 8 to array: [8, 8]
 added 3 to array: [8, 8, 3]
 added 3 to array: [3]
 added 1 to array: [3, 1]
-* [82, 4] makes isPart True
+[82, 4] (*) makes isPart True
 added 6 to array: [3, 1, 6]
-* [82, 4] makes isPart True
 adding 316
-
 
 added 1 to array: [1]
 added 8 to array: [1, 8]
 added 0 to array: [1, 8, 0]
 added 7 to array: [7]
 added 5 to array: [7, 5]
-* [80, 47] makes isPart True
+[80, 47] (*) makes isPart True
 added 8 to array: [7, 5, 8]
-* [80, 47] makes isPart True
 adding 758
 
-
 added 8 to array: [8]
-# [83, 18] makes isPart True
+[83, 18] (#) makes isPart True
 added 7 to array: [8, 7]
-# [83, 18] makes isPart True
 added 1 to array: [8, 7, 1]
 adding 871
-
 
 added 3 to array: [3]
 added 3 to array: [3, 3]
 added 8 to array: [3, 3, 8]
 added 1 to array: [1]
-% [83, 29] makes isPart True
+[83, 29] (%) makes isPart True
 added 6 to array: [1, 6]
-% [83, 29] makes isPart True
 added 5 to array: [1, 6, 5]
 adding 165
 
-
 added 6 to array: [6]
 added 8 to array: [6, 8]
-* [81, 43] makes isPart True
+[81, 43] (*) makes isPart True
 added 3 to array: [6, 8, 3]
-* [81, 43] makes isPart True
 adding 683
 
-
 added 4 to array: [4]
-- [83, 56] makes isPart True
+[83, 56] (-) makes isPart True
 added 5 to array: [4, 5]
-- [83, 56] makes isPart True
 added 5 to array: [4, 5, 5]
 adding 455
-
 
 added 7 to array: [7]
 added 0 to array: [7, 0]
 added 1 to array: [7, 0, 1]
-* [82, 65] makes isPart True
+[82, 65] (*) makes isPart True
 adding 701
 
-
 added 5 to array: [5]
-* [83, 88] makes isPart True
+[83, 88] (*) makes isPart True
 added 4 to array: [5, 4]
-* [83, 88] makes isPart True
 added 0 to array: [5, 4, 0]
 adding 540
 
-
 added 2 to array: [2]
-* [83, 96] makes isPart True
+[83, 96] (*) makes isPart True
 added 5 to array: [2, 5]
-* [83, 96] makes isPart True
 added 5 to array: [2, 5, 5]
-* [83, 96] makes isPart True
 adding 255
 
-
 added 8 to array: [8]
-* [81, 111] makes isPart True
+[81, 111] (*) makes isPart True
 added 5 to array: [8, 5]
-* [81, 111] makes isPart True
 added 8 to array: [8, 5, 8]
-* [81, 111] makes isPart True
 adding 858
-
 
 added 2 to array: [2]
 added 7 to array: [2, 7]
 added 7 to array: [2, 7, 7]
-* [81, 124] makes isPart True
+[81, 124] (*) makes isPart True
 adding 277
-
 
 added 2 to array: [2]
 added 8 to array: [2, 8]
 added 6 to array: [6]
-* [82, 4] makes isPart True
+[82, 4] (*) makes isPart True
 added 6 to array: [6, 6]
-* [82, 4] makes isPart True
 added 0 to array: [6, 6, 0]
-* [82, 4] makes isPart True
 adding 660
-
 
 added 4 to array: [4]
 added 6 to array: [4, 6]
-/ [82, 9] makes isPart True
+[82, 9] (/) makes isPart True
 added 9 to array: [4, 6, 9]
-/ [82, 9] makes isPart True
 adding 469
-
 
 added 9 to array: [9]
 added 1 to array: [9, 1]
-* [84, 14] makes isPart True
+[84, 14] (*) makes isPart True
 added 2 to array: [9, 1, 2]
-* [84, 14] makes isPart True
 adding 912
-
 
 added 7 to array: [7]
 added 4 to array: [7, 4]
@@ -4913,34 +3884,28 @@ added 4 to array: [4]
 added 3 to array: [4, 3]
 added 9 to array: [4, 3, 9]
 added 2 to array: [2]
-* [82, 65] makes isPart True
+[82, 65] (*) makes isPart True
 added 0 to array: [2, 0]
 added 6 to array: [2, 0, 6]
 adding 206
 
-
 added 3 to array: [3]
-* [84, 74] makes isPart True
+[84, 74] (*) makes isPart True
 added 6 to array: [3, 6]
 added 3 to array: [3, 6, 3]
 adding 363
 
-
 added 6 to array: [6]
-$ [82, 105] makes isPart True
+[82, 105] ($) makes isPart True
 added 4 to array: [6, 4]
-$ [82, 105] makes isPart True
 added 0 to array: [6, 4, 0]
-$ [82, 105] makes isPart True
 adding 640
 
-
 added 1 to array: [1]
-+ [82, 134] makes isPart True
+[82, 134] (+) makes isPart True
 added 4 to array: [1, 4]
 added 4 to array: [1, 4, 4]
 adding 144
-
 
 added 4 to array: [4]
 added 4 to array: [4, 4]
@@ -4952,143 +3917,112 @@ added 8 to array: [8]
 added 0 to array: [8, 0]
 added 3 to array: [8, 0, 3]
 added 8 to array: [8]
-* [83, 88] makes isPart True
+[83, 88] (*) makes isPart True
 added 7 to array: [8, 7]
-* [83, 88] makes isPart True
 added 9 to array: [8, 7, 9]
 adding 879
 
-
 added 6 to array: [6]
 added 5 to array: [6, 5]
-* [83, 96] makes isPart True
+[83, 96] (*) makes isPart True
 added 8 to array: [6, 5, 8]
-* [83, 96] makes isPart True
 adding 658
-
 
 added 1 to array: [1]
 added 8 to array: [1, 8]
 added 9 to array: [1, 8, 9]
-* [85, 129] makes isPart True
+[85, 129] (*) makes isPart True
 adding 189
-
 
 added 1 to array: [1]
 added 7 to array: [1, 7]
 added 2 to array: [1, 7, 2]
-* [84, 14] makes isPart True
+[84, 14] (*) makes isPart True
 adding 172
-
 
 added 7 to array: [7]
 added 9 to array: [7, 9]
 added 4 to array: [7, 9, 4]
-* [86, 23] makes isPart True
+[86, 23] (*) makes isPart True
 adding 794
 
-
 added 9 to array: [9]
-% [86, 31] makes isPart True
+[86, 31] (%) makes isPart True
 added 8 to array: [9, 8]
-% [86, 31] makes isPart True
 adding 98
 
-
 added 6 to array: [6]
-* [86, 47] makes isPart True
+[86, 47] (*) makes isPart True
 added 4 to array: [6, 4]
-* [86, 47] makes isPart True
 added 6 to array: [6, 4, 6]
 adding 646
 
-
 added 6 to array: [6]
 added 6 to array: [6, 6]
-* [84, 74] makes isPart True
+[84, 74] (*) makes isPart True
 added 2 to array: [6, 6, 2]
-* [84, 74] makes isPart True
 adding 662
 
-
 added 4 to array: [4]
-$ [84, 109] makes isPart True
+[84, 109] ($) makes isPart True
 added 9 to array: [4, 9]
 adding 49
 
-
 added 2 to array: [2]
-- [85, 113] makes isPart True
+[85, 113] (-) makes isPart True
 added 1 to array: [2, 1]
 added 0 to array: [2, 1, 0]
 adding 210
 
-
 added 5 to array: [5]
-* [86, 119] makes isPart True
+[86, 119] (*) makes isPart True
 added 2 to array: [5, 2]
-* [86, 119] makes isPart True
 added 3 to array: [5, 2, 3]
-* [86, 119] makes isPart True
 adding 523
 
-
 added 2 to array: [2]
-* [86, 122] makes isPart True
+[86, 122] (*) makes isPart True
 added 5 to array: [2, 5]
-* [86, 122] makes isPart True
 added 7 to array: [2, 5, 7]
 adding 257
 
-
 added 8 to array: [8]
-* [87, 3] makes isPart True
+[87, 3] (*) makes isPart True
 added 7 to array: [8, 7]
-* [87, 3] makes isPart True
 adding 87
-
 
 added 6 to array: [6]
 added 6 to array: [6, 6]
-* [87, 9] makes isPart True
+[87, 9] (*) makes isPart True
 added 2 to array: [6, 6, 2]
-* [87, 9] makes isPart True
 adding 662
 
-
 added 6 to array: [6]
-* [86, 23] makes isPart True
+[86, 23] (*) makes isPart True
 added 6 to array: [6, 6]
 added 7 to array: [6, 6, 7]
 adding 667
 
-
 added 4 to array: [4]
-= [87, 33] makes isPart True
+[87, 33] (=) makes isPart True
 added 0 to array: [4, 0]
 added 8 to array: [4, 0, 8]
 adding 408
-
 
 added 2 to array: [2]
 added 2 to array: [2, 2]
 added 0 to array: [2, 2, 0]
 added 5 to array: [5]
-* [87, 67] makes isPart True
+[87, 67] (*) makes isPart True
 added 2 to array: [5, 2]
-* [87, 67] makes isPart True
 added 4 to array: [5, 2, 4]
-* [87, 67] makes isPart True
 adding 524
 
-
 added 7 to array: [7]
-* [87, 87] makes isPart True
+[87, 87] (*) makes isPart True
 added 4 to array: [7, 4]
-* [87, 87] makes isPart True
 added 2 to array: [7, 4, 2]
 adding 742
-
 
 added 3 to array: [3]
 added 9 to array: [3, 9]
@@ -5097,191 +4031,151 @@ added 6 to array: [1, 6]
 added 0 to array: [1, 6, 0]
 added 6 to array: [6]
 added 4 to array: [6, 4]
-* [85, 105] makes isPart True
+[85, 105] (*) makes isPart True
 adding 64
 
-
 added 6 to array: [6]
-* [85, 105] makes isPart True
+[85, 105] (*) makes isPart True
 added 3 to array: [6, 3]
 added 6 to array: [6, 3, 6]
 adding 636
 
-
 added 9 to array: [9]
 added 7 to array: [9, 7]
-* [85, 129] makes isPart True
+[85, 129] (*) makes isPart True
 added 4 to array: [9, 7, 4]
-* [85, 129] makes isPart True
 adding 974
 
-
 added 3 to array: [3]
-* [87, 131] makes isPart True
+[87, 131] (*) makes isPart True
 added 7 to array: [3, 7]
 added 8 to array: [3, 7, 8]
 adding 378
 
-
 added 4 to array: [4]
-# [86, 15] makes isPart True
+[86, 15] (#) makes isPart True
 added 2 to array: [4, 2]
-# [86, 15] makes isPart True
 adding 42
-
 
 added 3 to array: [3]
 added 7 to array: [3, 7]
 added 1 to array: [3, 7, 1]
-* [87, 41] makes isPart True
+[87, 41] (*) makes isPart True
 adding 371
 
-
 added 8 to array: [8]
-* [86, 47] makes isPart True
+[86, 47] (*) makes isPart True
 added 0 to array: [8, 0]
-* [86, 47] makes isPart True
 added 4 to array: [8, 0, 4]
 adding 804
 
-
 added 2 to array: [2]
 added 4 to array: [2, 4]
-= [86, 81] makes isPart True
+[86, 81] (=) makes isPart True
 added 0 to array: [2, 4, 0]
-= [86, 81] makes isPart True
 adding 240
-
 
 added 3 to array: [3]
 added 9 to array: [3, 9]
 added 5 to array: [3, 9, 5]
-% [87, 115] makes isPart True
+[87, 115] (%) makes isPart True
 adding 395
 
-
 added 4 to array: [4]
-* [86, 119] makes isPart True
+[86, 119] (*) makes isPart True
 added 6 to array: [4, 6]
-* [86, 119] makes isPart True
 added 1 to array: [4, 6, 1]
-* [86, 119] makes isPart True
 adding 461
 
-
 added 8 to array: [8]
-* [86, 122] makes isPart True
+[86, 122] (*) makes isPart True
 added 1 to array: [8, 1]
 added 8 to array: [8, 1, 8]
 adding 818
 
-
 added 7 to array: [7]
-* [87, 3] makes isPart True
+[87, 3] (*) makes isPart True
 added 0 to array: [7, 0]
 added 6 to array: [7, 0, 6]
 adding 706
 
-
 added 3 to array: [3]
-* [87, 9] makes isPart True
+[87, 9] (*) makes isPart True
 added 9 to array: [3, 9]
-* [87, 9] makes isPart True
 added 8 to array: [3, 9, 8]
-* [87, 9] makes isPart True
 adding 398
 
-
 added 4 to array: [4]
-& [87, 19] makes isPart True
+[87, 19] (&) makes isPart True
 added 5 to array: [4, 5]
-& [87, 19] makes isPart True
 added 2 to array: [4, 5, 2]
 adding 452
 
-
 added 5 to array: [5]
-* [89, 25] makes isPart True
+[89, 25] (*) makes isPart True
 added 0 to array: [5, 0]
 added 0 to array: [5, 0, 0]
 adding 500
 
-
 added 4 to array: [4]
-* [87, 41] makes isPart True
+[87, 41] (*) makes isPart True
 added 0 to array: [4, 0]
 added 6 to array: [4, 0, 6]
 adding 406
 
-
 added 5 to array: [5]
 added 7 to array: [5, 7]
-* [88, 57] makes isPart True
+[88, 57] (*) makes isPart True
 adding 57
 
-
 added 3 to array: [3]
-* [88, 57] makes isPart True
+[88, 57] (*) makes isPart True
 added 8 to array: [3, 8]
 added 0 to array: [3, 8, 0]
 adding 380
 
-
 added 3 to array: [3]
 added 6 to array: [3, 6]
-* [87, 67] makes isPart True
+[87, 67] (*) makes isPart True
 added 5 to array: [3, 6, 5]
-* [87, 67] makes isPart True
 adding 365
 
-
 added 4 to array: [4]
-# [87, 70] makes isPart True
+[87, 70] (#) makes isPart True
 added 2 to array: [4, 2]
-# [87, 70] makes isPart True
 adding 42
-
 
 added 6 to array: [6]
 added 3 to array: [6, 3]
 added 5 to array: [6, 3, 5]
-/ [87, 77] makes isPart True
+[87, 77] (/) makes isPart True
 adding 635
-
 
 added 1 to array: [1]
 added 3 to array: [1, 3]
 added 1 to array: [1, 3, 1]
-* [87, 87] makes isPart True
+[87, 87] (*) makes isPart True
 adding 131
 
-
 added 1 to array: [1]
-- [89, 99] makes isPart True
+[89, 99] (-) makes isPart True
 added 8 to array: [1, 8]
-- [89, 99] makes isPart True
 adding 18
-
 
 added 5 to array: [5]
 added 3 to array: [5, 3]
 added 8 to array: [5, 3, 8]
 added 4 to array: [4]
 added 0 to array: [4, 0]
-* [87, 131] makes isPart True
+[87, 131] (*) makes isPart True
 added 3 to array: [4, 0, 3]
-* [87, 131] makes isPart True
 adding 403
 
-
 added 1 to array: [1]
-* [90, 15] makes isPart True
+[90, 15] (*) makes isPart True
 added 4 to array: [1, 4]
-* [90, 15] makes isPart True
 added 3 to array: [1, 4, 3]
-* [90, 15] makes isPart True
 adding 143
-
 
 added 8 to array: [8]
 added 0 to array: [8, 0]
@@ -5289,174 +4183,141 @@ added 7 to array: [7]
 added 4 to array: [7, 4]
 added 0 to array: [7, 4, 0]
 added 2 to array: [2]
-* [89, 78] makes isPart True
+[89, 78] (*) makes isPart True
 added 4 to array: [2, 4]
 added 5 to array: [2, 4, 5]
 adding 245
 
-
 added 7 to array: [7]
-= [90, 87] makes isPart True
+[90, 87] (=) makes isPart True
 added 8 to array: [7, 8]
 added 4 to array: [7, 8, 4]
 adding 784
 
-
 added 7 to array: [7]
-* [90, 110] makes isPart True
+[90, 110] (*) makes isPart True
 added 0 to array: [7, 0]
 added 8 to array: [7, 0, 8]
 adding 708
 
-
 added 2 to array: [2]
-# [90, 135] makes isPart True
+[90, 135] (#) makes isPart True
 added 9 to array: [2, 9]
-# [90, 135] makes isPart True
 added 7 to array: [2, 9, 7]
 adding 297
 
-
 added 2 to array: [2]
 added 3 to array: [2, 3]
-# [91, 3] makes isPart True
+[91, 3] (#) makes isPart True
 added 0 to array: [2, 3, 0]
-# [91, 3] makes isPart True
 adding 230
-
 
 added 3 to array: [3]
 added 7 to array: [3, 7]
-* [89, 25] makes isPart True
+[89, 25] (*) makes isPart True
 added 3 to array: [3, 7, 3]
-* [89, 25] makes isPart True
 adding 373
 
-
 added 3 to array: [3]
-* [91, 27] makes isPart True
+[91, 27] (*) makes isPart True
 added 4 to array: [3, 4]
 added 1 to array: [3, 4, 1]
 adding 341
 
-
 added 4 to array: [4]
-$ [90, 58] makes isPart True
+[90, 58] ($) makes isPart True
 added 3 to array: [4, 3]
 added 8 to array: [4, 3, 8]
 adding 438
 
-
 added 8 to array: [8]
 added 7 to array: [8, 7]
 added 4 to array: [8, 7, 4]
-& [90, 104] makes isPart True
+[90, 104] (&) makes isPart True
 adding 874
-
 
 added 9 to array: [9]
 added 5 to array: [9, 5]
 added 9 to array: [9, 5, 9]
-* [90, 110] makes isPart True
+[90, 110] (*) makes isPart True
 adding 959
 
-
 added 1 to array: [1]
-$ [91, 122] makes isPart True
+[91, 122] ($) makes isPart True
 added 9 to array: [1, 9]
-$ [91, 122] makes isPart True
 added 2 to array: [1, 9, 2]
 adding 192
 
-
 added 8 to array: [8]
 added 2 to array: [8, 2]
-& [89, 133] makes isPart True
+[89, 133] (&) makes isPart True
 added 9 to array: [8, 2, 9]
-& [89, 133] makes isPart True
 adding 829
 
-
 added 4 to array: [4]
-* [90, 15] makes isPart True
+[90, 15] (*) makes isPart True
 added 7 to array: [4, 7]
-* [90, 15] makes isPart True
 added 6 to array: [4, 7, 6]
-* [90, 15] makes isPart True
 adding 476
-
 
 added 6 to array: [6]
 added 4 to array: [6, 4]
 added 7 to array: [6, 4, 7]
-* [92, 22] makes isPart True
+[92, 22] (*) makes isPart True
 adding 647
-
 
 added 4 to array: [4]
 added 3 to array: [4, 3]
 added 1 to array: [4, 3, 1]
-* [90, 69] makes isPart True
+[90, 69] (*) makes isPart True
 adding 431
 
-
 added 7 to array: [7]
-* [90, 69] makes isPart True
+[90, 69] (*) makes isPart True
 added 2 to array: [7, 2]
 added 8 to array: [7, 2, 8]
 adding 728
 
-
 added 5 to array: [5]
 added 0 to array: [5, 0]
-* [92, 117] makes isPart True
+[92, 117] (*) makes isPart True
 adding 50
-
 
 added 3 to array: [3]
 added 3 to array: [3, 3]
 added 4 to array: [3, 3, 4]
-* [93, 11] makes isPart True
+[93, 11] (*) makes isPart True
 adding 334
 
-
 added 7 to array: [7]
-* [92, 22] makes isPart True
+[92, 22] (*) makes isPart True
 added 3 to array: [7, 3]
 added 1 to array: [7, 3, 1]
 adding 731
 
-
 added 9 to array: [9]
-* [91, 27] makes isPart True
+[91, 27] (*) makes isPart True
 added 3 to array: [9, 3]
-* [91, 27] makes isPart True
 added 0 to array: [9, 3, 0]
 adding 930
 
-
 added 9 to array: [9]
-* [93, 46] makes isPart True
+[93, 46] (*) makes isPart True
 added 6 to array: [9, 6]
-* [93, 46] makes isPart True
 added 6 to array: [9, 6, 6]
-* [93, 46] makes isPart True
 adding 966
 
-
 added 3 to array: [3]
-* [92, 56] makes isPart True
+[92, 56] (*) makes isPart True
 added 2 to array: [3, 2]
 added 3 to array: [3, 2, 3]
 adding 323
 
-
 added 3 to array: [3]
-% [93, 78] makes isPart True
+[93, 78] (%) makes isPart True
 added 0 to array: [3, 0]
 added 1 to array: [3, 0, 1]
 adding 301
-
 
 added 4 to array: [4]
 added 0 to array: [4, 0]
@@ -5464,52 +4325,44 @@ added 4 to array: [4, 0, 4]
 added 8 to array: [8]
 added 7 to array: [8, 7]
 added 9 to array: [8, 7, 9]
-* [93, 113] makes isPart True
+[93, 113] (*) makes isPart True
 adding 879
 
-
 added 3 to array: [3]
-* [92, 117] makes isPart True
+[92, 117] (*) makes isPart True
 added 7 to array: [3, 7]
 added 2 to array: [3, 7, 2]
 adding 372
 
-
 added 2 to array: [2]
 added 0 to array: [2, 0]
 added 8 to array: [2, 0, 8]
-* [93, 129] makes isPart True
+[93, 129] (*) makes isPart True
 adding 208
 
-
 added 1 to array: [1]
-* [93, 129] makes isPart True
+[93, 129] (*) makes isPart True
 added 3 to array: [1, 3]
 added 4 to array: [1, 3, 4]
 adding 134
 
-
 added 1 to array: [1]
 added 6 to array: [1, 6]
 added 3 to array: [1, 6, 3]
-= [92, 36] makes isPart True
+[92, 36] (=) makes isPart True
 adding 163
-
 
 added 5 to array: [5]
 added 0 to array: [5, 0]
 added 9 to array: [5, 0, 9]
-* [92, 56] makes isPart True
+[92, 56] (*) makes isPart True
 adding 509
 
-
 added 7 to array: [7]
-% [92, 87] makes isPart True
+[92, 87] (%) makes isPart True
 added 8 to array: [7, 8]
-% [92, 87] makes isPart True
 added 5 to array: [7, 8, 5]
 adding 785
-
 
 added 7 to array: [7]
 added 6 to array: [7, 6]
@@ -5517,39 +4370,32 @@ added 8 to array: [7, 6, 8]
 added 3 to array: [3]
 added 2 to array: [3, 2]
 added 9 to array: [3, 2, 9]
-* [93, 11] makes isPart True
+[93, 11] (*) makes isPart True
 adding 329
 
-
 added 1 to array: [1]
-* [95, 16] makes isPart True
+[95, 16] (*) makes isPart True
 added 9 to array: [1, 9]
-* [95, 16] makes isPart True
 added 9 to array: [1, 9, 9]
-* [95, 16] makes isPart True
 adding 199
 
-
 added 7 to array: [7]
-* [95, 57] makes isPart True
+[95, 57] (*) makes isPart True
 added 9 to array: [7, 9]
 added 7 to array: [7, 9, 7]
 adding 797
 
-
 added 3 to array: [3]
-* [94, 67] makes isPart True
+[94, 67] (*) makes isPart True
 added 6 to array: [3, 6]
 added 8 to array: [3, 6, 8]
 adding 368
 
-
 added 8 to array: [8]
 added 7 to array: [8, 7]
 added 3 to array: [8, 7, 3]
-& [93, 84] makes isPart True
+[93, 84] (&) makes isPart True
 adding 873
-
 
 added 2 to array: [2]
 added 6 to array: [2, 6]
@@ -5557,65 +4403,50 @@ added 5 to array: [5]
 added 6 to array: [5, 6]
 added 5 to array: [5, 6, 5]
 added 6 to array: [6]
-* [95, 103] makes isPart True
+[95, 103] (*) makes isPart True
 added 5 to array: [6, 5]
 added 1 to array: [6, 5, 1]
 adding 651
 
-
 added 6 to array: [6]
-* [93, 113] makes isPart True
+[93, 113] (*) makes isPart True
 added 6 to array: [6, 6]
-* [93, 113] makes isPart True
 added 4 to array: [6, 6, 4]
-* [93, 113] makes isPart True
 adding 664
 
-
 added 1 to array: [1]
-# [95, 122] makes isPart True
+[95, 122] (#) makes isPart True
 added 1 to array: [1, 1]
-# [95, 122] makes isPart True
 added 1 to array: [1, 1, 1]
-# [95, 122] makes isPart True
 adding 111
 
-
 added 2 to array: [2]
-% [95, 135] makes isPart True
+[95, 135] (%) makes isPart True
 added 1 to array: [2, 1]
-% [95, 135] makes isPart True
 added 7 to array: [2, 1, 7]
-% [95, 135] makes isPart True
 adding 217
 
-
 added 2 to array: [2]
-* [96, 23] makes isPart True
+[96, 23] (*) makes isPart True
 added 6 to array: [2, 6]
-* [96, 23] makes isPart True
 adding 26
-
 
 added 7 to array: [7]
 added 0 to array: [7, 0]
 added 5 to array: [7, 0, 5]
-* [95, 34] makes isPart True
+[95, 34] (*) makes isPart True
 adding 705
 
-
 added 7 to array: [7]
-* [95, 34] makes isPart True
+[95, 34] (*) makes isPart True
 added 6 to array: [7, 6]
 adding 76
 
-
 added 4 to array: [4]
-* [96, 40] makes isPart True
+[96, 40] (*) makes isPart True
 added 1 to array: [4, 1]
 added 5 to array: [4, 1, 5]
 adding 415
-
 
 added 7 to array: [7]
 added 4 to array: [7, 4]
@@ -5623,120 +4454,98 @@ added 9 to array: [7, 4, 9]
 added 5 to array: [5]
 added 4 to array: [5, 4]
 added 5 to array: [5, 4, 5]
-- [95, 132] makes isPart True
+[95, 132] (-) makes isPart True
 adding 545
 
-
 added 4 to array: [4]
-# [97, 10] makes isPart True
+[97, 10] (#) makes isPart True
 added 7 to array: [4, 7]
-# [97, 10] makes isPart True
 added 3 to array: [4, 7, 3]
-# [97, 10] makes isPart True
 adding 473
-
 
 added 5 to array: [5]
 added 1 to array: [5, 1]
-* [95, 16] makes isPart True
+[95, 16] (*) makes isPart True
 added 7 to array: [5, 1, 7]
-* [95, 16] makes isPart True
 adding 517
 
-
 added 5 to array: [5]
-* [96, 40] makes isPart True
+[96, 40] (*) makes isPart True
 adding 5
 
-
 added 4 to array: [4]
-* [97, 44] makes isPart True
+[97, 44] (*) makes isPart True
 added 4 to array: [4, 4]
 added 9 to array: [4, 4, 9]
 adding 449
 
-
 added 6 to array: [6]
-* [95, 57] makes isPart True
+[95, 57] (*) makes isPart True
 added 8 to array: [6, 8]
 adding 68
-
 
 added 7 to array: [7]
 added 5 to array: [7, 5]
 added 1 to array: [7, 5, 1]
-* [97, 87] makes isPart True
+[97, 87] (*) makes isPart True
 adding 751
 
-
 added 3 to array: [3]
-* [96, 94] makes isPart True
+[96, 94] (*) makes isPart True
 added 9 to array: [3, 9]
 added 9 to array: [3, 9, 9]
 adding 399
 
-
 added 4 to array: [4]
-* [95, 103] makes isPart True
+[95, 103] (*) makes isPart True
 added 0 to array: [4, 0]
 added 1 to array: [4, 0, 1]
 adding 401
 
-
 added 7 to array: [7]
 added 3 to array: [7, 3]
 added 0 to array: [7, 3, 0]
-- [96, 4] makes isPart True
+[96, 4] (-) makes isPart True
 adding 730
-
 
 added 2 to array: [2]
 added 4 to array: [2, 4]
 added 0 to array: [2, 4, 0]
-* [96, 23] makes isPart True
+[96, 23] (*) makes isPart True
 adding 240
-
 
 added 6 to array: [6]
 added 5 to array: [6, 5]
 added 7 to array: [7]
-* [98, 33] makes isPart True
+[98, 33] (*) makes isPart True
 added 1 to array: [7, 1]
-* [98, 33] makes isPart True
 added 8 to array: [7, 1, 8]
-* [98, 33] makes isPart True
 adding 718
 
-
 added 8 to array: [8]
-* [98, 37] makes isPart True
+[98, 37] (*) makes isPart True
 added 7 to array: [8, 7]
-* [98, 37] makes isPart True
 adding 87
-
 
 added 5 to array: [5]
 added 3 to array: [5, 3]
 added 2 to array: [5, 3, 2]
 added 5 to array: [5]
-+ [98, 71] makes isPart True
+[98, 71] (+) makes isPart True
 added 6 to array: [5, 6]
 added 7 to array: [5, 6, 7]
 adding 567
 
-
 added 6 to array: [6]
 added 7 to array: [6, 7]
 added 5 to array: [6, 7, 5]
-$ [98, 111] makes isPart True
+[98, 111] ($) makes isPart True
 adding 675
 
-
 added 6 to array: [6]
-* [98, 117] makes isPart True
+[98, 117] (*) makes isPart True
 added 7 to array: [6, 7]
 adding 67
-
 
 added 4 to array: [4]
 added 6 to array: [4, 6]
@@ -5744,200 +4553,163 @@ added 3 to array: [4, 6, 3]
 added 2 to array: [2]
 added 8 to array: [2, 8]
 added 9 to array: [2, 8, 9]
-# [98, 8] makes isPart True
+[98, 8] (#) makes isPart True
 adding 289
-
 
 added 5 to array: [5]
 added 0 to array: [5, 0]
 added 9 to array: [5, 0, 9]
 added 2 to array: [2]
 added 0 to array: [2, 0]
-& [97, 26] makes isPart True
+[97, 26] (&) makes isPart True
 added 0 to array: [2, 0, 0]
-& [97, 26] makes isPart True
 adding 200
-
 
 added 8 to array: [8]
 added 5 to array: [8, 5]
-* [97, 44] makes isPart True
+[97, 44] (*) makes isPart True
 added 2 to array: [8, 5, 2]
-* [97, 44] makes isPart True
 adding 852
-
 
 added 8 to array: [8]
 added 8 to array: [8, 8]
-- [97, 67] makes isPart True
+[97, 67] (-) makes isPart True
 added 5 to array: [8, 8, 5]
-- [97, 67] makes isPart True
 adding 885
 
-
 added 6 to array: [6]
-/ [99, 75] makes isPart True
+[99, 75] (/) makes isPart True
 added 6 to array: [6, 6]
 added 3 to array: [6, 6, 3]
 adding 663
 
-
 added 7 to array: [7]
-& [99, 80] makes isPart True
+[99, 80] (&) makes isPart True
 added 2 to array: [7, 2]
 adding 72
 
-
 added 5 to array: [5]
 added 0 to array: [5, 0]
-* [97, 87] makes isPart True
+[97, 87] (*) makes isPart True
 added 7 to array: [5, 0, 7]
-* [97, 87] makes isPart True
 adding 507
-
 
 added 9 to array: [9]
 added 9 to array: [9, 9]
 added 8 to array: [9, 9, 8]
 added 9 to array: [9]
-& [98, 98] makes isPart True
+[98, 98] (&) makes isPart True
 added 5 to array: [9, 5]
 added 4 to array: [9, 5, 4]
 adding 954
-
 
 added 2 to array: [2]
 added 1 to array: [2, 1]
 added 3 to array: [2, 1, 3]
 added 6 to array: [6]
-* [99, 128] makes isPart True
+[99, 128] (*) makes isPart True
 added 7 to array: [6, 7]
-* [99, 128] makes isPart True
 added 2 to array: [6, 7, 2]
-* [99, 128] makes isPart True
 adding 672
-
 
 added 4 to array: [4]
 added 0 to array: [4, 0]
 added 3 to array: [4, 0, 3]
-* [98, 33] makes isPart True
+[98, 33] (*) makes isPart True
 adding 403
 
-
 added 1 to array: [1]
-* [98, 37] makes isPart True
+[98, 37] (*) makes isPart True
 added 2 to array: [1, 2]
 added 9 to array: [1, 2, 9]
 adding 129
 
-
 added 3 to array: [3]
 added 7 to array: [3, 7]
 added 7 to array: [3, 7, 7]
-- [99, 52] makes isPart True
+[99, 52] (-) makes isPart True
 adding 377
-
 
 added 4 to array: [4]
 added 7 to array: [4, 7]
 added 3 to array: [4, 7, 3]
-* [98, 117] makes isPart True
+[98, 117] (*) makes isPart True
 adding 473
-
 
 added 8 to array: [8]
 added 5 to array: [8, 5]
 added 5 to array: [8, 5, 5]
-= [100, 12] makes isPart True
+[100, 12] (=) makes isPart True
 adding 855
-
 
 added 2 to array: [2]
 added 5 to array: [2, 5]
 added 0 to array: [2, 5, 0]
 added 9 to array: [9]
-* [101, 43] makes isPart True
+[101, 43] (*) makes isPart True
 added 6 to array: [9, 6]
 added 1 to array: [9, 6, 1]
 adding 961
 
-
 added 8 to array: [8]
 added 6 to array: [8, 6]
 added 0 to array: [8, 6, 0]
-* [100, 58] makes isPart True
+[100, 58] (*) makes isPart True
 adding 860
 
-
 added 9 to array: [9]
-* [100, 58] makes isPart True
+[100, 58] (*) makes isPart True
 added 1 to array: [9, 1]
 added 6 to array: [9, 1, 6]
 adding 916
 
-
 added 9 to array: [9]
-# [101, 69] makes isPart True
+[101, 69] (#) makes isPart True
 added 8 to array: [9, 8]
-# [101, 69] makes isPart True
 added 1 to array: [9, 8, 1]
 adding 981
 
-
 added 3 to array: [3]
-* [101, 81] makes isPart True
+[101, 81] (*) makes isPart True
 added 2 to array: [3, 2]
 added 6 to array: [3, 2, 6]
 adding 326
 
-
 added 6 to array: [6]
 added 3 to array: [6, 3]
-* [101, 96] makes isPart True
+[101, 96] (*) makes isPart True
 added 3 to array: [6, 3, 3]
-* [101, 96] makes isPart True
 adding 633
-
 
 added 4 to array: [4]
 added 0 to array: [4, 0]
 added 4 to array: [4, 0, 4]
 added 6 to array: [6]
-* [101, 119] makes isPart True
+[101, 119] (*) makes isPart True
 added 7 to array: [6, 7]
-* [101, 119] makes isPart True
 added 6 to array: [6, 7, 6]
-* [101, 119] makes isPart True
 adding 676
 
-
 added 5 to array: [5]
-% [100, 122] makes isPart True
+[100, 122] (%) makes isPart True
 added 6 to array: [5, 6]
 added 6 to array: [5, 6, 6]
 adding 566
 
-
 added 1 to array: [1]
-* [99, 128] makes isPart True
+[99, 128] (*) makes isPart True
 added 2 to array: [1, 2]
-* [99, 128] makes isPart True
 added 0 to array: [1, 2, 0]
 adding 120
-
 
 added 8 to array: [8]
 added 9 to array: [8, 9]
 added 2 to array: [8, 9, 2]
 added 5 to array: [5]
-* [102, 15] makes isPart True
+[102, 15] (*) makes isPart True
 added 3 to array: [5, 3]
-* [102, 15] makes isPart True
 added 2 to array: [5, 3, 2]
-* [102, 15] makes isPart True
 adding 532
-
 
 added 7 to array: [7]
 added 5 to array: [7, 5]
@@ -5945,56 +4717,48 @@ added 4 to array: [7, 5, 4]
 added 8 to array: [8]
 added 6 to array: [8, 6]
 added 6 to array: [8, 6, 6]
-* [101, 43] makes isPart True
+[101, 43] (*) makes isPart True
 adding 866
-
 
 added 7 to array: [7]
 added 9 to array: [7, 9]
 added 0 to array: [7, 9, 0]
-/ [102, 51] makes isPart True
+[102, 51] (/) makes isPart True
 adding 790
-
 
 added 8 to array: [8]
 added 1 to array: [8, 1]
 added 9 to array: [8, 1, 9]
-* [101, 81] makes isPart True
+[101, 81] (*) makes isPart True
 adding 819
-
 
 added 4 to array: [4]
 added 4 to array: [4, 4]
 added 2 to array: [2]
 added 9 to array: [2, 9]
 added 5 to array: [5]
-@ [102, 4] makes isPart True
+[102, 4] (@) makes isPart True
 added 2 to array: [5, 2]
 added 7 to array: [5, 2, 7]
 adding 527
 
-
 added 6 to array: [6]
 added 0 to array: [6, 0]
 added 0 to array: [6, 0, 0]
-* [103, 37] makes isPart True
+[103, 37] (*) makes isPart True
 adding 600
 
-
 added 5 to array: [5]
-$ [102, 55] makes isPart True
+[102, 55] ($) makes isPart True
 added 6 to array: [5, 6]
 added 8 to array: [5, 6, 8]
 adding 568
 
-
 added 8 to array: [8]
 added 0 to array: [8, 0]
-@ [103, 66] makes isPart True
+[103, 66] (@) makes isPart True
 added 0 to array: [8, 0, 0]
-@ [103, 66] makes isPart True
 adding 800
-
 
 added 1 to array: [1]
 added 7 to array: [1, 7]
@@ -6002,101 +4766,80 @@ added 9 to array: [1, 7, 9]
 added 5 to array: [5]
 added 2 to array: [5, 2]
 added 8 to array: [5, 2, 8]
-* [101, 96] makes isPart True
+[101, 96] (*) makes isPart True
 adding 528
-
 
 added 6 to array: [6]
 added 1 to array: [6, 1]
-% [101, 106] makes isPart True
+[101, 106] (%) makes isPart True
 added 3 to array: [6, 1, 3]
-% [101, 106] makes isPart True
 adding 613
 
-
 added 3 to array: [3]
-= [101, 112] makes isPart True
+[101, 112] (=) makes isPart True
 added 5 to array: [3, 5]
-= [101, 112] makes isPart True
 added 8 to array: [3, 5, 8]
 adding 358
 
-
 added 9 to array: [9]
-* [101, 119] makes isPart True
+[101, 119] (*) makes isPart True
 added 4 to array: [9, 4]
-* [101, 119] makes isPart True
 added 9 to array: [9, 4, 9]
-* [101, 119] makes isPart True
 adding 949
 
-
 added 3 to array: [3]
-* [102, 15] makes isPart True
+[102, 15] (*) makes isPart True
 added 0 to array: [3, 0]
 added 2 to array: [3, 0, 2]
 adding 302
 
-
 added 8 to array: [8]
-* [104, 21] makes isPart True
+[104, 21] (*) makes isPart True
 added 0 to array: [8, 0]
 added 7 to array: [8, 0, 7]
 adding 807
 
-
 added 8 to array: [8]
 added 9 to array: [8, 9]
-+ [104, 42] makes isPart True
+[104, 42] (+) makes isPart True
 added 5 to array: [8, 9, 5]
-+ [104, 42] makes isPart True
 adding 895
 
-
 added 9 to array: [9]
-* [104, 99] makes isPart True
+[104, 99] (*) makes isPart True
 added 8 to array: [9, 8]
 added 0 to array: [9, 8, 0]
 adding 980
 
-
 added 7 to array: [7]
 added 3 to array: [7, 3]
-* [104, 132] makes isPart True
+[104, 132] (*) makes isPart True
 added 6 to array: [7, 3, 6]
-* [104, 132] makes isPart True
 adding 736
 
-
 added 2 to array: [2]
-* [105, 7] makes isPart True
+[105, 7] (*) makes isPart True
 added 1 to array: [2, 1]
 added 7 to array: [2, 1, 7]
 adding 217
 
-
 added 8 to array: [8]
 added 7 to array: [8, 7]
 added 9 to array: [8, 7, 9]
-* [103, 37] makes isPart True
+[103, 37] (*) makes isPart True
 adding 879
 
-
 added 7 to array: [7]
-+ [103, 60] makes isPart True
+[103, 60] (+) makes isPart True
 added 9 to array: [7, 9]
 added 3 to array: [7, 9, 3]
 adding 793
 
-
 added 4 to array: [4]
-- [103, 72] makes isPart True
+[103, 72] (-) makes isPart True
 added 4 to array: [4, 4]
-- [103, 72] makes isPart True
 added 2 to array: [4, 4, 2]
-- [103, 72] makes isPart True
 adding 442
-
 
 added 4 to array: [4]
 added 2 to array: [4, 2]
@@ -6104,16 +4847,14 @@ added 2 to array: [4, 2, 2]
 added 2 to array: [2]
 added 0 to array: [2, 0]
 added 9 to array: [2, 0, 9]
-* [104, 99] makes isPart True
+[104, 99] (*) makes isPart True
 adding 209
-
 
 added 9 to array: [9]
 added 6 to array: [9, 6]
 added 9 to array: [9, 6, 9]
-* [105, 118] makes isPart True
+[105, 118] (*) makes isPart True
 adding 969
-
 
 added 2 to array: [2]
 added 4 to array: [2, 4]
@@ -6121,234 +4862,185 @@ added 0 to array: [2, 4, 0]
 added 3 to array: [3]
 added 7 to array: [3, 7]
 added 8 to array: [3, 7, 8]
-/ [105, 129] makes isPart True
+[105, 129] (/) makes isPart True
 adding 378
-
 
 added 3 to array: [3]
 added 4 to array: [3, 4]
 added 0 to array: [3, 4, 0]
-* [105, 7] makes isPart True
+[105, 7] (*) makes isPart True
 adding 340
 
-
 added 1 to array: [1]
-= [104, 14] makes isPart True
+[104, 14] (=) makes isPart True
 added 4 to array: [1, 4]
-= [104, 14] makes isPart True
 added 5 to array: [1, 4, 5]
-= [104, 14] makes isPart True
 adding 145
 
-
 added 5 to array: [5]
-* [104, 21] makes isPart True
+[104, 21] (*) makes isPart True
 added 9 to array: [5, 9]
-* [104, 21] makes isPart True
 added 6 to array: [5, 9, 6]
 adding 596
 
-
 added 2 to array: [2]
-- [104, 44] makes isPart True
+[104, 44] (-) makes isPart True
 added 3 to array: [2, 3]
-- [104, 44] makes isPart True
 adding 23
-
 
 added 7 to array: [7]
 added 0 to array: [7, 0]
 added 3 to array: [7, 0, 3]
-= [106, 53] makes isPart True
+[106, 53] (=) makes isPart True
 adding 703
 
-
 added 2 to array: [2]
-% [104, 55] makes isPart True
+[104, 55] (%) makes isPart True
 added 1 to array: [2, 1]
 added 7 to array: [2, 1, 7]
 adding 217
 
-
 added 3 to array: [3]
-* [106, 75] makes isPart True
+[106, 75] (*) makes isPart True
 added 7 to array: [3, 7]
-* [106, 75] makes isPart True
 added 2 to array: [3, 7, 2]
 adding 372
 
-
 added 6 to array: [6]
 added 1 to array: [6, 1]
-+ [106, 90] makes isPart True
+[106, 90] (+) makes isPart True
 added 0 to array: [6, 1, 0]
-+ [106, 90] makes isPart True
 adding 610
 
-
 added 1 to array: [1]
-& [104, 107] makes isPart True
+[104, 107] (&) makes isPart True
 added 2 to array: [1, 2]
 added 9 to array: [1, 2, 9]
 adding 129
 
-
 added 7 to array: [7]
 added 9 to array: [7, 9]
-% [105, 19] makes isPart True
+[105, 19] (%) makes isPart True
 added 0 to array: [7, 9, 0]
-% [105, 19] makes isPart True
 adding 790
-
 
 added 9 to array: [9]
 added 0 to array: [9, 0]
 added 4 to array: [9, 0, 4]
-* [107, 41] makes isPart True
+[107, 41] (*) makes isPart True
 adding 904
 
-
 added 7 to array: [7]
-+ [107, 66] makes isPart True
+[107, 66] (+) makes isPart True
 added 9 to array: [7, 9]
-+ [107, 66] makes isPart True
 added 5 to array: [7, 9, 5]
 adding 795
-
 
 added 3 to array: [3]
 added 8 to array: [3, 8]
 added 5 to array: [3, 8, 5]
-= [106, 86] makes isPart True
+[106, 86] (=) makes isPart True
 adding 385
-
 
 added 8 to array: [8]
 added 8 to array: [8, 8]
-* [106, 98] makes isPart True
+[106, 98] (*) makes isPart True
 adding 88
 
-
 added 1 to array: [1]
-* [106, 98] makes isPart True
+[106, 98] (*) makes isPart True
 added 4 to array: [1, 4]
 added 3 to array: [1, 4, 3]
 adding 143
 
-
 added 8 to array: [8]
-* [105, 118] makes isPart True
+[105, 118] (*) makes isPart True
 added 9 to array: [8, 9]
-* [105, 118] makes isPart True
 added 1 to array: [8, 9, 1]
-* [105, 118] makes isPart True
 adding 891
-
 
 added 4 to array: [4]
 added 0 to array: [4, 0]
 added 6 to array: [4, 0, 6]
-* [107, 127] makes isPart True
+[107, 127] (*) makes isPart True
 adding 406
 
-
 added 7 to array: [7]
-= [105, 135] makes isPart True
+[105, 135] (=) makes isPart True
 added 9 to array: [7, 9]
-= [105, 135] makes isPart True
 adding 79
 
-
 added 7 to array: [7]
-* [107, 12] makes isPart True
+[107, 12] (*) makes isPart True
 added 4 to array: [7, 4]
 added 9 to array: [7, 4, 9]
 adding 749
 
-
 added 3 to array: [3]
-& [106, 25] makes isPart True
+[106, 25] (&) makes isPart True
 added 1 to array: [3, 1]
-& [106, 25] makes isPart True
 adding 31
 
-
 added 3 to array: [3]
-* [108, 47] makes isPart True
+[108, 47] (*) makes isPart True
 added 1 to array: [3, 1]
-* [108, 47] makes isPart True
 added 8 to array: [3, 1, 8]
-* [108, 47] makes isPart True
 adding 318
 
-
 added 3 to array: [3]
-* [106, 75] makes isPart True
+[106, 75] (*) makes isPart True
 added 1 to array: [3, 1]
-* [106, 75] makes isPart True
 added 7 to array: [3, 1, 7]
-* [106, 75] makes isPart True
 adding 317
 
-
 added 4 to array: [4]
-% [107, 110] makes isPart True
+[107, 110] (%) makes isPart True
 added 1 to array: [4, 1]
 added 9 to array: [4, 1, 9]
 adding 419
 
-
 added 3 to array: [3]
-* [107, 127] makes isPart True
+[107, 127] (*) makes isPart True
 added 9 to array: [3, 9]
 added 2 to array: [3, 9, 2]
 adding 392
 
-
 added 8 to array: [8]
-@ [109, 3] makes isPart True
+[109, 3] (@) makes isPart True
 added 5 to array: [8, 5]
 added 4 to array: [8, 5, 4]
 adding 854
 
-
 added 7 to array: [7]
 added 9 to array: [7, 9]
 added 7 to array: [7, 9, 7]
-* [107, 12] makes isPart True
+[107, 12] (*) makes isPart True
 adding 797
 
-
 added 5 to array: [5]
-* [109, 20] makes isPart True
+[109, 20] (*) makes isPart True
 added 0 to array: [5, 0]
 added 0 to array: [5, 0, 0]
 adding 500
 
-
 added 6 to array: [6]
 added 1 to array: [6, 1]
-* [107, 41] makes isPart True
+[107, 41] (*) makes isPart True
 added 4 to array: [6, 1, 4]
-* [107, 41] makes isPart True
 adding 614
-
 
 added 1 to array: [1]
 added 8 to array: [8]
-& [109, 62] makes isPart True
+[109, 62] (&) makes isPart True
 added 0 to array: [8, 0]
-& [109, 62] makes isPart True
 added 3 to array: [8, 0, 3]
 adding 803
-
 
 added 4 to array: [4]
 added 5 to array: [4, 5]
 added 1 to array: [4, 5, 1]
-* [109, 73] makes isPart True
+[109, 73] (*) makes isPart True
 adding 451
-
 
 added 3 to array: [3]
 added 3 to array: [3, 3]
@@ -6359,77 +5051,61 @@ added 9 to array: [1, 5, 9]
 added 1 to array: [1]
 added 4 to array: [1, 4]
 added 3 to array: [1, 4, 3]
-* [109, 96] makes isPart True
+[109, 96] (*) makes isPart True
 adding 143
 
-
 added 5 to array: [5]
-* [109, 96] makes isPart True
+[109, 96] (*) makes isPart True
 added 9 to array: [5, 9]
 added 8 to array: [5, 9, 8]
 adding 598
 
-
 added 8 to array: [8]
-/ [108, 115] makes isPart True
+[108, 115] (/) makes isPart True
 added 2 to array: [8, 2]
 added 7 to array: [8, 2, 7]
 adding 827
 
-
 added 7 to array: [7]
-* [109, 135] makes isPart True
+[109, 135] (*) makes isPart True
 added 1 to array: [7, 1]
-* [109, 135] makes isPart True
 added 7 to array: [7, 1, 7]
-* [109, 135] makes isPart True
 adding 717
-
 
 added 9 to array: [9]
 added 2 to array: [9, 2]
-* [108, 18] makes isPart True
+[108, 18] (*) makes isPart True
 added 4 to array: [9, 2, 4]
-* [108, 18] makes isPart True
 adding 924
-
 
 added 2 to array: [2]
 added 4 to array: [2, 4]
-* [108, 47] makes isPart True
+[108, 47] (*) makes isPart True
 added 5 to array: [2, 4, 5]
-* [108, 47] makes isPart True
 adding 245
-
 
 added 6 to array: [6]
 added 0 to array: [6, 0]
-% [110, 79] makes isPart True
+[110, 79] (%) makes isPart True
 added 6 to array: [6, 0, 6]
-% [110, 79] makes isPart True
 adding 606
 
-
 added 4 to array: [4]
-+ [108, 107] makes isPart True
+[108, 107] (+) makes isPart True
 added 6 to array: [4, 6]
 added 1 to array: [4, 6, 1]
 adding 461
 
-
 added 6 to array: [6]
-* [110, 122] makes isPart True
+[110, 122] (*) makes isPart True
 added 0 to array: [6, 0]
 added 4 to array: [6, 0, 4]
 adding 604
 
-
 added 7 to array: [7]
-* [109, 20] makes isPart True
+[109, 20] (*) makes isPart True
 added 3 to array: [7, 3]
-* [109, 20] makes isPart True
 adding 73
-
 
 added 1 to array: [1]
 added 6 to array: [1, 6]
@@ -6438,257 +5114,204 @@ added 4 to array: [4]
 added 0 to array: [4, 0]
 added 6 to array: [4, 0, 6]
 added 1 to array: [1]
-* [111, 35] makes isPart True
+[111, 35] (*) makes isPart True
 added 5 to array: [1, 5]
-* [111, 35] makes isPart True
 added 0 to array: [1, 5, 0]
 adding 150
 
-
 added 9 to array: [9]
-* [111, 53] makes isPart True
+[111, 53] (*) makes isPart True
 added 3 to array: [9, 3]
-* [111, 53] makes isPart True
 added 3 to array: [9, 3, 3]
 adding 933
-
 
 added 9 to array: [9]
 added 5 to array: [9, 5]
 added 7 to array: [9, 5, 7]
-- [109, 60] makes isPart True
+[109, 60] (-) makes isPart True
 adding 957
 
-
 added 4 to array: [4]
-* [111, 88] makes isPart True
+[111, 88] (*) makes isPart True
 added 1 to array: [4, 1]
-* [111, 88] makes isPart True
 added 9 to array: [4, 1, 9]
-* [111, 88] makes isPart True
 adding 419
-
 
 added 6 to array: [6]
 added 6 to array: [6, 6]
 added 5 to array: [6, 6, 5]
-& [111, 102] makes isPart True
+[111, 102] (&) makes isPart True
 adding 665
-
 
 added 7 to array: [7]
 added 2 to array: [7, 2]
-# [109, 130] makes isPart True
+[109, 130] (#) makes isPart True
 added 1 to array: [7, 2, 1]
-# [109, 130] makes isPart True
 adding 721
-
 
 added 5 to array: [5]
 added 7 to array: [5, 7]
-* [109, 135] makes isPart True
+[109, 135] (*) makes isPart True
 added 3 to array: [5, 7, 3]
-* [109, 135] makes isPart True
 adding 573
 
-
 added 9 to array: [9]
-* [111, 4] makes isPart True
+[111, 4] (*) makes isPart True
 added 1 to array: [9, 1]
 added 5 to array: [9, 1, 5]
 adding 915
 
-
 added 4 to array: [4]
-@ [112, 17] makes isPart True
+[112, 17] (@) makes isPart True
 added 0 to array: [4, 0]
-@ [112, 17] makes isPart True
 adding 40
-
 
 added 5 to array: [5]
 added 8 to array: [5, 8]
 added 4 to array: [5, 8, 4]
-$ [112, 65] makes isPart True
+[112, 65] ($) makes isPart True
 adding 584
-
 
 added 9 to array: [9]
 added 2 to array: [9, 2]
 added 9 to array: [9, 2, 9]
-* [112, 75] makes isPart True
+[112, 75] (*) makes isPart True
 adding 929
-
 
 added 3 to array: [3]
 added 7 to array: [3, 7]
 added 7 to array: [3, 7, 7]
 added 4 to array: [4]
 added 0 to array: [4, 0]
-* [112, 93] makes isPart True
+[112, 93] (*) makes isPart True
 added 4 to array: [4, 0, 4]
-* [112, 93] makes isPart True
 adding 404
-
 
 added 9 to array: [9]
 added 3 to array: [9, 3]
-* [112, 97] makes isPart True
+[112, 97] (*) makes isPart True
 added 5 to array: [9, 3, 5]
-* [112, 97] makes isPart True
 adding 935
 
-
 added 8 to array: [8]
-* [110, 104] makes isPart True
+[110, 104] (*) makes isPart True
 added 7 to array: [8, 7]
 added 0 to array: [8, 7, 0]
 adding 870
 
-
 added 9 to array: [9]
-- [110, 114] makes isPart True
+[110, 114] (-) makes isPart True
 added 3 to array: [9, 3]
-- [110, 114] makes isPart True
 adding 93
 
-
 added 3 to array: [3]
-* [110, 122] makes isPart True
+[110, 122] (*) makes isPart True
 added 9 to array: [3, 9]
 added 5 to array: [3, 9, 5]
 adding 395
 
-
 added 7 to array: [7]
 added 8 to array: [7, 8]
 added 1 to array: [7, 8, 1]
-* [111, 4] makes isPart True
+[111, 4] (*) makes isPart True
 adding 781
 
-
 added 6 to array: [6]
-* [113, 29] makes isPart True
+[113, 29] (*) makes isPart True
 added 3 to array: [6, 3]
-* [113, 29] makes isPart True
 added 2 to array: [6, 3, 2]
 adding 632
 
-
 added 7 to array: [7]
-% [111, 39] makes isPart True
+[111, 39] (%) makes isPart True
 added 1 to array: [7, 1]
-% [111, 39] makes isPart True
 added 0 to array: [7, 1, 0]
 adding 710
 
-
 added 7 to array: [7]
 added 6 to array: [7, 6]
-- [113, 48] makes isPart True
+[113, 48] (-) makes isPart True
 added 9 to array: [7, 6, 9]
-- [113, 48] makes isPart True
 adding 769
-
 
 added 3 to array: [3]
 added 2 to array: [3, 2]
 added 3 to array: [3, 2, 3]
-* [111, 53] makes isPart True
+[111, 53] (*) makes isPart True
 adding 323
-
 
 added 9 to array: [9]
 added 0 to array: [9, 0]
 added 4 to array: [9, 0, 4]
-* [111, 88] makes isPart True
+[111, 88] (*) makes isPart True
 adding 904
-
 
 added 8 to array: [8]
 added 5 to array: [8, 5]
-* [113, 121] makes isPart True
+[113, 121] (*) makes isPart True
 added 9 to array: [8, 5, 9]
-* [113, 121] makes isPart True
 adding 859
 
-
 added 6 to array: [6]
-* [114, 32] makes isPart True
+[114, 32] (*) makes isPart True
 added 4 to array: [6, 4]
 added 6 to array: [6, 4, 6]
 adding 646
 
-
 added 5 to array: [5]
-* [112, 75] makes isPart True
+[112, 75] (*) makes isPart True
 added 2 to array: [5, 2]
-* [112, 75] makes isPart True
 adding 52
 
-
 added 1 to array: [1]
-* [112, 93] makes isPart True
+[112, 93] (*) makes isPart True
 added 4 to array: [1, 4]
-* [112, 93] makes isPart True
 added 9 to array: [1, 4, 9]
-* [112, 93] makes isPart True
 adding 149
 
-
 added 4 to array: [4]
-* [112, 97] makes isPart True
+[112, 97] (*) makes isPart True
 added 1 to array: [4, 1]
 added 4 to array: [4, 1, 4]
 adding 414
 
-
 added 5 to array: [5]
 added 1 to array: [5, 1]
-= [113, 5] makes isPart True
+[113, 5] (=) makes isPart True
 adding 51
-
 
 added 5 to array: [5]
 added 2 to array: [5, 2]
-/ [115, 11] makes isPart True
+[115, 11] (/) makes isPart True
 added 4 to array: [5, 2, 4]
-/ [115, 11] makes isPart True
 adding 524
 
-
 added 6 to array: [6]
-* [115, 13] makes isPart True
+[115, 13] (*) makes isPart True
 added 2 to array: [6, 2]
-* [115, 13] makes isPart True
 added 5 to array: [6, 2, 5]
 adding 625
-
 
 added 3 to array: [3]
 added 2 to array: [3, 2]
 added 8 to array: [3, 2, 8]
-* [113, 29] makes isPart True
+[113, 29] (*) makes isPart True
 adding 328
 
-
 added 2 to array: [2]
-* [115, 65] makes isPart True
+[115, 65] (*) makes isPart True
 added 9 to array: [2, 9]
 added 5 to array: [2, 9, 5]
 adding 295
-
 
 added 7 to array: [7]
 added 3 to array: [7, 3]
 added 4 to array: [7, 3, 4]
 added 8 to array: [8]
 added 5 to array: [8, 5]
-% [115, 108] makes isPart True
+[115, 108] (%) makes isPart True
 added 6 to array: [8, 5, 6]
-% [115, 108] makes isPart True
 adding 856
-
 
 added 2 to array: [2]
 added 9 to array: [2, 9]
@@ -6697,130 +5320,105 @@ added 6 to array: [6]
 added 9 to array: [6, 9]
 added 5 to array: [6, 9, 5]
 added 3 to array: [3]
-* [113, 121] makes isPart True
+[113, 121] (*) makes isPart True
 added 6 to array: [3, 6]
-* [113, 121] makes isPart True
 added 7 to array: [3, 6, 7]
 adding 367
-
 
 added 2 to array: [2]
 added 1 to array: [2, 1]
 added 8 to array: [2, 1, 8]
-- [115, 129] makes isPart True
+[115, 129] (-) makes isPart True
 adding 218
 
-
 added 7 to array: [7]
-% [113, 130] makes isPart True
+[113, 130] (%) makes isPart True
 added 8 to array: [7, 8]
 added 7 to array: [7, 8, 7]
 adding 787
 
-
 added 8 to array: [8]
 added 3 to array: [3]
 added 3 to array: [3, 3]
-* [114, 32] makes isPart True
+[114, 32] (*) makes isPart True
 added 9 to array: [3, 3, 9]
-* [114, 32] makes isPart True
 adding 339
-
 
 added 5 to array: [5]
 added 7 to array: [5, 7]
 added 6 to array: [5, 7, 6]
-/ [115, 60] makes isPart True
+[115, 60] (/) makes isPart True
 adding 576
-
 
 added 4 to array: [4]
 added 1 to array: [4, 1]
 added 7 to array: [4, 1, 7]
-* [115, 65] makes isPart True
+[115, 65] (*) makes isPart True
 adding 417
-
 
 added 4 to array: [4]
 added 4 to array: [4, 4]
-@ [114, 79] makes isPart True
+[114, 79] (@) makes isPart True
 added 5 to array: [4, 4, 5]
-@ [114, 79] makes isPart True
 adding 445
-
 
 added 8 to array: [8]
 added 6 to array: [8, 6]
 added 9 to array: [8, 6, 9]
-* [117, 7] makes isPart True
+[117, 7] (*) makes isPart True
 adding 869
 
-
 added 8 to array: [8]
-* [117, 7] makes isPart True
+[117, 7] (*) makes isPart True
 added 5 to array: [8, 5]
 adding 85
 
-
 added 3 to array: [3]
-* [115, 13] makes isPart True
+[115, 13] (*) makes isPart True
 added 1 to array: [3, 1]
-* [115, 13] makes isPart True
 added 6 to array: [3, 1, 6]
 adding 316
 
-
 added 3 to array: [3]
 added 0 to array: [3, 0]
-# [117, 23] makes isPart True
+[117, 23] (#) makes isPart True
 added 8 to array: [3, 0, 8]
-# [117, 23] makes isPart True
 adding 308
 
-
 added 3 to array: [3]
-* [117, 38] makes isPart True
+[117, 38] (*) makes isPart True
 added 4 to array: [3, 4]
 added 5 to array: [3, 4, 5]
 adding 345
 
-
 added 7 to array: [7]
-* [117, 49] makes isPart True
+[117, 49] (*) makes isPart True
 added 4 to array: [7, 4]
-* [117, 49] makes isPart True
 added 9 to array: [7, 4, 9]
 adding 749
 
-
 added 2 to array: [2]
 added 6 to array: [2, 6]
-@ [115, 83] makes isPart True
+[115, 83] (@) makes isPart True
 added 4 to array: [2, 6, 4]
-@ [115, 83] makes isPart True
 adding 264
-
 
 added 7 to array: [7]
 added 7 to array: [7, 7]
-& [117, 99] makes isPart True
+[117, 99] (&) makes isPart True
 added 5 to array: [7, 7, 5]
-& [117, 99] makes isPart True
 adding 775
 
-
 added 7 to array: [7]
-/ [117, 101] makes isPart True
+[117, 101] (/) makes isPart True
 added 7 to array: [7, 7]
 added 7 to array: [7, 7, 7]
 adding 777
 
-
 added 8 to array: [8]
-- [117, 135] makes isPart True
+[117, 135] (-) makes isPart True
 added 9 to array: [8, 9]
 adding 89
-
 
 added 7 to array: [7]
 added 8 to array: [7, 8]
@@ -6828,293 +5426,236 @@ added 6 to array: [7, 8, 6]
 added 7 to array: [7]
 added 1 to array: [7, 1]
 added 3 to array: [7, 1, 3]
-* [117, 69] makes isPart True
+[117, 69] (*) makes isPart True
 adding 713
 
-
 added 5 to array: [5]
-* [117, 69] makes isPart True
+[117, 69] (*) makes isPart True
 added 2 to array: [5, 2]
 adding 52
-
 
 added 3 to array: [3]
 added 5 to array: [3, 5]
 added 7 to array: [3, 5, 7]
-+ [118, 92] makes isPart True
+[118, 92] (+) makes isPart True
 adding 357
 
-
 added 9 to array: [9]
-* [118, 118] makes isPart True
+[118, 118] (*) makes isPart True
 added 7 to array: [9, 7]
-* [118, 118] makes isPart True
 added 1 to array: [9, 7, 1]
 adding 971
 
-
 added 7 to array: [7]
 added 4 to array: [7, 4]
-* [118, 127] makes isPart True
+[118, 127] (*) makes isPart True
 adding 74
 
-
 added 3 to array: [3]
-* [118, 127] makes isPart True
+[118, 127] (*) makes isPart True
 added 0 to array: [3, 0]
 added 5 to array: [3, 0, 5]
 adding 305
 
-
 added 3 to array: [3]
 added 2 to array: [3, 2]
 added 5 to array: [3, 2, 5]
-* [119, 31] makes isPart True
+[119, 31] (*) makes isPart True
 adding 325
 
-
 added 7 to array: [7]
-$ [117, 33] makes isPart True
+[117, 33] ($) makes isPart True
 added 7 to array: [7, 7]
-$ [117, 33] makes isPart True
 added 0 to array: [7, 7, 0]
 adding 770
 
-
 added 1 to array: [1]
-* [117, 38] makes isPart True
+[117, 38] (*) makes isPart True
 added 6 to array: [1, 6]
-* [117, 38] makes isPart True
 added 7 to array: [1, 6, 7]
 adding 167
 
-
 added 2 to array: [2]
-* [117, 49] makes isPart True
+[117, 49] (*) makes isPart True
 added 6 to array: [2, 6]
-* [117, 49] makes isPart True
 added 5 to array: [2, 6, 5]
 adding 265
 
-
 added 8 to array: [8]
-/ [117, 56] makes isPart True
+[117, 56] (/) makes isPart True
 added 8 to array: [8, 8]
 added 3 to array: [8, 8, 3]
 adding 883
 
-
 added 5 to array: [5]
-* [119, 95] makes isPart True
+[119, 95] (*) makes isPart True
 added 7 to array: [5, 7]
 adding 57
-
 
 added 3 to array: [3]
 added 1 to array: [3, 1]
 added 2 to array: [3, 1, 2]
-# [117, 111] makes isPart True
+[117, 111] (#) makes isPart True
 adding 312
 
-
 added 2 to array: [2]
-* [120, 12] makes isPart True
+[120, 12] (*) makes isPart True
 added 6 to array: [2, 6]
-* [120, 12] makes isPart True
 added 6 to array: [2, 6, 6]
 adding 266
-
 
 added 7 to array: [7]
 added 8 to array: [7, 8]
 added 8 to array: [7, 8, 8]
 added 1 to array: [1]
-# [120, 25] makes isPart True
+[120, 25] (#) makes isPart True
 added 1 to array: [1, 1]
-# [120, 25] makes isPart True
 added 1 to array: [1, 1, 1]
-# [120, 25] makes isPart True
 adding 111
 
-
 added 3 to array: [3]
-@ [118, 43] makes isPart True
+[118, 43] (@) makes isPart True
 added 4 to array: [3, 4]
-@ [118, 43] makes isPart True
 added 2 to array: [3, 4, 2]
-@ [118, 43] makes isPart True
 adding 342
 
-
 added 5 to array: [5]
-+ [118, 54] makes isPart True
+[118, 54] (+) makes isPart True
 added 8 to array: [5, 8]
-+ [118, 54] makes isPart True
 added 8 to array: [5, 8, 8]
-+ [118, 54] makes isPart True
 adding 588
 
-
 added 9 to array: [9]
-@ [120, 62] makes isPart True
+[120, 62] (@) makes isPart True
 added 3 to array: [9, 3]
 added 9 to array: [9, 3, 9]
 adding 939
 
-
 added 3 to array: [3]
 added 9 to array: [3, 9]
 added 3 to array: [3, 9, 3]
-* [119, 71] makes isPart True
+[119, 71] (*) makes isPart True
 adding 393
 
-
 added 7 to array: [7]
-* [119, 71] makes isPart True
+[119, 71] (*) makes isPart True
 added 1 to array: [7, 1]
 added 7 to array: [7, 1, 7]
 adding 717
 
-
 added 4 to array: [4]
-- [120, 88] makes isPart True
+[120, 88] (-) makes isPart True
 added 8 to array: [4, 8]
-- [120, 88] makes isPart True
 added 8 to array: [4, 8, 8]
 adding 488
 
-
 added 4 to array: [4]
 added 0 to array: [4, 0]
-* [118, 118] makes isPart True
+[118, 118] (*) makes isPart True
 added 1 to array: [4, 0, 1]
-* [118, 118] makes isPart True
 adding 401
 
-
 added 2 to array: [2]
-$ [120, 122] makes isPart True
+[120, 122] ($) makes isPart True
 added 4 to array: [2, 4]
 added 9 to array: [2, 4, 9]
 adding 249
 
-
 added 2 to array: [2]
-* [120, 128] makes isPart True
+[120, 128] (*) makes isPart True
 added 5 to array: [2, 5]
 added 5 to array: [2, 5, 5]
 adding 255
 
-
 added 3 to array: [3]
-+ [119, 6] makes isPart True
+[119, 6] (+) makes isPart True
 added 0 to array: [3, 0]
 added 8 to array: [3, 0, 8]
 adding 308
 
-
 added 8 to array: [8]
-* [119, 31] makes isPart True
+[119, 31] (*) makes isPart True
 added 1 to array: [8, 1]
-* [119, 31] makes isPart True
 added 6 to array: [8, 1, 6]
 adding 816
 
-
 added 4 to array: [4]
-+ [121, 37] makes isPart True
+[121, 37] (+) makes isPart True
 added 6 to array: [4, 6]
 added 5 to array: [4, 6, 5]
 adding 465
 
-
 added 4 to array: [4]
-* [121, 56] makes isPart True
+[121, 56] (*) makes isPart True
 added 9 to array: [4, 9]
 added 2 to array: [4, 9, 2]
 adding 492
 
-
 added 5 to array: [5]
 added 8 to array: [5, 8]
-/ [121, 78] makes isPart True
+[121, 78] (/) makes isPart True
 added 1 to array: [5, 8, 1]
-/ [121, 78] makes isPart True
 adding 581
 
-
 added 3 to array: [3]
-* [119, 95] makes isPart True
+[119, 95] (*) makes isPart True
 added 9 to array: [3, 9]
 added 7 to array: [3, 9, 7]
 adding 397
 
-
 added 7 to array: [7]
 added 0 to array: [7, 0]
 added 9 to array: [7, 0, 9]
-* [120, 104] makes isPart True
+[120, 104] (*) makes isPart True
 adding 709
 
-
 added 5 to array: [5]
-* [120, 12] makes isPart True
+[120, 12] (*) makes isPart True
 added 1 to array: [5, 1]
 added 1 to array: [5, 1, 1]
 adding 511
 
-
 added 8 to array: [8]
 added 8 to array: [8, 8]
-* [122, 23] makes isPart True
+[122, 23] (*) makes isPart True
 added 1 to array: [8, 8, 1]
-* [122, 23] makes isPart True
 adding 881
-
 
 added 1 to array: [1]
 added 7 to array: [1, 7]
 added 8 to array: [1, 7, 8]
-* [120, 51] makes isPart True
+[120, 51] (*) makes isPart True
 adding 178
-
 
 added 5 to array: [5]
 added 2 to array: [5, 2]
 added 4 to array: [5, 2, 4]
-* [121, 56] makes isPart True
+[121, 56] (*) makes isPart True
 adding 524
-
 
 added 1 to array: [1]
 added 5 to array: [1, 5]
-* [122, 73] makes isPart True
+[122, 73] (*) makes isPart True
 added 0 to array: [1, 5, 0]
-* [122, 73] makes isPart True
 adding 150
-
 
 added 7 to array: [7]
 added 2 to array: [7, 2]
-* [122, 83] makes isPart True
+[122, 83] (*) makes isPart True
 added 0 to array: [7, 2, 0]
-* [122, 83] makes isPart True
 adding 720
-
 
 added 8 to array: [8]
 added 4 to array: [8, 4]
 added 3 to array: [8, 4, 3]
-* [122, 94] makes isPart True
+[122, 94] (*) makes isPart True
 adding 843
 
-
 added 9 to array: [9]
-* [120, 104] makes isPart True
+[120, 104] (*) makes isPart True
 added 6 to array: [9, 6]
 added 4 to array: [9, 6, 4]
 adding 964
-
 
 added 1 to array: [1]
 added 2 to array: [1, 2]
@@ -7122,39 +5663,32 @@ added 9 to array: [1, 2, 9]
 added 9 to array: [9]
 added 0 to array: [9, 0]
 added 8 to array: [9, 0, 8]
-* [120, 128] makes isPart True
+[120, 128] (*) makes isPart True
 adding 908
-
 
 added 7 to array: [7]
 added 4 to array: [7, 4]
 added 9 to array: [7, 4, 9]
 added 5 to array: [5]
 added 2 to array: [5, 2]
-+ [121, 27] makes isPart True
+[121, 27] (+) makes isPart True
 added 6 to array: [5, 2, 6]
-+ [121, 27] makes isPart True
 adding 526
-
 
 added 8 to array: [8]
 added 0 to array: [8, 0]
 added 0 to array: [8, 0, 0]
 added 5 to array: [5]
 added 0 to array: [5, 0]
-* [123, 89] makes isPart True
+[123, 89] (*) makes isPart True
 added 0 to array: [5, 0, 0]
-* [123, 89] makes isPart True
 adding 500
-
 
 added 4 to array: [4]
 added 8 to array: [4, 8]
-/ [121, 118] makes isPart True
+[121, 118] (/) makes isPart True
 added 7 to array: [4, 8, 7]
-/ [121, 118] makes isPart True
 adding 487
-
 
 added 2 to array: [2]
 added 0 to array: [2, 0]
@@ -7163,376 +5697,293 @@ added 6 to array: [6]
 added 6 to array: [6, 6]
 added 8 to array: [6, 6, 8]
 added 6 to array: [6]
-* [123, 11] makes isPart True
+[123, 11] (*) makes isPart True
 added 3 to array: [6, 3]
 added 9 to array: [6, 3, 9]
 adding 639
 
-
 added 9 to array: [9]
 added 3 to array: [9, 3]
-* [122, 23] makes isPart True
+[122, 23] (*) makes isPart True
 added 2 to array: [9, 3, 2]
-* [122, 23] makes isPart True
 adding 932
 
-
 added 1 to array: [1]
-$ [122, 29] makes isPart True
+[122, 29] ($) makes isPart True
 added 3 to array: [1, 3]
 added 9 to array: [1, 3, 9]
 adding 139
 
-
 added 7 to array: [7]
-* [124, 35] makes isPart True
+[124, 35] (*) makes isPart True
 added 2 to array: [7, 2]
-* [124, 35] makes isPart True
 added 6 to array: [7, 2, 6]
-* [124, 35] makes isPart True
 adding 726
 
-
 added 5 to array: [5]
-* [124, 58] makes isPart True
+[124, 58] (*) makes isPart True
 added 1 to array: [5, 1]
-* [124, 58] makes isPart True
 adding 51
-
 
 added 4 to array: [4]
 added 3 to array: [4, 3]
 added 6 to array: [4, 3, 6]
-$ [123, 64] makes isPart True
+[123, 64] ($) makes isPart True
 adding 436
 
-
 added 7 to array: [7]
-* [122, 83] makes isPart True
+[122, 83] (*) makes isPart True
 added 7 to array: [7, 7]
-* [122, 83] makes isPart True
 added 5 to array: [7, 7, 5]
 adding 775
 
-
 added 8 to array: [8]
-* [122, 94] makes isPart True
+[122, 94] (*) makes isPart True
 added 3 to array: [8, 3]
-* [122, 94] makes isPart True
 added 4 to array: [8, 3, 4]
-* [122, 94] makes isPart True
 adding 834
 
-
 added 8 to array: [8]
-/ [122, 98] makes isPart True
+[122, 98] (/) makes isPart True
 added 7 to array: [8, 7]
-/ [122, 98] makes isPart True
 added 4 to array: [8, 7, 4]
 adding 874
-
 
 added 8 to array: [8]
 added 5 to array: [8, 5]
 added 9 to array: [8, 5, 9]
-+ [123, 126] makes isPart True
+[123, 126] (+) makes isPart True
 adding 859
 
-
 added 4 to array: [4]
-$ [124, 132] makes isPart True
+[124, 132] ($) makes isPart True
 added 3 to array: [4, 3]
 added 9 to array: [4, 3, 9]
 adding 439
 
-
 added 8 to array: [8]
 added 1 to array: [8, 1]
 added 0 to array: [8, 1, 0]
-* [123, 11] makes isPart True
+[123, 11] (*) makes isPart True
 adding 810
 
-
 added 8 to array: [8]
-* [125, 44] makes isPart True
+[125, 44] (*) makes isPart True
 added 0 to array: [8, 0]
-* [125, 44] makes isPart True
 added 5 to array: [8, 0, 5]
-* [125, 44] makes isPart True
 adding 805
 
-
 added 1 to array: [1]
-# [123, 53] makes isPart True
+[123, 53] (#) makes isPart True
 added 0 to array: [1, 0]
-# [123, 53] makes isPart True
 added 0 to array: [1, 0, 0]
 adding 100
 
-
 added 9 to array: [9]
 added 9 to array: [9, 9]
-* [125, 72] makes isPart True
+[125, 72] (*) makes isPart True
 added 9 to array: [9, 9, 9]
-* [125, 72] makes isPart True
 adding 999
-
 
 added 7 to array: [7]
 added 4 to array: [7, 4]
 added 3 to array: [7, 4, 3]
 added 1 to array: [1]
 added 6 to array: [1, 6]
-* [123, 89] makes isPart True
+[123, 89] (*) makes isPart True
 added 9 to array: [1, 6, 9]
-* [123, 89] makes isPart True
 adding 169
 
-
 added 4 to array: [4]
-* [125, 103] makes isPart True
+[125, 103] (*) makes isPart True
 added 7 to array: [4, 7]
-* [125, 103] makes isPart True
 added 7 to array: [4, 7, 7]
-* [125, 103] makes isPart True
 adding 477
 
-
 added 9 to array: [9]
-% [123, 108] makes isPart True
+[123, 108] (%) makes isPart True
 added 6 to array: [9, 6]
-% [123, 108] makes isPart True
 added 1 to array: [9, 6, 1]
 adding 961
 
-
 added 9 to array: [9]
 added 7 to array: [9, 7]
-* [125, 119] makes isPart True
+[125, 119] (*) makes isPart True
 added 3 to array: [9, 7, 3]
-* [125, 119] makes isPart True
 adding 973
-
 
 added 5 to array: [5]
 added 7 to array: [5, 7]
 added 4 to array: [5, 7, 4]
-* [126, 4] makes isPart True
+[126, 4] (*) makes isPart True
 adding 574
 
-
 added 6 to array: [6]
-* [125, 16] makes isPart True
+[125, 16] (*) makes isPart True
 adding 6
 
-
 added 2 to array: [2]
-* [125, 16] makes isPart True
+[125, 16] (*) makes isPart True
 added 6 to array: [2, 6]
 added 2 to array: [2, 6, 2]
 adding 262
-
 
 added 3 to array: [3]
 added 9 to array: [3, 9]
 added 8 to array: [3, 9, 8]
 added 2 to array: [2]
-* [124, 35] makes isPart True
+[124, 35] (*) makes isPart True
 added 0 to array: [2, 0]
-* [124, 35] makes isPart True
 added 4 to array: [2, 0, 4]
 adding 204
 
-
 added 5 to array: [5]
-* [124, 58] makes isPart True
+[124, 58] (*) makes isPart True
 added 2 to array: [5, 2]
-* [124, 58] makes isPart True
 added 5 to array: [5, 2, 5]
 adding 525
 
-
 added 4 to array: [4]
-* [126, 98] makes isPart True
+[126, 98] (*) makes isPart True
 added 1 to array: [4, 1]
-* [126, 98] makes isPart True
 added 2 to array: [4, 1, 2]
 adding 412
-
 
 added 3 to array: [3]
 added 7 to array: [3, 7]
 added 6 to array: [3, 7, 6]
-* [126, 116] makes isPart True
+[126, 116] (*) makes isPart True
 adding 376
 
-
 added 4 to array: [4]
-@ [125, 121] makes isPart True
+[125, 121] (@) makes isPart True
 added 3 to array: [4, 3]
 adding 43
 
-
 added 8 to array: [8]
-* [126, 4] makes isPart True
+[126, 4] (*) makes isPart True
 added 3 to array: [8, 3]
 added 6 to array: [8, 3, 6]
 adding 836
 
-
 added 2 to array: [2]
-* [125, 44] makes isPart True
+[125, 44] (*) makes isPart True
 added 5 to array: [2, 5]
-* [125, 44] makes isPart True
 adding 25
 
-
 added 6 to array: [6]
-% [125, 50] makes isPart True
+[125, 50] (%) makes isPart True
 added 1 to array: [6, 1]
-% [125, 50] makes isPart True
 added 9 to array: [6, 1, 9]
-% [125, 50] makes isPart True
 adding 619
 
-
 added 6 to array: [6]
-* [127, 65] makes isPart True
+[127, 65] (*) makes isPart True
 added 5 to array: [6, 5]
-* [127, 65] makes isPart True
 added 8 to array: [6, 5, 8]
-* [127, 65] makes isPart True
 adding 658
 
-
 added 1 to array: [1]
-* [125, 72] makes isPart True
+[125, 72] (*) makes isPart True
 added 7 to array: [1, 7]
-* [125, 72] makes isPart True
 added 2 to array: [1, 7, 2]
 adding 172
 
-
 added 4 to array: [4]
-* [125, 103] makes isPart True
+[125, 103] (*) makes isPart True
 added 0 to array: [4, 0]
-* [125, 103] makes isPart True
 added 8 to array: [4, 0, 8]
-* [125, 103] makes isPart True
 adding 408
 
-
 added 7 to array: [7]
-= [125, 128] makes isPart True
+[125, 128] (=) makes isPart True
 added 7 to array: [7, 7]
 added 6 to array: [7, 7, 6]
 adding 776
 
-
 added 8 to array: [8]
-= [125, 135] makes isPart True
+[125, 135] (=) makes isPart True
 added 0 to array: [8, 0]
-= [125, 135] makes isPart True
 added 2 to array: [8, 0, 2]
-= [125, 135] makes isPart True
 adding 802
-
 
 added 3 to array: [3]
 added 0 to array: [3, 0]
-* [128, 15] makes isPart True
+[128, 15] (*) makes isPart True
 added 7 to array: [3, 0, 7]
-* [128, 15] makes isPart True
 adding 307
-
 
 added 5 to array: [5]
 added 3 to array: [5, 3]
 added 7 to array: [5, 3, 7]
 added 9 to array: [9]
-= [128, 37] makes isPart True
+[128, 37] (=) makes isPart True
 added 8 to array: [9, 8]
-= [128, 37] makes isPart True
 added 8 to array: [9, 8, 8]
 adding 988
-
 
 added 1 to array: [1]
 added 2 to array: [1, 2]
 added 8 to array: [1, 2, 8]
 added 1 to array: [1]
-+ [128, 91] makes isPart True
+[128, 91] (+) makes isPart True
 added 1 to array: [1, 1]
 added 8 to array: [1, 1, 8]
 adding 118
 
-
 added 3 to array: [3]
-* [126, 98] makes isPart True
+[126, 98] (*) makes isPart True
 added 2 to array: [3, 2]
-* [126, 98] makes isPart True
 added 7 to array: [3, 2, 7]
 adding 327
-
 
 added 2 to array: [2]
 added 9 to array: [2, 9]
 added 6 to array: [2, 9, 6]
-* [128, 110] makes isPart True
+[128, 110] (*) makes isPart True
 adding 296
 
-
 added 9 to array: [9]
-* [126, 116] makes isPart True
+[126, 116] (*) makes isPart True
 added 6 to array: [9, 6]
 added 7 to array: [9, 6, 7]
 adding 967
 
-
 added 9 to array: [9]
 added 9 to array: [9, 9]
 added 1 to array: [9, 9, 1]
-% [126, 125] makes isPart True
+[126, 125] (%) makes isPart True
 adding 991
-
 
 added 8 to array: [8]
 added 9 to array: [8, 9]
 added 9 to array: [8, 9, 9]
-* [129, 8] makes isPart True
+[129, 8] (*) makes isPart True
 adding 899
-
 
 added 7 to array: [7]
 added 8 to array: [7, 8]
 added 8 to array: [7, 8, 8]
-& [127, 23] makes isPart True
+[127, 23] (&) makes isPart True
 adding 788
-
 
 added 8 to array: [8]
 added 2 to array: [8, 2]
-* [129, 30] makes isPart True
+[129, 30] (*) makes isPart True
 added 9 to array: [8, 2, 9]
-* [129, 30] makes isPart True
 adding 829
 
-
 added 5 to array: [5]
-- [127, 59] makes isPart True
+[127, 59] (-) makes isPart True
 added 5 to array: [5, 5]
-- [127, 59] makes isPart True
 added 9 to array: [5, 5, 9]
-- [127, 59] makes isPart True
 adding 559
-
 
 added 7 to array: [7]
 added 2 to array: [7, 2]
 added 2 to array: [7, 2, 2]
-* [127, 65] makes isPart True
+[127, 65] (*) makes isPart True
 adding 722
-
 
 added 5 to array: [5]
 added 1 to array: [5, 1]
@@ -7540,48 +5991,38 @@ added 9 to array: [5, 1, 9]
 added 3 to array: [3]
 added 8 to array: [3, 8]
 added 5 to array: [3, 8, 5]
-$ [128, 87] makes isPart True
+[128, 87] ($) makes isPart True
 adding 385
-
 
 added 3 to array: [3]
 added 2 to array: [3, 2]
 added 3 to array: [3, 2, 3]
-* [128, 115] makes isPart True
+[128, 115] (*) makes isPart True
 adding 323
 
-
 added 1 to array: [1]
-* [128, 130] makes isPart True
+[128, 130] (*) makes isPart True
 added 2 to array: [1, 2]
 added 3 to array: [1, 2, 3]
 adding 123
 
-
 added 9 to array: [9]
-$ [128, 11] makes isPart True
+[128, 11] ($) makes isPart True
 added 3 to array: [9, 3]
-$ [128, 11] makes isPart True
 added 0 to array: [9, 3, 0]
-$ [128, 11] makes isPart True
 adding 930
 
-
 added 6 to array: [6]
-* [128, 15] makes isPart True
+[128, 15] (*) makes isPart True
 added 7 to array: [6, 7]
 added 4 to array: [6, 7, 4]
 adding 674
 
-
 added 4 to array: [4]
-* [130, 42] makes isPart True
+[130, 42] (*) makes isPart True
 added 4 to array: [4, 4]
-* [130, 42] makes isPart True
 added 7 to array: [4, 4, 7]
-* [130, 42] makes isPart True
 adding 447
-
 
 added 8 to array: [8]
 added 0 to array: [8, 0]
@@ -7589,600 +6030,472 @@ added 1 to array: [8, 0, 1]
 added 9 to array: [9]
 added 5 to array: [9, 5]
 added 7 to array: [9, 5, 7]
-* [130, 71] makes isPart True
+[130, 71] (*) makes isPart True
 adding 957
-
 
 added 1 to array: [1]
 added 1 to array: [1, 1]
 added 1 to array: [1, 1, 1]
-* [128, 110] makes isPart True
+[128, 110] (*) makes isPart True
 adding 111
 
-
 added 7 to array: [7]
-* [128, 115] makes isPart True
+[128, 115] (*) makes isPart True
 added 6 to array: [7, 6]
 added 7 to array: [7, 6, 7]
 adding 767
 
-
 added 3 to array: [3]
-* [130, 121] makes isPart True
+[130, 121] (*) makes isPart True
 added 4 to array: [3, 4]
-* [130, 121] makes isPart True
 adding 34
-
 
 added 5 to array: [5]
 added 5 to array: [5, 5]
 added 6 to array: [5, 5, 6]
-* [128, 130] makes isPart True
+[128, 130] (*) makes isPart True
 adding 556
-
 
 added 5 to array: [5]
 added 6 to array: [5, 6]
-* [131, 4] makes isPart True
+[131, 4] (*) makes isPart True
 added 5 to array: [5, 6, 5]
-* [131, 4] makes isPart True
 adding 565
-
 
 added 6 to array: [6]
 added 4 to array: [6, 4]
-* [129, 8] makes isPart True
+[129, 8] (*) makes isPart True
 added 4 to array: [6, 4, 4]
-* [129, 8] makes isPart True
 adding 644
-
 
 added 1 to array: [1]
 added 8 to array: [1, 8]
-* [131, 25] makes isPart True
+[131, 25] (*) makes isPart True
 adding 18
 
-
 added 4 to array: [4]
-* [129, 30] makes isPart True
+[129, 30] (*) makes isPart True
 added 7 to array: [4, 7]
-* [129, 30] makes isPart True
 added 2 to array: [4, 7, 2]
 adding 472
 
-
 added 8 to array: [8]
-* [131, 46] makes isPart True
+[131, 46] (*) makes isPart True
 adding 8
-
 
 added 2 to array: [2]
 added 5 to array: [2, 5]
-- [131, 82] makes isPart True
+[131, 82] (-) makes isPart True
 added 8 to array: [2, 5, 8]
-- [131, 82] makes isPart True
 adding 258
 
-
 added 9 to array: [9]
-& [131, 92] makes isPart True
+[131, 92] (&) makes isPart True
 added 0 to array: [9, 0]
-& [131, 92] makes isPart True
 added 1 to array: [9, 0, 1]
-& [131, 92] makes isPart True
 adding 901
 
-
 added 2 to array: [2]
-* [131, 112] makes isPart True
+[131, 112] (*) makes isPart True
 added 9 to array: [2, 9]
-* [131, 112] makes isPart True
 added 6 to array: [2, 9, 6]
-* [131, 112] makes isPart True
 adding 296
-
 
 added 9 to array: [9]
 added 9 to array: [9, 9]
 added 5 to array: [9, 9, 5]
-= [131, 20] makes isPart True
+[131, 20] (=) makes isPart True
 adding 995
 
-
 added 6 to array: [6]
-* [130, 42] makes isPart True
+[130, 42] (*) makes isPart True
 added 4 to array: [6, 4]
-* [130, 42] makes isPart True
 added 9 to array: [6, 4, 9]
 adding 649
 
-
 added 1 to array: [1]
-$ [132, 51] makes isPart True
+[132, 51] ($) makes isPart True
 added 5 to array: [1, 5]
-$ [132, 51] makes isPart True
 added 1 to array: [1, 5, 1]
-$ [132, 51] makes isPart True
 adding 151
-
 
 added 4 to array: [4]
 added 3 to array: [4, 3]
 added 7 to array: [4, 3, 7]
-% [131, 65] makes isPart True
+[131, 65] (%) makes isPart True
 adding 437
-
 
 added 4 to array: [4]
 added 4 to array: [4, 4]
-* [130, 71] makes isPart True
+[130, 71] (*) makes isPart True
 added 5 to array: [4, 4, 5]
-* [130, 71] makes isPart True
 adding 445
-
 
 added 7 to array: [7]
 added 4 to array: [7, 4]
 added 7 to array: [7, 4, 7]
-+ [132, 76] makes isPart True
+[132, 76] (+) makes isPart True
 adding 747
 
-
 added 8 to array: [8]
-* [130, 121] makes isPart True
+[130, 121] (*) makes isPart True
 added 0 to array: [8, 0]
 added 0 to array: [8, 0, 0]
 adding 800
 
-
 added 3 to array: [3]
 added 5 to array: [3, 5]
 added 7 to array: [3, 5, 7]
-* [130, 132] makes isPart True
+[130, 132] (*) makes isPart True
 adding 357
 
-
 added 2 to array: [2]
-* [130, 132] makes isPart True
+[130, 132] (*) makes isPart True
 added 4 to array: [2, 4]
 added 0 to array: [2, 4, 0]
 adding 240
 
-
 added 4 to array: [4]
-* [131, 4] makes isPart True
+[131, 4] (*) makes isPart True
 added 7 to array: [4, 7]
-* [131, 4] makes isPart True
 added 6 to array: [4, 7, 6]
 adding 476
-
 
 added 4 to array: [4]
 added 9 to array: [4, 9]
 added 1 to array: [4, 9, 1]
-/ [132, 11] makes isPart True
+[132, 11] (/) makes isPart True
 adding 491
 
-
 added 9 to array: [9]
-= [133, 13] makes isPart True
+[133, 13] (=) makes isPart True
 added 3 to array: [9, 3]
-= [133, 13] makes isPart True
 added 1 to array: [9, 3, 1]
 adding 931
 
-
 added 1 to array: [1]
 added 2 to array: [1, 2]
-* [131, 25] makes isPart True
+[131, 25] (*) makes isPart True
 added 1 to array: [1, 2, 1]
-* [131, 25] makes isPart True
 adding 121
-
 
 added 7 to array: [7]
 added 3 to array: [7, 3]
 added 2 to array: [7, 3, 2]
-* [132, 31] makes isPart True
+[132, 31] (*) makes isPart True
 adding 732
 
-
 added 9 to array: [9]
-* [132, 31] makes isPart True
+[132, 31] (*) makes isPart True
 added 4 to array: [9, 4]
 added 0 to array: [9, 4, 0]
 adding 940
 
-
 added 6 to array: [6]
 added 8 to array: [6, 8]
 added 2 to array: [6, 8, 2]
-* [133, 40] makes isPart True
+[133, 40] (*) makes isPart True
 adding 682
 
-
 added 9 to array: [9]
-* [131, 46] makes isPart True
+[131, 46] (*) makes isPart True
 added 7 to array: [9, 7]
-* [131, 46] makes isPart True
 added 5 to array: [9, 7, 5]
 adding 975
-
 
 added 3 to array: [3]
 added 5 to array: [3, 5]
 added 8 to array: [3, 5, 8]
 added 3 to array: [3]
-# [131, 99] makes isPart True
+[131, 99] (#) makes isPart True
 added 6 to array: [3, 6]
-# [131, 99] makes isPart True
 added 3 to array: [3, 6, 3]
-# [131, 99] makes isPart True
 adding 363
 
-
 added 1 to array: [1]
-% [131, 106] makes isPart True
+[131, 106] (%) makes isPart True
 added 5 to array: [1, 5]
-% [131, 106] makes isPart True
 added 2 to array: [1, 5, 2]
-% [131, 106] makes isPart True
 adding 152
-
 
 added 2 to array: [2]
 added 6 to array: [2, 6]
 added 4 to array: [2, 6, 4]
-* [131, 112] makes isPart True
+[131, 112] (*) makes isPart True
 adding 264
-
 
 added 7 to array: [7]
 added 3 to array: [7, 3]
 added 0 to array: [7, 3, 0]
-* [133, 21] makes isPart True
+[133, 21] (*) makes isPart True
 adding 730
 
-
 added 5 to array: [5]
-* [133, 40] makes isPart True
+[133, 40] (*) makes isPart True
 added 8 to array: [5, 8]
 added 4 to array: [5, 8, 4]
 adding 584
 
-
 added 2 to array: [2]
 added 3 to array: [2, 3]
-* [132, 57] makes isPart True
+[132, 57] (*) makes isPart True
 added 4 to array: [2, 3, 4]
-* [132, 57] makes isPart True
 adding 234
-
 
 added 9 to array: [9]
 added 9 to array: [9, 9]
-& [134, 69] makes isPart True
+[134, 69] (&) makes isPart True
 added 6 to array: [9, 9, 6]
-& [134, 69] makes isPart True
 adding 996
-
 
 added 7 to array: [7]
 added 0 to array: [7, 0]
 added 1 to array: [7, 0, 1]
-/ [132, 96] makes isPart True
+[132, 96] (/) makes isPart True
 adding 701
 
-
 added 4 to array: [4]
-$ [132, 120] makes isPart True
+[132, 120] ($) makes isPart True
 added 9 to array: [4, 9]
-$ [132, 120] makes isPart True
 added 9 to array: [4, 9, 9]
 adding 499
-
 
 added 6 to array: [6]
 added 4 to array: [6, 4]
 added 9 to array: [6, 4, 9]
 added 6 to array: [6]
-* [133, 21] makes isPart True
+[133, 21] (*) makes isPart True
 added 7 to array: [6, 7]
 added 2 to array: [6, 7, 2]
 adding 672
 
-
 added 9 to array: [9]
-* [135, 62] makes isPart True
+[135, 62] (*) makes isPart True
 added 5 to array: [9, 5]
-* [135, 62] makes isPart True
 added 8 to array: [9, 5, 8]
-* [135, 62] makes isPart True
 adding 958
-
 
 added 9 to array: [9]
 added 8 to array: [9, 8]
 added 3 to array: [9, 8, 3]
 added 6 to array: [6]
-* [133, 87] makes isPart True
+[133, 87] (*) makes isPart True
 added 7 to array: [6, 7]
-* [133, 87] makes isPart True
 added 3 to array: [6, 7, 3]
 adding 673
 
-
 added 2 to array: [2]
-* [135, 99] makes isPart True
+[135, 99] (*) makes isPart True
 added 3 to array: [2, 3]
-* [135, 99] makes isPart True
 added 3 to array: [2, 3, 3]
-* [135, 99] makes isPart True
 adding 233
 
-
 added 9 to array: [9]
-@ [134, 102] makes isPart True
+[134, 102] (@) makes isPart True
 added 8 to array: [9, 8]
 added 1 to array: [9, 8, 1]
 adding 981
 
-
 added 7 to array: [7]
-* [135, 113] makes isPart True
+[135, 113] (*) makes isPart True
 added 6 to array: [7, 6]
 added 0 to array: [7, 6, 0]
 adding 760
 
-
 added 9 to array: [9]
 added 4 to array: [9, 4]
-# [136, 4] makes isPart True
+[136, 4] (#) makes isPart True
 added 2 to array: [9, 4, 2]
-# [136, 4] makes isPart True
 adding 942
-
 
 added 9 to array: [9]
 added 9 to array: [9, 9]
 added 3 to array: [9, 9, 3]
-@ [135, 9] makes isPart True
+[135, 9] (@) makes isPart True
 adding 993
 
-
 added 2 to array: [2]
-$ [136, 16] makes isPart True
+[136, 16] ($) makes isPart True
 added 9 to array: [2, 9]
-$ [136, 16] makes isPart True
 added 3 to array: [2, 9, 3]
 adding 293
 
-
 added 9 to array: [9]
-@ [134, 31] makes isPart True
+[134, 31] (@) makes isPart True
 added 3 to array: [9, 3]
-@ [134, 31] makes isPart True
 added 9 to array: [9, 3, 9]
-@ [134, 31] makes isPart True
 adding 939
 
-
 added 8 to array: [8]
-# [136, 50] makes isPart True
+[136, 50] (#) makes isPart True
 added 6 to array: [8, 6]
-# [136, 50] makes isPart True
 added 7 to array: [8, 6, 7]
 adding 867
 
-
 added 9 to array: [9]
-* [136, 55] makes isPart True
+[136, 55] (*) makes isPart True
 added 2 to array: [9, 2]
-* [136, 55] makes isPart True
 adding 92
 
-
 added 6 to array: [6]
-+ [134, 71] makes isPart True
+[134, 71] (+) makes isPart True
 added 7 to array: [6, 7]
-+ [134, 71] makes isPart True
 added 9 to array: [6, 7, 9]
 adding 679
-
 
 added 2 to array: [2]
 added 7 to array: [2, 7]
 added 9 to array: [9]
 added 9 to array: [9, 9]
 added 8 to array: [9, 9, 8]
-/ [136, 129] makes isPart True
+[136, 129] (/) makes isPart True
 adding 998
-
 
 added 2 to array: [2]
 added 3 to array: [2, 3]
 added 0 to array: [2, 3, 0]
 added 3 to array: [3]
-& [135, 35] makes isPart True
+[135, 35] (&) makes isPart True
 added 6 to array: [3, 6]
 adding 36
 
-
 added 2 to array: [2]
-@ [135, 40] makes isPart True
+[135, 40] (@) makes isPart True
 added 4 to array: [2, 4]
-@ [135, 40] makes isPart True
 adding 24
 
-
 added 8 to array: [8]
-- [137, 44] makes isPart True
+[137, 44] (-) makes isPart True
 added 0 to array: [8, 0]
 added 9 to array: [8, 0, 9]
 adding 809
 
-
 added 6 to array: [6]
 added 6 to array: [6, 6]
 added 0 to array: [6, 6, 0]
-* [135, 62] makes isPart True
+[135, 62] (*) makes isPart True
 adding 660
-
 
 added 7 to array: [7]
 added 4 to array: [7, 4]
 added 8 to array: [7, 4, 8]
 added 1 to array: [1]
-* [137, 81] makes isPart True
+[137, 81] (*) makes isPart True
 added 9 to array: [1, 9]
-* [137, 81] makes isPart True
 added 9 to array: [1, 9, 9]
-* [137, 81] makes isPart True
 adding 199
 
-
 added 7 to array: [7]
-* [135, 99] makes isPart True
+[135, 99] (*) makes isPart True
 added 1 to array: [7, 1]
-* [135, 99] makes isPart True
 added 7 to array: [7, 1, 7]
-* [135, 99] makes isPart True
 adding 717
 
-
 added 9 to array: [9]
-* [137, 6] makes isPart True
+[137, 6] (*) makes isPart True
 added 5 to array: [9, 5]
 adding 95
-
 
 added 6 to array: [6]
 added 4 to array: [6, 4]
 added 7 to array: [6, 4, 7]
-* [138, 26] makes isPart True
+[138, 26] (*) makes isPart True
 adding 647
 
-
 added 4 to array: [4]
-* [136, 55] makes isPart True
+[136, 55] (*) makes isPart True
 added 6 to array: [4, 6]
-* [136, 55] makes isPart True
 added 1 to array: [4, 6, 1]
-* [136, 55] makes isPart True
 adding 461
 
-
 added 7 to array: [7]
-$ [136, 67] makes isPart True
+[136, 67] ($) makes isPart True
 added 5 to array: [7, 5]
-$ [136, 67] makes isPart True
 added 7 to array: [7, 5, 7]
 adding 757
 
-
 added 6 to array: [6]
-- [136, 84] makes isPart True
+[136, 84] (-) makes isPart True
 added 8 to array: [6, 8]
 adding 68
 
-
 added 7 to array: [7]
 added 2 to array: [7, 2]
-@ [136, 104] makes isPart True
+[136, 104] (@) makes isPart True
 added 8 to array: [7, 2, 8]
-@ [136, 104] makes isPart True
 adding 728
-
 
 added 2 to array: [2]
 added 1 to array: [2, 1]
 added 0 to array: [2, 1, 0]
-* [137, 110] makes isPart True
+[137, 110] (*) makes isPart True
 adding 210
 
-
 added 6 to array: [6]
-* [137, 110] makes isPart True
+[137, 110] (*) makes isPart True
 added 8 to array: [6, 8]
 added 0 to array: [6, 8, 0]
 adding 680
 
-
 added 7 to array: [7]
-* [138, 115] makes isPart True
+[138, 115] (*) makes isPart True
 added 0 to array: [7, 0]
 added 8 to array: [7, 0, 8]
 adding 708
 
-
 added 2 to array: [2]
 added 4 to array: [2, 4]
-* [138, 133] makes isPart True
+[138, 133] (*) makes isPart True
 added 6 to array: [2, 4, 6]
-* [138, 133] makes isPart True
 adding 246
-
 
 added 3 to array: [3]
 added 5 to array: [3, 5]
 added 5 to array: [3, 5, 5]
-* [137, 6] makes isPart True
+[137, 6] (*) makes isPart True
 adding 355
 
-
 added 5 to array: [5]
-$ [137, 29] makes isPart True
+[137, 29] ($) makes isPart True
 added 3 to array: [5, 3]
-$ [137, 29] makes isPart True
 added 8 to array: [5, 3, 8]
-$ [137, 29] makes isPart True
 adding 538
 
-
 added 9 to array: [9]
-* [137, 81] makes isPart True
+[137, 81] (*) makes isPart True
 added 7 to array: [9, 7]
-* [137, 81] makes isPart True
 added 7 to array: [9, 7, 7]
 adding 977
-
 
 added 2 to array: [2]
 added 0 to array: [2, 0]
 added 9 to array: [2, 0, 9]
-* [138, 91] makes isPart True
+[138, 91] (*) makes isPart True
 adding 209
 
-
 added 1 to array: [1]
-$ [137, 125] makes isPart True
+[137, 125] ($) makes isPart True
 added 4 to array: [1, 4]
-$ [137, 125] makes isPart True
 added 1 to array: [1, 4, 1]
 adding 141
 
-
 added 6 to array: [6]
-* [138, 15] makes isPart True
+[138, 15] (*) makes isPart True
 added 8 to array: [6, 8]
-* [138, 15] makes isPart True
 added 0 to array: [6, 8, 0]
 adding 680
-
 
 added 6 to array: [6]
 added 7 to array: [6, 7]
 added 0 to array: [6, 7, 0]
-* [138, 26] makes isPart True
+[138, 26] (*) makes isPart True
 adding 670
 
-
 added 7 to array: [7]
-% [138, 34] makes isPart True
+[138, 34] (%) makes isPart True
 added 8 to array: [7, 8]
 added 4 to array: [7, 8, 4]
 adding 784
-
 
 added 1 to array: [1]
 added 7 to array: [1, 7]
@@ -8192,36 +6505,29 @@ added 9 to array: [7, 9]
 added 9 to array: [7, 9, 9]
 added 3 to array: [3]
 added 1 to array: [3, 1]
-- [138, 65] makes isPart True
+[138, 65] (-) makes isPart True
 added 7 to array: [3, 1, 7]
-- [138, 65] makes isPart True
 adding 317
 
-
 added 8 to array: [8]
-* [138, 91] makes isPart True
+[138, 91] (*) makes isPart True
 added 4 to array: [8, 4]
 added 4 to array: [8, 4, 4]
 adding 844
-
 
 added 1 to array: [1]
 added 6 to array: [1, 6]
 added 6 to array: [1, 6, 6]
 added 2 to array: [2]
-* [138, 115] makes isPart True
+[138, 115] (*) makes isPart True
 added 8 to array: [2, 8]
-* [138, 115] makes isPart True
 added 9 to array: [2, 8, 9]
-* [138, 115] makes isPart True
 adding 289
 
-
 added 4 to array: [4]
-* [138, 133] makes isPart True
+[138, 133] (*) makes isPart True
 added 6 to array: [4, 6]
 added 3 to array: [4, 6, 3]
 adding 463
 
-
-527494
+527364

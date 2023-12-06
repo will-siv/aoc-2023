@@ -6,6 +6,7 @@ def numFromArray(a):
     num += a.pop(-1) * mult
     mult *= 10
 
+  print(f"adding {num}\n")
   return num
 
 grid = []
@@ -15,6 +16,8 @@ with open("data.txt", 'r') as r:
 
 length = len(grid[0])
 height = len(grid)
+
+# print(length, height)
 
 s = 0
 for i in range(height):
@@ -31,7 +34,10 @@ for i in range(height):
       numArray = []
       continue
     numArray.append(char)
+    print(f"added {char} to array: {numArray}")
     # check surrounded
+    if isPart:
+      continue
     for k in range(9):
       try:
         i_off = k//3 - 1 + i
@@ -41,7 +47,8 @@ for i in range(height):
         continue
       if i_off < 0 or j_off < 0:
         continue
-      if not ('.' == test or test.isnumeric()):
+      if not ('.' == test or '\n' == test or test.isnumeric()): 
+        print(f"[{i_off}, {j_off}] ({test}) makes isPart True")
         isPart = True
         break
 
