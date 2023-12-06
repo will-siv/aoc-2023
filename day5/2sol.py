@@ -38,6 +38,8 @@ def numCalc(r):
   print(f"starting calcs from {r.start} to {r.stop}")
   minNum = ''
   for num in r:
+    if num%100000==0:
+      print(num)
     print(num)
     for _map in maps:
       closeMap = _map[0]
