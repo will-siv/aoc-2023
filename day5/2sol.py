@@ -40,7 +40,6 @@ def numCalc(r):
   for num in r:
     if num%100000==0:
       print(num)
-    print(num)
     for _map in maps:
       closeMap = _map[0]
       for dst, src, _range in _map:
