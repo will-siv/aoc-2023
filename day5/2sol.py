@@ -62,7 +62,7 @@ def numCalc(r):
       with result {minNum}")
   mins.append(minNum)
 
-for i, rs in seedRanges:
+for rs in seedRanges:
   r = range(rs[0], rs[0] + rs[1])
   numCalc(r)
 
