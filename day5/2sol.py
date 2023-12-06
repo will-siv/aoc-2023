@@ -64,7 +64,7 @@ def numCalc(r):
 threads = []
 
 for i, rs in enumerate(seedRanges):
-  r = range(rs[0], rs[1])
+  r = range(rs[0], rs[0] + rs[1])
   name = f"t{i}"
   threads.append(threading.Thread(target=numCalc, args=(r,), name=name))
 
